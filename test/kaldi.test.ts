@@ -1,10 +1,15 @@
-import { scraping } from "../src/script/kaldi";
+import { scraping, selectSales } from "../src/kaldi/scraping";
+import { testSales, testSelectedSales } from "./data";
 
 jest.setTimeout(60000);
 
-describe("selenium", () => {
-  it("test", async () => {
-    const saleDates = await scraping();
-    expect(saleDates[0]).toBe("2022年7月28日(木) ～ 2022年8月3日(水)");
+describe("kaldi", () => {
+  it("scraping", async () => {
+    const sales = await scraping();
+    expect(sales.length).toBeGreaterThan(0);
+  });
+  it("selectSales", async () => {
+    const selectedSales = selectSales(testSales, "東京");
+    expect(selectedSales).toStrictEqual(testSelectedSales);
   });
 });

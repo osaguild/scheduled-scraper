@@ -1,20 +1,17 @@
-import { Builder, By, Capabilities } from "selenium-webdriver";
-import { ServiceBuilder } from "selenium-webdriver/chrome";
+import { Builder, By } from "selenium-webdriver";
+import chrome from "selenium-webdriver/chrome";
 
 export const scraping = async () => {
-  const capabilities = Capabilities.chrome().set("chromeOptions", {
-    args: [
-      "--headless",
-      "--no-sandbox",
-      "--disable-gpu",
-      `--window-size=1980,1200`,
-    ],
-  });
+  const options = new chrome.Options().addArguments(
+    "--headless",
+    "--no-sandbox",
+    "--disable-gpu"
+  );
 
   const driver = new Builder()
     .forBrowser("chrome")
-    .withCapabilities(capabilities)
-    .setChromeService(new ServiceBuilder("./drivers/v103/linux.exe"))
+    .setChromeOptions(options)
+    .setChromeService(new chrome.ServiceBuilder("./drivers/v103/mac_m1.exe"))
     .build();
 
   await driver.get(

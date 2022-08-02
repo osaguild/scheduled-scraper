@@ -12,6 +12,7 @@ export const sendMessage = async (message: string) => {
       },
     ],
   };
+  console.log(req);
 
   const config: AxiosRequestConfig = {
     headers: {
@@ -20,6 +21,7 @@ export const sendMessage = async (message: string) => {
       "X-Line-Retry-Key": uuidv4(),
     },
   };
+  console.log(config);
 
   const res = await axios.post(
     "https://api.line.me/v2/bot/message/broadcast",

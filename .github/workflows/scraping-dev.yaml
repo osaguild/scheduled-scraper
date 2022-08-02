@@ -20,11 +20,5 @@ jobs:
         run: |
           sudo apt update
           yarn
-      - name: install chrome
-        uses: browser-actions/setup-chromium@latest
-        with: 
-          chrome-version: stable
-      - name: chrome version
-        run: chrome --version
       - name: run script
         run: yarn run-kaldi

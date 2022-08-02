@@ -39,3 +39,8 @@ export const createMessage = (sales: Sale[]) => {
     })
     .join("\n");
 };
+
+export const sampleHttp = async () => {
+  const res = await axios.get("https://google.com");
+  return res.status;
+};

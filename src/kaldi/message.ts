@@ -29,7 +29,7 @@ export const sendMessage = async (message: string) => {
     config
   );
 
-  console.log("status :", res.status);
+  return res.status;
 };
 
 export const createMessage = (sales: Sale[]) => {

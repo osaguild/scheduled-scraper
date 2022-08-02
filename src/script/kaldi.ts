@@ -11,7 +11,7 @@ export const scraping = async () => {
   const driver = new Builder()
     .forBrowser("chrome")
     .setChromeOptions(options)
-    .setChromeService(new chrome.ServiceBuilder("./drivers/v103/linux.exe"))
+    .setChromeService(new chrome.ServiceBuilder("./node_modules/chromedriver/lib/chromedriver/chromedriver"))
     .build();
 
   await driver.get(

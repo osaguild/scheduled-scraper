@@ -1,0 +1,24 @@
+name: scraping
+on:
+  workflow_dispatch:
+jobs:
+  scraping:
+    runs-on: ubuntu-latest
+    environment:
+      name: dev
+    strategy:
+      matrix:
+        node-version: [16.x]
+    steps:
+      - name: set up node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: check out
+        uses: actions/checkout@v2
+      - name: install package
+        run: |
+          sudo apt update
+          yarn
+      - name: run script
+        run: yarn run-kaldi

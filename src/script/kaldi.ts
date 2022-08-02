@@ -1,8 +1,9 @@
 import { scraping, selectSales } from "../kaldi/scraping";
+import { sendMessage, createMessage } from "../kaldi/message";
 
 (async () => {
   const sales = await scraping();
-  console.log(sales)
   const selectedSales = selectSales(sales, "東京");
-  console.log(selectedSales);
+  const message = createMessage(selectedSales);
+  await sendMessage(message);
 })();

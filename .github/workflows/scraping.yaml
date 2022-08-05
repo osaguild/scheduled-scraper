@@ -10,6 +10,11 @@ jobs:
       matrix:
         node-version: [16.x]
     steps:
+      - name: install chrome
+        run: |
+          sudo apt update
+          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt install ./google-chrome-stable_current_amd64.deb
       - name: set up node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2
         with:
@@ -21,10 +26,6 @@ jobs:
           sudo apt update
           npx npm-check-updates chromedriver -u
           yarn
-      - name: install chrome
-        run: |
-          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo apt install ./google-chrome-stable_current_amd64.deb
       - name: run script
         run: yarn run-kaldi
       - name: create a pull request

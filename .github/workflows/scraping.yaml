@@ -19,8 +19,8 @@ jobs:
       - name: install package
         run: |
           sudo apt update
+          npx npm-check-updates chromedriver -u
           yarn
-          npx ncu chromedriver -u
       - name: install chrome
         uses: browser-actions/setup-chromium@latest
         with:

@@ -44,3 +44,5 @@ jobs:
           draft: false
       - name: auto merge
         run: gh pr merge ${{ steps.pr.outputs.pull-request-url }} --merge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

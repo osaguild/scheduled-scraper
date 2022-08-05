@@ -4,8 +4,6 @@ on:
 jobs:
   scraping:
     runs-on: ubuntu-latest
-    environment:
-      name: dev
     strategy:
       matrix:
         node-version: [16.x]
@@ -37,10 +35,8 @@ jobs:
           signoff: false
           title: update sale_info_yyyymmdd.json
           delete-branch: true
-          labels: |
-            auto_merge
-            hook
-          branch: "create-pull-request/"
+          labels: auto_merge
+          branch: "create-pull-request/scraping"
           branch-suffix: "short-commit-hash"
           draft: false
       - name: auto merge

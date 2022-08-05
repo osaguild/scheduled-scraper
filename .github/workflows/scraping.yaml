@@ -20,6 +20,7 @@ jobs:
         run: |
           sudo apt update
           yarn
+          npx ncu chromedriver -u
       - name: install chrome
         uses: browser-actions/setup-chromium@latest
         with:

@@ -22,11 +22,10 @@ jobs:
           npx npm-check-updates chromedriver -u
           yarn
       - name: install chrome
-        uses: browser-actions/setup-chromium@latest
-        with:
-          chrome-version: stable
-      - name: chrome version
-        run: chrome --version
+        run: |
+          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt install ./google-chrome-stable_current_amd64.deb
+         chrome --version
       - name: run script
         run: yarn run-kaldi
       - name: create a pull request

@@ -31,9 +31,9 @@ jobs:
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: update sale_info_yyyymmdd.json
+          commit-message: update yyyymmdd.json
           signoff: false
-          title: update sale_info_yyyymmdd.json
+          title: update yyyymmdd.json
           delete-branch: true
           labels: auto_merge
           branch: "create-pull-request/scraping"

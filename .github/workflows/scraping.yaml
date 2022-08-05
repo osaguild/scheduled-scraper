@@ -22,9 +22,20 @@ jobs:
           yarn
       - name: install chrome
         uses: browser-actions/setup-chromium@latest
-        with: 
+        with:
           chrome-version: stable
       - name: chrome version
         run: chrome --version
       - name: run script
         run: yarn run-kaldi
+      - name: create a pull request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: update sale_info_yyyymmdd.json
+          title: update sale_info_yyyymmdd.json
+          labels: |
+            auto_merge
+            hook
+          delete-branch: true
+          branch-suffix: "timestamp"

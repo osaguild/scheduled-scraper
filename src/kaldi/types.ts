@@ -6,11 +6,3 @@ export interface Sale {
   salePeriod: string;
   saleDetail: string;
 }
-
-export interface Request {
-  messages: Message[];
-}
-export interface Message {
-  type: string;
-  text: string;
-}

@@ -1,17 +1,15 @@
-import { scraping, selectSales } from "../kaldi/scraping";
-import { sendMessage, createMessage, sampleHttp } from "../kaldi/message";
-import { testSales } from "../../test/data";
+import { scraping } from "../kaldi/scraping";
+import { getNowDate } from "../utils";
+import fs from "fs";
 
 (async () => {
-  /*
   const sales = await scraping();
-  const selectedSales = selectSales(sales, "東京");
-  const message = createMessage(selectedSales);
-  */
-  /*
-  const message = createMessage(testSales);
-  const status = await sendMessage(message);
-  */
-  const status = await sampleHttp();
-  console.log("status :", status);
+  const filePath = `./data/kaldi/sale_info_${getNowDate()}.json`;
+  fs.writeFile(filePath, JSON.stringify(sales, null, 2), (e) => {
+    if (e) {
+      console.log("[failed]file is not created.");
+      throw e;
+    }
+    console.log(`[success]file is created. path: ${filePath}`);
+  });
 })();

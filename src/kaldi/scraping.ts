@@ -65,14 +65,3 @@ export const scraping = async () => {
 
   return sales;
 };
-
-/**
- * select sale information on the specified prefecture.
- */
-export const selectSales = (sales: Sale[], prefecture: string) => {
-  return sales
-    .map((e, i) => {
-      if (e.shopAddress.includes(prefecture)) return e;
-    })
-    .filter((e): e is Exclude<typeof e, undefined> => e !== undefined);
-};

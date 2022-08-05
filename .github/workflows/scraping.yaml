@@ -38,4 +38,4 @@ jobs:
             auto_merge
             hook
           delete-branch: true
-          branch-suffix: "timestamp"
+          branch-suffix: "short-commit-hash"

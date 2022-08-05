@@ -29,13 +29,19 @@ jobs:
       - name: run script
         run: yarn run-kaldi
       - name: create a pull request
+        id: pr
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: update sale_info_yyyymmdd.json
+          signoff: false
           title: update sale_info_yyyymmdd.json
+          delete-branch: true
           labels: |
             auto_merge
             hook
-          delete-branch: true
+          branch: "create-pull-request/"
           branch-suffix: "short-commit-hash"
+          draft: false
+      - name: auto merge
+        run: gh pr merge ${{ steps.pr.outputs.pull-request-url }} --merge

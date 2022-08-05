@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "test": "jest",
-    "run-kaldi": "./node_modules/.bin/ts-node src/script/kaldi.ts"
+    "run-kaldi": "npx ts-node src/script/kaldi"
   },
   "devDependencies": {
     "@types/jest": "^28.1.6",

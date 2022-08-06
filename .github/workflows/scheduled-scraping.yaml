@@ -1,4 +1,4 @@
-name: scraping test
+name: scheduled scraping
 on:
   schedule:
     - cron: '35 * * * *'

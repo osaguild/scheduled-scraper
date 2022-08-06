@@ -1,4 +1,4 @@
-name: scraping
+name: scraping prd
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -21,6 +21,8 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - name: check out
         uses: actions/checkout@v2
+        with:
+          ref: main
       - name: install package
         run: |
           sudo apt update

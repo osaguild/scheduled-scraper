@@ -1,4 +1,4 @@
-name: scraping prd
+name: scraping dev
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -22,7 +22,7 @@ jobs:
       - name: check out
         uses: actions/checkout@v2
         with:
-          ref: main
+          ref: develop
       - name: install package
         run: |
           sudo apt update

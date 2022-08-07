@@ -26,7 +26,7 @@ export const scraping = async () => {
     const _table = await driver.findElement(By.css(".cz_sp_table"));
     const _tbody = await _table.findElement(By.css("tbody"));
     const _trs = await _tbody.findElements(By.css("tr"));
-    const promises = _trs.map(async (e, i) => {
+    const promises = _trs.map(async (e) => {
       const _td1 = await e.findElement(By.css("[itemprop='name']"));
       const shopName = await _td1.findElement(By.css("a")).getText();
       const activeSale = await e.findElement(By.css("span")).getText();

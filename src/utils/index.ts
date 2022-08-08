@@ -18,3 +18,9 @@ export const writeFile = (filePath: string, data: object) => {
     console.log(`[success]file is created. path: ${filePath}`);
   });
 };
+
+export const formatArea = (area: string) => {
+  // （30.00m2） -> 30.00m²
+  const _area = area.slice(1).slice(0, -2).concat("²");
+  return _area;
+};

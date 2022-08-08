@@ -30,14 +30,16 @@ jobs:
           yarn
       - name: run script
         run: yarn run-kaldi
+      - name: run script
+        run: yarn run-shamaison
       - name: create a pull request
         id: pr
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: update yyyymmdd.json
+          commit-message: update scraping data
           signoff: false
-          title: update yyyymmdd.json
+          title: update scraping data
           delete-branch: true
           labels: auto_merge
           branch: "create-pull-request/scraping"

@@ -30,8 +30,6 @@ jobs:
           yarn
       - name: run script
         run: yarn run-kaldi
-      - name: run script
-        run: yarn run-shamaison
       - name: create a pull request
         id: pr
         uses: peter-evans/create-pull-request@v3

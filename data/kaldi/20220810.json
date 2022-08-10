@@ -1,0 +1,290 @@
+[
+  {
+    "activeSale": "開催中",
+    "shopName": "ペリエ西船橋店",
+    "shopAddress": "千葉県船橋市西船4-27-7　ペリエ西船橋 2F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月4日(木) ～ 2022年8月10日(水)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "浜田山店",
+    "shopAddress": "東京都杉並区浜田山3-34-27",
+    "saleName": "12周年記念セール",
+    "salePeriod": "2022年8月4日(木) ～ 2022年8月10日(水)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "イオンモール鈴鹿店",
+    "shopAddress": "三重県鈴鹿市庄野羽山4-1-2　イオンモール鈴鹿 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月4日(木) ～ 2022年8月10日(水)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "木の葉モール橋本店",
+    "shopAddress": "福岡県福岡市西区橋本2-27-2　木の葉モール橋本 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月4日(木) ～ 2022年8月10日(水)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "京都ザ・キューブ店",
+    "shopAddress": "京都府京都市下京区烏丸通塩小路下ル東塩小路町901　京都駅ビル B2F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月4日(木) ～ 2022年8月10日(水)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "みのおキューズモール店",
+    "shopAddress": "大阪府箕面市西宿1-15-30　みのおキューズモール CENTER- 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月5日(金) ～ 2022年8月11日(木)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "鳳店",
+    "shopAddress": "大阪府堺市西区鳳南町3-199-12　アリオ鳳 アリオモール 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月5日(金) ～ 2022年8月11日(木)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "イオンモール木曽川店",
+    "shopAddress": "愛知県一宮市木曽川町黒田字南八ツヶ池25-1　イオンモール木曽川 1F",
+    "saleName": "12周年記念セール",
+    "salePeriod": "2022年8月5日(金) ～ 2022年8月11日(木)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "泉中央店",
+    "shopAddress": "宮城県仙台市泉区泉中央1-4-1　セルバ 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月6日(土) ～ 2022年8月12日(金)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "アリオ上田店",
+    "shopAddress": "長野県上田市天神3-5-1　アリオ上田 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月6日(土) ～ 2022年8月12日(金)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "テラスウォーク一宮店",
+    "shopAddress": "愛知県一宮市両郷町1-2　テラスウォーク一宮 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月9日(火) ～ 2022年8月15日(月)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "イオンモール多摩平の森店",
+    "shopAddress": "東京都日野市多摩平2-4-1　イオンモール多摩平の森 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月9日(火) ～ 2022年8月15日(月)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "アクアウォーク大垣店",
+    "shopAddress": "岐阜県大垣市林町6-80-21-111　アクアウォーク大垣 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月9日(火) ～ 2022年8月15日(月)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "西武東戸塚S.C.店",
+    "shopAddress": "神奈川県横浜市戸塚区品濃町 537-1　西武東戸塚S.C. 7F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月9日(火) ～ 2022年8月15日(月)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "開催中",
+    "shopName": "ゆめタウン光の森店",
+    "shopAddress": "熊本県菊池郡菊陽町光の森7-33-1　ゆめタウン光の森 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月9日(火) ～ 2022年8月15日(月)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "ららぽーと立川立飛店",
+    "shopAddress": "東京都立川市泉町935-1　ららぽーと立川立飛 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月10日(水) ～ 2022年8月16日(火)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "スマーク伊勢崎店",
+    "shopAddress": "群馬県伊勢崎市西小保方町368番地　スマーク伊勢崎 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月11日(木) ～ 2022年8月17日(水)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "イオンスタイル仙台卸町店",
+    "shopAddress": "宮城県仙台市若林区卸町1-1-1　イオンスタイル仙台卸町 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月11日(木) ～ 2022年8月17日(水)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "大曲店",
+    "shopAddress": "秋田県大仙市和合字坪立177　イオンモール大曲 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月11日(木) ～ 2022年8月17日(水)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "豊橋店",
+    "shopAddress": "愛知県豊橋市駅前大通1-135　ココラアベニュー 2F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月11日(木) ～ 2022年8月17日(水)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "イオンモール座間店",
+    "shopAddress": "神奈川県座間市広野台2-10-4　イオンモール座間 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月12日(金) ～ 2022年8月18日(木)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "高槻店【8/21（日）閉店】",
+    "shopAddress": "大阪府高槻市芥川町1-10-3　SHODA BLDG 1F",
+    "saleName": "閉店セール",
+    "salePeriod": "2022年8月15日(月) ～ 2022年8月21日(日)",
+    "saleDetail": "商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "ゆめタウン徳島店",
+    "shopAddress": "徳島県板野郡藍住町奥野字東中須88-1　ゆめタウン徳島 1Ｆ",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月15日(月) ～ 2022年8月21日(日)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "tonarie南千里店",
+    "shopAddress": "大阪府吹田市津雲台1-1-30　tonarie 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月15日(月) ～ 2022年8月21日(日)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "イオン千歳店",
+    "shopAddress": "北海道千歳市栄町6-51 　イオン千歳 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月15日(月) ～ 2022年8月21日(日)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "西神中央プレンティ店",
+    "shopAddress": "兵庫県神戸市西区糀台5-2-3　プレンティ 一番館 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月15日(月) ～ 2022年8月21日(日)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "イオン北見店",
+    "shopAddress": "北海道北見市北進町1-1-1　イオン北見 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月15日(月) ～ 2022年8月21日(日)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "銚子店",
+    "shopAddress": "千葉県銚子市三崎町2-2660-1　イオンモール銚子 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月15日(月) ～ 2022年8月21日(日)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "五所川原店【8/22～10/20 一時休業】",
+    "shopAddress": "青森県五所川原市大字唐笠柳字藤巻517-1　ELM 1F",
+    "saleName": "売りつくしセール",
+    "salePeriod": "2022年8月15日(月) ～ 2022年8月21日(日)",
+    "saleDetail": "商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "イオンモール福岡伊都店",
+    "shopAddress": "福岡県福岡市西区北原1-2-1　イオンモール福岡伊都 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月15日(月) ～ 2022年8月21日(日)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "イオンモール福岡店",
+    "shopAddress": "福岡県糟屋郡粕屋町大字酒殿字老ノ木192-1　イオンモール福岡 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月15日(月) ～ 2022年8月21日(日)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "イオンタウン千種店",
+    "shopAddress": "愛知県名古屋市千種区千種2-16-13　イオンタウン千種 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月16日(火) ～ 2022年8月22日(月)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "西新井店",
+    "shopAddress": "東京都足立区西新井栄町1-20-1　アリオ西新井 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月16日(火) ～ 2022年8月22日(月)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "札幌桑園店",
+    "shopAddress": "北海道札幌市中央区北8条西14-28　イオン札幌桑園SC 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月16日(火) ～ 2022年8月22日(月)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "イオンモール長久手店",
+    "shopAddress": "愛知県長久手市勝入塚501番地　イオンモール長久手 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月16日(火) ～ 2022年8月22日(月)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  },
+  {
+    "activeSale": "予告",
+    "shopName": "西荻窪店",
+    "shopAddress": "東京都杉並区西荻北3-20-1　NKスクエア 1F",
+    "saleName": "お客様感謝セール",
+    "salePeriod": "2022年8月16日(火) ～ 2022年8月22日(月)",
+    "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+  }
+]

@@ -30,9 +30,9 @@ jobs:
           sudo apt update
           npx npm-check-updates chromedriver -u
           yarn
-      - name: run script
+      - name: run kaldi script
         run: yarn run-kaldi
-      - name: run script
+      - name: run shamaison script
         run: yarn run-shamaison
         env:
           SHAMAISON_STATION: ${{ secrets.SHAMAISON_STATION }}

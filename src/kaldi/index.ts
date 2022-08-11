@@ -1,32 +1,14 @@
-import { Builder, By } from "selenium-webdriver";
-import chrome from "selenium-webdriver/chrome";
+import { By } from "selenium-webdriver";
 import { Sale } from "./types";
+import { driver } from "../common/driver";
 
-/**
- * run scraping browser using selenium and get sale information from kaldi.
- */
+// run scraping browser using selenium and get sale information from kaldi.
 export const scraping = async () => {
-  const options = new chrome.Options().addArguments(
-    "--headless",
-    "--no-sandbox",
-    "--disable-gpu"
-  );
-
-  const driver = new Builder()
-    .forBrowser("chrome")
-    .setChromeOptions(options)
-    .setChromeService(
-      new chrome.ServiceBuilder(
-        "./node_modules/chromedriver/lib/chromedriver/chromedriver"
-      )
-    )
-    .build();
-
   const getSales = async () => {
     const _table = await driver.findElement(By.css(".cz_sp_table"));
     const _tbody = await _table.findElement(By.css("tbody"));
     const _trs = await _tbody.findElements(By.css("tr"));
-    const promises = _trs.map(async (e, i) => {
+    const promises = _trs.map(async (e) => {
       const _td1 = await e.findElement(By.css("[itemprop='name']"));
       const shopName = await _td1.findElement(By.css("a")).getText();
       const activeSale = await e.findElement(By.css("span")).getText();
@@ -55,7 +37,7 @@ export const scraping = async () => {
   );
 
   // wait until the page is loaded.
-  await new Promise((resolve) => setTimeout(resolve, 3000));
+  await new Promise((resolve) => setTimeout(resolve, 2000));
 
   // get sale information at now
   const sales = await getSales();

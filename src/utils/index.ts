@@ -1,3 +1,5 @@
+import fs from "fs";
+
 // timezone is UTC
 export const getNowDate = () => {
   const now = new Date();
@@ -5,4 +7,20 @@ export const getNowDate = () => {
   const m = ("00" + (now.getMonth() + 1)).slice(-2);
   const d = ("00" + now.getDate()).slice(-2);
   return y + m + d;
+};
+
+export const writeFile = (filePath: string, data: object) => {
+  fs.writeFile(filePath, JSON.stringify(data, null, 2), (e) => {
+    if (e) {
+      console.log("[failed]file is not created.");
+      throw e;
+    }
+    console.log(`[success]file is created. path: ${filePath}`);
+  });
+};
+
+export const formatArea = (area: string) => {
+  // （30.00m2） -> 30.00m²
+  const _area = area.slice(1).slice(0, -2).concat("²");
+  return _area;
 };

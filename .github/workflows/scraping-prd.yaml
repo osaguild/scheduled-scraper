@@ -6,6 +6,8 @@ on:
 jobs:
   scraping:
     runs-on: ubuntu-latest
+    environment:
+      name: prd
     strategy:
       matrix:
         node-version: [16.x]
@@ -28,16 +30,20 @@ jobs:
           sudo apt update
           npx npm-check-updates chromedriver -u
           yarn
-      - name: run script
+      - name: run kaldi script
         run: yarn run-kaldi
+      - name: run shamaison script
+        run: yarn run-shamaison
+        env:
+          SHAMAISON_STATION: ${{ secrets.SHAMAISON_STATION }}
       - name: create a pull request
         id: pr
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: update yyyymmdd.json
+          commit-message: update scraping data
           signoff: false
-          title: update yyyymmdd.json
+          title: update scraping data
           delete-branch: true
           labels: auto_merge
           branch: "create-pull-request/scraping"

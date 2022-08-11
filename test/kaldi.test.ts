@@ -1,4 +1,4 @@
-import { scraping } from "../src/kaldi/scraping";
+import { scraping } from "../src/kaldi";
 
 jest.setTimeout(60000);
 

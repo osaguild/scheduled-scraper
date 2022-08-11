@@ -1,9 +1,26 @@
 import { By, WebElement } from "selenium-webdriver";
+import "dotenv/config";
 import { driver } from "../common/driver";
-import { Building, Room } from "./types";
+import { Building, Room, Station } from "./types";
 import { formatArea } from "../utils";
 
+const searchableStations: Station[] = [
+  { name: "浦和駅", url: "/saitama/route/J002093/station/21982" },
+];
+
 export const scraping = async () => {
+  // get station url from searchable stations.
+  const getStationUrl = () => {
+    const stationName = process.env.SHAMAISON_STATION as string;
+    let stationUrl: string | undefined = undefined;
+    for (const station of searchableStations) {
+      if (stationName === station.name) {
+        stationUrl = station.url;
+      }
+    }
+    return stationUrl;
+  };
+
   // get building information on this page.
   const getBuildings = async () => {
     const _listSearchBuildings = await driver.findElements(
@@ -96,9 +113,7 @@ export const scraping = async () => {
   };
 
   // target station url.
-  await driver.get(
-    "https://www.shamaison.com/saitama/route/J002093/station/21982"
-  );
+  await driver.get(`https://www.shamaison.com${getStationUrl()}`);
 
   const building: Building[] = [];
   let loop: boolean;

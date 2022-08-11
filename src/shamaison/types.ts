@@ -15,3 +15,8 @@ export interface Room {
   area: string;
   url: string;
 }
+
+export interface Station {
+  name: string;
+  url: string;
+}

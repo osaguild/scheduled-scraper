@@ -6,6 +6,8 @@ on:
 jobs:
   scraping:
     runs-on: ubuntu-latest
+    environment:
+      name: dev
     strategy:
       matrix:
         node-version: [16.x]
@@ -32,6 +34,8 @@ jobs:
         run: yarn run-kaldi
       - name: run script
         run: yarn run-shamaison
+        env:
+          SHAMAISON_STATION: ${{ secrets.SHAMAISON_STATION }}
       - name: create a pull request
         id: pr
         uses: peter-evans/create-pull-request@v3

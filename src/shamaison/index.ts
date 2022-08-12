@@ -1,6 +1,6 @@
 import { By, ThenableWebDriver, WebElement } from "selenium-webdriver";
 import { Building, Room, Station } from "./types";
-import { formatArea } from "../utils";
+import { getDateFromYearBuilt, formatDateToString } from "../utils";
 
 const searchableStations: Station[] = [
   { name: "浦和駅", url: "/saitama/route/J002093/station/21982" },
@@ -43,11 +43,16 @@ export const scraping = async (
         // .listSearchBuildings > .tableBoxA01 > .listBoxDetail > tbody > tr > td
         const _tds = await e.findElements(By.css("td"));
         return {
-          roomNo: await _tds[0].findElement(By.css("a")).getText(),
-          rent: await _tds[1].getText(),
+          roomNo: (await _tds[0].findElement(By.css("a")).getText()).slice(
+            0,
+            -2
+          ),
+          rent: Number((await _tds[1].getText()).slice(0, -2)),
           floorPlan: await _tds[2].findElement(By.css(".text01")).getText(),
-          area: formatArea(
-            await _tds[2].findElement(By.css(".tabBlock")).getText()
+          space: Number(
+            (await _tds[2].findElement(By.css(".tabBlock")).getText())
+              .slice(1)
+              .slice(0, -3)
           ),
           url: await _tds[0].findElement(By.css("a")).getAttribute("href"),
         } as Room;
@@ -90,9 +95,20 @@ export const scraping = async (
       return {
         name: await _dt.findElement(By.css("a")).getText(),
         address: await _dls[0].findElement(By.css("dd")).getText(),
-        access: await _dls[1].findElement(By.css("dd")).getText(),
-        yearBuilt: await _dls[2].findElement(By.css("dd")).getText(),
-        numberOfStairs: await _dls[3].findElement(By.css("dd")).getText(),
+        station: (await _dls[1].findElement(By.css("dd")).getText()).split(
+          " "
+        )[1],
+        distance: (await _dls[1].findElement(By.css("dd")).getText()).split(
+          " "
+        )[2],
+        yearBuilt: formatDateToString(
+          getDateFromYearBuilt(
+            await _dls[2].findElement(By.css("dd")).getText()
+          )
+        ),
+        numberOfStairs: Number(
+          (await _dls[3].findElement(By.css("dd")).getText()).slice(0, -3)
+        ),
         url: await _dt.findElement(By.css("a")).getAttribute("href"),
         rooms: rooms,
       } as Building;

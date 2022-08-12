@@ -51,6 +51,14 @@ export const getDateFromSalesPeriod = (salesPeriod: string) => {
   return { saleFrom, saleTo };
 };
 
+// timezone: UTC
+export const getDateFromYearBuilt = (yearBuilt: string) => {
+  const [y, m] = yearBuilt.split(/[年月]/);
+  const date = new Date(Number(y), Number(m) - 1);
+  date.setHours(date.getHours() - 9);
+  return date;
+};
+
 export const writeFile = (filePath: string, data: object) => {
   fs.writeFile(filePath, JSON.stringify(data, null, 2), (e) => {
     if (e) {
@@ -67,10 +75,4 @@ export const getAllFileNames = (dir: string) => {
 
 export const readFile = <T>(filePath: string): T => {
   return JSON.parse(fs.readFileSync(filePath).toString());
-};
-
-export const formatArea = (area: string) => {
-  // （30.00m2） -> 30.00m²
-  const _area = area.slice(1).slice(0, -2).concat("²");
-  return _area;
 };

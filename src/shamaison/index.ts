@@ -1,5 +1,5 @@
 import { By, ThenableWebDriver, WebElement } from "selenium-webdriver";
-import { Building, Room, Station } from "./types";
+import { Building, Room, Station, OldBuilding } from "./types";
 import { getDateFromYearBuilt, formatDateToString } from "../utils";
 
 const searchableStations: Station[] = [
@@ -151,4 +151,35 @@ export const scraping = async (
   const deduplicatedBuilding = Array.from(new Set(building));
 
   return deduplicatedBuilding;
+};
+
+export const migrate = async (oldBuildings: OldBuilding[]) => {
+  const promises = oldBuildings.map(async (b) => {
+    const station = b.access.split(" ")[1];
+    const distance = b.access.split(" ")[2];
+    const yearBuilt = formatDateToString(getDateFromYearBuilt(b.yearBuilt));
+    const numberOfStairs = Number(b.numberOfStairs.slice(0, -3));
+    const rooms = b.rooms.map((r) => {
+      const roomNo = r.roomNo.slice(0, -2);
+      const rent = Number(r.rent.slice(0, -2));
+      const space = Number(r.area.slice(0, -2));
+      return {
+        roomNo,
+        rent,
+        floorPlan: r.floorPlan,
+        space,
+        url: b.url,
+      } as Room;
+    });
+
+    return {
+      ...b,
+      station,
+      distance,
+      yearBuilt,
+      numberOfStairs,
+      rooms,
+    } as Building;
+  });
+  return await Promise.all(promises);
 };

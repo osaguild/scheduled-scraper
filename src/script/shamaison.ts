@@ -1,6 +1,6 @@
 import "dotenv/config";
 import { driver } from "../common/driver";
-import { scraping } from "../shamaison";
+import { getStations, scraping } from "../shamaison";
 import { File } from "../shamaison/types";
 import { formatDateToYYYYMMDD, formatDateToString, writeFile } from "../utils";
 
@@ -14,7 +14,7 @@ import { formatDateToYYYYMMDD, formatDateToString, writeFile } from "../utils";
   const filePath = `./data/shamaison/${formatDateToYYYYMMDD(new Date())}.json`;
   const file: File = {
     createdAt: formatDateToString(new Date()),
-    stations: stationNames,
+    stations: getStations(stationNames),
     data: buildings,
   };
   writeFile(filePath, file);

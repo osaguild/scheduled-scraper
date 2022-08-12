@@ -2,29 +2,29 @@ import { By, ThenableWebDriver, WebElement } from "selenium-webdriver";
 import { Building, Room, Station, OldBuilding } from "./types";
 import { getDateFromYearBuilt, formatDateToString } from "../utils";
 
-const searchableStations: Station[] = [
-  { name: "浦和駅", url: "/saitama/route/J002093/station/21982" },
-  { name: "大宮駅", url: "/saitama/route/J002093/station/21987" },
-  { name: "川越駅", url: "/saitama/route/J002045/station/22012" },
-];
+// get station urls from searchable stations.
+export const getStations = (_stationNames: string[]) => {
+  const searchableStations: Station[] = [
+    { name: "浦和駅", url: "/saitama/route/J002093/station/21982" },
+    { name: "大宮駅", url: "/saitama/route/J002093/station/21987" },
+    { name: "川越駅", url: "/saitama/route/J002045/station/22012" },
+  ];
+
+  const stations = _stationNames
+    .map((e) => {
+      for (const station of searchableStations) {
+        if (e === station.name) return station;
+      }
+      console.log(`[WARN]${e} isn't included in searchable stations.`);
+    })
+    .filter((e): e is Exclude<typeof e, undefined> => e !== undefined);
+  return stations;
+};
 
 export const scraping = async (
   driver: ThenableWebDriver,
   stationNames: string[]
 ) => {
-  // get station urls from searchable stations.
-  const getStations = (_stationNames: string[]) => {
-    const stations = _stationNames
-      .map((e) => {
-        for (const station of searchableStations) {
-          if (e === station.name) return station;
-        }
-        console.log(`[WARN]${e} isn't included in searchable stations.`);
-      })
-      .filter((e): e is Exclude<typeof e, undefined> => e !== undefined);
-    return stations;
-  };
-
   // get building information on this page.
   const getBuildings = async () => {
     // click accordion to show all building information.

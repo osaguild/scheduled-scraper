@@ -42,6 +42,6 @@ export interface Station {
 
 export interface File {
   createdAt: string;
-  stations: string[];
+  stations: Station[];
   data: Building[];
 }

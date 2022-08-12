@@ -1,4 +1,4 @@
-import { migrate } from "../shamaison";
+import { getStations, migrate } from "../shamaison";
 import { OldBuilding, File } from "../shamaison/types";
 import {
   getAllFileNames,
@@ -16,7 +16,7 @@ import {
     const buildings = await migrate(oldBuildings);
     const file: File = {
       createdAt: formatDateToString(formatYYYYMMDDToDate(fileName)),
-      stations: ["浦和駅"],
+      stations: getStations(["浦和駅"]),
       data: buildings,
     };
     writeFile(`${path}/${fileName}`, file);

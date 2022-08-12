@@ -173,11 +173,13 @@ export const migrate = async (oldBuildings: OldBuilding[]) => {
     });
 
     return {
-      ...b,
+      name: b.name,
+      address: b.address,
       station,
       distance,
       yearBuilt,
       numberOfStairs,
+      url: b.url,
       rooms,
     } as Building;
   });

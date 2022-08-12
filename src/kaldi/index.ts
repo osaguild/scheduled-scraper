@@ -56,10 +56,13 @@ export const migrate = async (oldSales: OldSale[]) => {
     const activeSale =
       e.activeSale === "開催中" ? "ACTIVE_SALE" : "SALE_NOTICE";
     return {
-      ...e,
       activeSale: activeSale,
+      shopName: e.shopName,
+      shopAddress: e.shopAddress,
+      saleName: e.saleName,
       saleFrom: formatDateToString(saleFrom),
       saleTo: formatDateToString(saleTo),
+      saleDetail: e.saleDetail,
     } as Sale;
   });
   return await Promise.all(promises);

@@ -1,9 +1,8 @@
-import { By } from "selenium-webdriver";
+import { By, ThenableWebDriver } from "selenium-webdriver";
 import { Sale } from "./types";
-import { driver } from "../common/driver";
 
 // run scraping browser using selenium and get sale information from kaldi.
-export const scraping = async () => {
+export const scraping = async (driver: ThenableWebDriver) => {
   const getSales = async () => {
     const _table = await driver.findElement(By.css(".cz_sp_table"));
     const _tbody = await _table.findElement(By.css("tbody"));
@@ -41,9 +40,6 @@ export const scraping = async () => {
 
   // get sale information at now
   const sales = await getSales();
-
-  // need to close browser before return.
-  await driver.quit();
 
   return sales;
 };

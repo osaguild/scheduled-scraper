@@ -6,3 +6,8 @@ export interface Sale {
   salePeriod: string;
   saleDetail: string;
 }
+
+export interface File {
+  createdAt: string;
+  data: Sale[];
+}

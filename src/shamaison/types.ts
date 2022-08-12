@@ -20,3 +20,9 @@ export interface Station {
   name: string;
   url: string;
 }
+
+export interface File {
+  createdAt: string;
+  stations: string[];
+  data: Building[];
+}

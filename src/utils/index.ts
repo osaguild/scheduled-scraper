@@ -1,12 +1,28 @@
 import fs from "fs";
 
-// timezone is UTC
-export const getNowDate = () => {
-  const now = new Date();
-  const y = now.getFullYear();
-  const m = ("00" + (now.getMonth() + 1)).slice(-2);
-  const d = ("00" + now.getDate()).slice(-2);
+// format: YYYYMMDD , timezone: UTC+9:00
+export const formatDateToYYYYMMDD = (date: Date) => {
+  date.setHours(date.getHours() + 9);
+  const y = date.getFullYear();
+  const m = ("00" + (date.getMonth() + 1)).slice(-2);
+  const d = ("00" + date.getDate()).slice(-2);
   return y + m + d;
+};
+
+// format: 	YYYY-MM-DDThh:mm:ssTZD , timezone: UTC+9:00
+export const formatDateToString = (date: Date) => {
+  date.setHours(date.getHours() + 9);
+  const y = date.getFullYear();
+  const m = ("00" + (date.getMonth() + 1)).slice(-2);
+  const d = ("00" + date.getDate()).slice(-2);
+  const h = ("00" + date.getHours()).slice(-2);
+  const mi = ("00" + date.getMinutes()).slice(-2);
+  const s = ("00" + date.getSeconds()).slice(-2);
+  return `${y}-${m}-${d}T${h}:${mi}:${s}+09:00`;
+};
+
+export const formatStringToDate = (str: string) => {
+  return Date.parse(str);
 };
 
 export const writeFile = (filePath: string, data: object) => {

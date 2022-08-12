@@ -7,6 +7,8 @@
     "lint": "eslint --fix -c ./.eslintrc.json './**/*.ts'",
     "run-kaldi": "npx ts-node src/script/kaldi",
     "run-shamaison": "npx ts-node src/script/shamaison",
+    "run-migrate-kaldi": "npx ts-node src/script/migrateKaldi",
+    "run-migrate-shamaison": "npx ts-node src/script/migrateShamaison",
     "prepare": "husky install"
   },
   "devDependencies": {

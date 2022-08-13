@@ -1,8 +1,21 @@
-import { scraping } from "../shamaison";
-import { getNowDate, writeFile } from "../utils";
+import "dotenv/config";
+import { driver } from "../common/driver";
+import { getStations, scraping } from "../shamaison";
+import { File } from "../shamaison/types";
+import { formatDateToYYYYMMDD, formatDateToString, writeFile } from "../utils";
 
 (async () => {
-  const apartments = await scraping();
-  const filePath = `./data/shamaison/${getNowDate()}.json`;
-  writeFile(filePath, apartments);
+  // get target station names from environment variable.
+  const stationNames: string[] = JSON.parse(
+    process.env.SHAMAISON_TARGET_STATIONS as string
+  );
+  const buildings = await scraping(driver, stationNames);
+  await driver.quit();
+  const filePath = `./data/shamaison/${formatDateToYYYYMMDD(new Date())}.json`;
+  const file: File = {
+    createdAt: formatDateToString(new Date()),
+    stations: getStations(stationNames),
+    data: buildings,
+  };
+  writeFile(filePath, file);
 })();

@@ -35,7 +35,7 @@ jobs:
       - name: run shamaison script
         run: yarn run-shamaison
         env:
-          SHAMAISON_STATION: ${{ secrets.SHAMAISON_STATION }}
+          SHAMAISON_TARGET_STATIONS: ${{ secrets.SHAMAISON_TARGET_STATIONS }}
       - name: create a pull request
         id: pr
         uses: peter-evans/create-pull-request@v3

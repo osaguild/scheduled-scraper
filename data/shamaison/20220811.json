@@ -1,1017 +1,1075 @@
-[
-  {
-    "name": "ザ　ファースト",
-    "address": "埼玉県さいたま市緑区美園３丁目",
-    "access": "埼玉高速鉄道 浦和美園駅 徒歩10分",
-    "yearBuilt": "2022年10月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13323440/",
-    "rooms": [
-      {
-        "roomNo": "301号室",
-        "rent": "15.4万円",
-        "floorPlan": "2LDK",
-        "area": "65.43m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400301"
-      },
-      {
-        "roomNo": "201号室",
-        "rent": "14.9万円",
-        "floorPlan": "2LDK",
-        "area": "65.43m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400201"
-      },
-      {
-        "roomNo": "203号室",
-        "rent": "11.4万円",
-        "floorPlan": "1LDK",
-        "area": "49.50m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400203"
-      },
-      {
-        "roomNo": "205号室",
-        "rent": "17.3万円",
-        "floorPlan": "2LDK",
-        "area": "78.00m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400205"
-      },
-      {
-        "roomNo": "101号室",
-        "rent": "10.1万円",
-        "floorPlan": "1LDK",
-        "area": "44.93m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400101"
-      },
-      {
-        "roomNo": "102号室",
-        "rent": "9.9万円",
-        "floorPlan": "1LDK",
-        "area": "44.50m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400102"
-      },
-      {
-        "roomNo": "103号室",
-        "rent": "11.0万円",
-        "floorPlan": "1LDK",
-        "area": "49.50m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400103"
-      },
-      {
-        "roomNo": "105号室",
-        "rent": "16.9万円",
-        "floorPlan": "2LDK",
-        "area": "78.00m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400105"
-      },
-      {
-        "roomNo": "106号室",
-        "rent": "15.3万円",
-        "floorPlan": "2LDK",
-        "area": "67.62m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400106"
-      }
-    ]
-  },
-  {
-    "name": "仮称　浦和美園ＳＨＭ　Ａ",
-    "address": "埼玉県さいたま市緑区大字中野田",
-    "access": "埼玉高速鉄道 浦和美園駅 徒歩17分",
-    "yearBuilt": "2022年10月中旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13323550/",
-    "rooms": [
-      {
-        "roomNo": "201号室",
-        "rent": "15.4万円",
-        "floorPlan": "3LDK",
-        "area": "78.28m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500201"
-      },
-      {
-        "roomNo": "202号室",
-        "rent": "10.3万円",
-        "floorPlan": "1LDK",
-        "area": "52.24m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500202"
-      },
-      {
-        "roomNo": "203号室",
-        "rent": "10.3万円",
-        "floorPlan": "1LDK",
-        "area": "52.24m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500203"
-      },
-      {
-        "roomNo": "204号室",
-        "rent": "16.2万円",
-        "floorPlan": "3LDK",
-        "area": "86.62m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500204"
-      },
-      {
-        "roomNo": "101号室",
-        "rent": "15.2万円",
-        "floorPlan": "3LDK",
-        "area": "78.28m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500101"
-      },
-      {
-        "roomNo": "102号室",
-        "rent": "10.1万円",
-        "floorPlan": "1LDK",
-        "area": "52.24m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500102"
-      },
-      {
-        "roomNo": "103号室",
-        "rent": "10.1万円",
-        "floorPlan": "1LDK",
-        "area": "52.24m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500103"
-      },
-      {
-        "roomNo": "104号室",
-        "rent": "14.7万円",
-        "floorPlan": "2LDK",
-        "area": "76.03m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500104"
-      }
-    ]
-  },
-  {
-    "name": "仮称　浦和美園ＳＨＭ　Ｂ",
-    "address": "埼玉県さいたま市緑区大字中野田",
-    "access": "埼玉高速鉄道 浦和美園駅 徒歩17分",
-    "yearBuilt": "2022年10月中旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13323560/",
-    "rooms": [
-      {
-        "roomNo": "201号室",
-        "rent": "14.7万円",
-        "floorPlan": "2LDK",
-        "area": "74.28m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600201"
-      },
-      {
-        "roomNo": "202号室",
-        "rent": "13.1万円",
-        "floorPlan": "2LDK",
-        "area": "66.33m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600202"
-      },
-      {
-        "roomNo": "101号室",
-        "rent": "14.8万円",
-        "floorPlan": "2LDK",
-        "area": "76.28m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600101"
-      },
-      {
-        "roomNo": "102号室",
-        "rent": "13.5万円",
-        "floorPlan": "2LDK",
-        "area": "69.32m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600102"
-      },
-      {
-        "roomNo": "103号室",
-        "rent": "14.0万円",
-        "floorPlan": "2LDK",
-        "area": "71.77m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600103"
-      }
-    ]
-  },
-  {
-    "name": "カームコートネオ",
-    "address": "埼玉県さいたま市南区白幡２丁目１０－５",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩16分",
-    "yearBuilt": "2022年7月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11108/13323460/",
-    "rooms": [
-      {
-        "roomNo": "101号室",
-        "rent": "17.5万円",
-        "floorPlan": "2LDK",
-        "area": "76.85m²",
-        "url": "https://www.shamaison.com/saitama/area/11108/13323460/1430020000133234600101"
-      },
-      {
-        "roomNo": "102号室",
-        "rent": "17.5万円",
-        "floorPlan": "2LDK",
-        "area": "76.85m²",
-        "url": "https://www.shamaison.com/saitama/area/11108/13323460/1430020000133234600102"
-      }
-    ]
-  },
-  {
-    "name": "クオリフィシア",
-    "address": "埼玉県さいたま市桜区中島１丁目１－１２",
-    "access": "ＪＲ埼京線 南与野駅 徒歩12分",
-    "yearBuilt": "2022年6月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11106/13323270/",
-    "rooms": [
-      {
-        "roomNo": "102号室",
-        "rent": "11.1万円",
-        "floorPlan": "1LDK",
-        "area": "48.25m²",
-        "url": "https://www.shamaison.com/saitama/area/11106/13323270/1430020000133232700102"
-      }
-    ]
-  },
-  {
-    "name": "グラン　アルベロ",
-    "address": "埼玉県さいたま市浦和区東高砂町３－４－２",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩3分",
-    "yearBuilt": "2022年6月下旬",
-    "numberOfStairs": "4階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13323350/",
-    "rooms": [
-      {
-        "roomNo": "302号室",
-        "rent": "24.9万円",
-        "floorPlan": "2LDK",
-        "area": "80.42m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13323350/1430020000133233500302"
-      }
-    ]
-  },
-  {
-    "name": "エミネンスゲン",
-    "address": "埼玉県さいたま市緑区大字中野田８１",
-    "access": "埼玉高速鉄道 浦和美園駅 徒歩7分",
-    "yearBuilt": "2022年3月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13323160/",
-    "rooms": [
-      {
-        "roomNo": "303号室",
-        "rent": "8.0万円",
-        "floorPlan": "1K",
-        "area": "30.80m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13323160/1430020000133231600303"
-      }
-    ]
-  },
-  {
-    "name": "サンドミール２０２２",
-    "address": "埼玉県さいたま市南区文蔵２丁目５―３",
-    "access": "ＪＲ京浜東北線 南浦和駅 徒歩7分",
-    "yearBuilt": "2022年1月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11108/13322970/",
-    "rooms": [
-      {
-        "roomNo": "204号室",
-        "rent": "17.5万円",
-        "floorPlan": "2LDK",
-        "area": "64.65m²",
-        "url": "https://www.shamaison.com/saitama/area/11108/13322970/1430020000133229700204"
-      }
-    ]
-  },
-  {
-    "name": "ｃｏｍｆａｒｍ　Ⅱ",
-    "address": "埼玉県さいたま市南区鹿手袋５丁目３―３７",
-    "access": "ＪＲ埼京線 武蔵浦和駅 徒歩8分",
-    "yearBuilt": "2021年10月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11108/13322680/",
-    "rooms": [
-      {
-        "roomNo": "301号室",
-        "rent": "23.0万円",
-        "floorPlan": "2LDK",
-        "area": "80.11m²",
-        "url": "https://www.shamaison.com/saitama/area/11108/13322680/1430020000133226800301"
-      }
-    ]
-  },
-  {
-    "name": "ｃｏｍｆａｒｍ　Ⅰ",
-    "address": "埼玉県さいたま市南区沼影１丁目６―２５",
-    "access": "ＪＲ埼京線 武蔵浦和駅 徒歩4分",
-    "yearBuilt": "2021年7月中旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11108/13322690/",
-    "rooms": [
-      {
-        "roomNo": "202号室",
-        "rent": "13.8万円",
-        "floorPlan": "1LDK",
-        "area": "50.98m²",
-        "url": "https://www.shamaison.com/saitama/area/11108/13322690/1430020000133226900202"
-      }
-    ]
-  },
-  {
-    "name": "ラポール　シェノン",
-    "address": "埼玉県さいたま市中央区大戸５丁目６―１１",
-    "access": "ＪＲ京浜東北線 北浦和駅 徒歩14分",
-    "yearBuilt": "2021年6月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11105/13322670/",
-    "rooms": [
-      {
-        "roomNo": "102号室",
-        "rent": "7.7万円",
-        "floorPlan": "1SK",
-        "area": "34.71m²",
-        "url": "https://www.shamaison.com/saitama/area/11105/13322670/1430020000133226700102"
-      }
-    ]
-  },
-  {
-    "name": "リーゼブロンシュ",
-    "address": "埼玉県さいたま市緑区美園４丁目７－３",
-    "access": "埼玉高速鉄道 浦和美園駅 徒歩3分",
-    "yearBuilt": "2021年2月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13322290/",
-    "rooms": [
-      {
-        "roomNo": "304号室",
-        "rent": "15.8万円",
-        "floorPlan": "2LDK",
-        "area": "64.70m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13322290/1430020000133222900304"
-      }
-    ]
-  },
-  {
-    "name": "シャーメゾンステージ武蔵浦和",
-    "address": "埼玉県さいたま市南区白幡５丁目１７－２３",
-    "access": "ＪＲ埼京線 武蔵浦和駅 徒歩3分",
-    "yearBuilt": "2021年2月上旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11108/13900080/",
-    "rooms": [
-      {
-        "roomNo": "102号室",
-        "rent": "16.0万円",
-        "floorPlan": "1LDK",
-        "area": "50.84m²",
-        "url": "https://www.shamaison.com/saitama/area/11108/13900080/1430020000139000800102"
-      }
-    ]
-  },
-  {
-    "name": "ル・ソレイユ・ルヴァン",
-    "address": "埼玉県さいたま市緑区原山１丁目２７－２６",
-    "access": "ＪＲ京浜東北線 浦和駅 バス9分 太田窪３丁目 下車 徒歩2分",
-    "yearBuilt": "2020年7月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13321870/",
-    "rooms": [
-      {
-        "roomNo": "101号室",
-        "rent": "12.8万円",
-        "floorPlan": "1SLDK",
-        "area": "65.20m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13321870/1430020000133218700101"
-      }
-    ]
-  },
-  {
-    "name": "プルミエ浦和別所",
-    "address": "埼玉県さいたま市南区別所１丁目１９－１８",
-    "access": "ＪＲ埼京線 武蔵浦和駅 徒歩10分",
-    "yearBuilt": "2020年1月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11108/13321280/",
-    "rooms": [
-      {
-        "roomNo": "202号室",
-        "rent": "12.9万円",
-        "floorPlan": "2LDK",
-        "area": "61.71m²",
-        "url": "https://www.shamaison.com/saitama/area/11108/13321280/1430020000133212800202"
-      }
-    ]
-  },
-  {
-    "name": "デパーチェ中浦和",
-    "address": "埼玉県さいたま市南区鹿手袋３丁目９－７",
-    "access": "ＪＲ埼京線 中浦和駅 徒歩5分",
-    "yearBuilt": "2019年11月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11108/13321430/",
-    "rooms": [
-      {
-        "roomNo": "303号室",
-        "rent": "11.5万円",
-        "floorPlan": "1LDK",
-        "area": "45.45m²",
-        "url": "https://www.shamaison.com/saitama/area/11108/13321430/1430020000133214300303"
-      }
-    ]
-  },
-  {
-    "name": "レフィシード",
-    "address": "埼玉県さいたま市浦和区岸町１丁目４－１３－２",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩12分",
-    "yearBuilt": "2018年9月上旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13320470/",
-    "rooms": [
-      {
-        "roomNo": "102号室",
-        "rent": "9.5万円",
-        "floorPlan": "1LDK",
-        "area": "37.59m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13320470/1430020000133204700102"
-      }
-    ]
-  },
-  {
-    "name": "レフィナード",
-    "address": "埼玉県さいたま市桜区栄和６丁目４－２０",
-    "access": "ＪＲ京浜東北線 浦和駅 バス15分 十石田 下車 徒歩3分",
-    "yearBuilt": "2015年4月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11106/13128000/",
-    "rooms": [
-      {
-        "roomNo": "101号室",
-        "rent": "7.3万円",
-        "floorPlan": "1LDK",
-        "area": "47.08m²",
-        "url": "https://www.shamaison.com/saitama/area/11106/13128000/1430020000131280000101"
-      }
-    ]
-  },
-  {
-    "name": "ヴィアソーレ",
-    "address": "埼玉県さいたま市桜区田島２丁目１３－１０",
-    "access": "ＪＲ武蔵野線 西浦和駅 徒歩5分",
-    "yearBuilt": "2013年7月上旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11106/13126440/",
-    "rooms": [
-      {
-        "roomNo": "202号室",
-        "rent": "8.3万円",
-        "floorPlan": "1LDK",
-        "area": "42.50m²",
-        "url": "https://www.shamaison.com/saitama/area/11106/13126440/1430020000131264400202"
-      }
-    ]
-  },
-  {
-    "name": "プリムヴェールⅦ",
-    "address": "埼玉県さいたま市緑区大字大牧１４９０－２",
-    "access": "ＪＲ武蔵野線 東浦和駅 徒歩18分",
-    "yearBuilt": "2012年3月上旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13124540/",
-    "rooms": [
-      {
-        "roomNo": "101号室",
-        "rent": "8.5万円",
-        "floorPlan": "1LDK",
-        "area": "45.82m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13124540/1430020000131245400101"
-      }
-    ]
-  },
-  {
-    "name": "ルーチェ本太",
-    "address": "埼玉県さいたま市浦和区本太５丁目３６－６",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩18分",
-    "yearBuilt": "2011年12月上旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13125220/",
-    "rooms": [
-      {
-        "roomNo": "101号室",
-        "rent": "9.0万円",
-        "floorPlan": "1LDK",
-        "area": "42.23m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13125220/1430020000131252200101"
-      }
-    ]
-  },
-  {
-    "name": "プロシード",
-    "address": "埼玉県さいたま市桜区道場２丁目１４－７",
-    "access": "ＪＲ京浜東北線 浦和駅 バス24分 道場 下車 徒歩3分",
-    "yearBuilt": "2011年7月中旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11106/13124850/",
-    "rooms": [
-      {
-        "roomNo": "201号室",
-        "rent": "8.9万円",
-        "floorPlan": "2LDK",
-        "area": "61.20m²",
-        "url": "https://www.shamaison.com/saitama/area/11106/13124850/1430020000131248500201"
-      }
-    ]
-  },
-  {
-    "name": "ベレオ南浦和",
-    "address": "埼玉県さいたま市南区大字大谷口９４１―２",
-    "access": "ＪＲ京浜東北線 浦和駅 バス5分 本村 下車 徒歩12分",
-    "yearBuilt": "2011年1月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11108/13124380/",
-    "rooms": [
-      {
-        "roomNo": "101号室",
-        "rent": "8.8万円",
-        "floorPlan": "3LDK",
-        "area": "64.85m²",
-        "url": "https://www.shamaison.com/saitama/area/11108/13124380/1430020000131243800101"
-      }
-    ]
-  },
-  {
-    "name": "ヨミス・ハル",
-    "address": "埼玉県さいたま市浦和区神明２丁目２３－８",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩15分",
-    "yearBuilt": "2011年1月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13124510/",
-    "rooms": [
-      {
-        "roomNo": "102号室",
-        "rent": "9.5万円",
-        "floorPlan": "1LDK",
-        "area": "43.05m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13124510/1430020000131245100102"
-      }
-    ]
-  },
-  {
-    "name": "Ｎ－ＳＴＡＲ",
-    "address": "埼玉県さいたま市浦和区前地２丁目３－３",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩7分",
-    "yearBuilt": "2011年1月上旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13124560/",
-    "rooms": [
-      {
-        "roomNo": "202号室",
-        "rent": "8.3万円",
-        "floorPlan": "1K",
-        "area": "31.50m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13124560/1430020000131245600202"
-      }
-    ]
-  },
-  {
-    "name": "マストライフ浦和前地Ⅱ",
-    "address": "埼玉県さいたま市浦和区前地２丁目１０－１７",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩9分",
-    "yearBuilt": "2010年5月中旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13320960/",
-    "rooms": [
-      {
-        "roomNo": "102号室",
-        "rent": "9.8万円",
-        "floorPlan": "1LDK",
-        "area": "40.00m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13320960/1430020000133209600102"
-      }
-    ]
-  },
-  {
-    "name": "シャルム浦和Ⅰ",
-    "address": "埼玉県さいたま市浦和区岸町５丁目１５－１１",
-    "access": "ＪＲ埼京線 武蔵浦和駅 徒歩13分",
-    "yearBuilt": "2009年7月中旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13123080/",
-    "rooms": [
-      {
-        "roomNo": "201号室",
-        "rent": "9.8万円",
-        "floorPlan": "1LDK",
-        "area": "49.83m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13123080/1430020000131230800201"
-      }
-    ]
-  },
-  {
-    "name": "Ｏｈａｎａ　Ｈａｒｅ　Ｃ",
-    "address": "埼玉県さいたま市中央区大戸１丁目１４－１",
-    "access": "ＪＲ埼京線 中浦和駅 徒歩10分",
-    "yearBuilt": "2009年2月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11105/13122960/",
-    "rooms": [
-      {
-        "roomNo": "201号室",
-        "rent": "8.9万円",
-        "floorPlan": "1LDK",
-        "area": "40.00m²",
-        "url": "https://www.shamaison.com/saitama/area/11105/13122960/1430020000131229600201"
-      }
-    ]
-  },
-  {
-    "name": "メゾン・ブリエ",
-    "address": "埼玉県さいたま市緑区馬場２丁目３７－２４",
-    "access": "ＪＲ京浜東北線 浦和駅 バス33分 宮本１丁目 下車 徒歩4分",
-    "yearBuilt": "2008年6月上旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13122000/",
-    "rooms": [
-      {
-        "roomNo": "102号室",
-        "rent": "6.8万円",
-        "floorPlan": "1LDK",
-        "area": "43.64m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13122000/1430020000131220000102"
-      }
-    ]
-  },
-  {
-    "name": "ＵＲＢＡＮ　Ⅱ",
-    "address": "埼玉県さいたま市浦和区神明２丁目２４－２０",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩14分",
-    "yearBuilt": "2007年7月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13121140/",
-    "rooms": [
-      {
-        "roomNo": "310号室",
-        "rent": "6.8万円",
-        "floorPlan": "1K",
-        "area": "23.65m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13121140/1430020000131211400310"
-      },
-      {
-        "roomNo": "107号室",
-        "rent": "6.5万円",
-        "floorPlan": "1K",
-        "area": "23.65m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13121140/1430020000131211400107"
-      }
-    ]
-  },
-  {
-    "name": "ＰＡＲＡＤＯＲ　ＤＥ　ＷＡＴＡＴＯⅢ",
-    "address": "埼玉県さいたま市南区大谷場１丁目１３－１５",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩13分",
-    "yearBuilt": "2007年1月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11108/13120950/",
-    "rooms": [
-      {
-        "roomNo": "205号室",
-        "rent": "6.1万円",
-        "floorPlan": "1K",
-        "area": "23.25m²",
-        "url": "https://www.shamaison.com/saitama/area/11108/13120950/1430020000131209500205"
-      }
-    ]
-  },
-  {
-    "name": "テラス神明台",
-    "address": "埼玉県さいたま市浦和区神明２丁目２０－１２",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩14分",
-    "yearBuilt": "2007年1月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13120990/",
-    "rooms": [
-      {
-        "roomNo": "201号室",
-        "rent": "7.8万円",
-        "floorPlan": "1K",
-        "area": "30.30m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13120990/1430020000131209900201"
-      },
-      {
-        "roomNo": "103号室",
-        "rent": "7.4万円",
-        "floorPlan": "1K",
-        "area": "32.24m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13120990/1430020000131209900103"
-      }
-    ]
-  },
-  {
-    "name": "メゾンティアラＡ",
-    "address": "埼玉県さいたま市緑区大字中尾３９１－１１",
-    "access": "ＪＲ京浜東北線 浦和駅 バス14分 不動谷 下車 徒歩2分",
-    "yearBuilt": "2007年1月上旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13120760/",
-    "rooms": [
-      {
-        "roomNo": "203号室",
-        "rent": "6.9万円",
-        "floorPlan": "1LDK",
-        "area": "40.30m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13120760/1430020000131207600203"
-      }
-    ]
-  },
-  {
-    "name": "ミラージュ",
-    "address": "埼玉県さいたま市浦和区本太４丁目１－１１",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩13分",
-    "yearBuilt": "2006年6月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13120560/",
-    "rooms": [
-      {
-        "roomNo": "103号室",
-        "rent": "6.3万円",
-        "floorPlan": "1K",
-        "area": "24.57m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13120560/1430020000131205600103"
-      }
-    ]
-  },
-  {
-    "name": "ヴァンコートⅡ",
-    "address": "埼玉県さいたま市緑区大字中尾３１０８－１",
-    "access": "ＪＲ武蔵野線 東浦和駅 徒歩21分",
-    "yearBuilt": "2006年4月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13120540/",
-    "rooms": [
-      {
-        "roomNo": "101号室",
-        "rent": "7.9万円",
-        "floorPlan": "1LDK",
-        "area": "49.47m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13120540/1430020000131205400101"
-      },
-      {
-        "roomNo": "102号室",
-        "rent": "7.5万円",
-        "floorPlan": "1LDK",
-        "area": "49.47m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13120540/1430020000131205400102"
-      }
-    ]
-  },
-  {
-    "name": "Ｃｈａｍｐｓ　ｄｅ　ｂｌｅ",
-    "address": "埼玉県川口市大字小谷場７７８",
-    "access": "ＪＲ京浜東北線 南浦和駅 徒歩14分",
-    "yearBuilt": "2006年3月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11203/13120440/",
-    "rooms": [
-      {
-        "roomNo": "307号室",
-        "rent": "7.5万円",
-        "floorPlan": "1K",
-        "area": "36.45m²",
-        "url": "https://www.shamaison.com/saitama/area/11203/13120440/1430020000131204400307"
-      },
-      {
-        "roomNo": "205号室",
-        "rent": "7.2万円",
-        "floorPlan": "1K",
-        "area": "36.45m²",
-        "url": "https://www.shamaison.com/saitama/area/11203/13120440/1430020000131204400205"
-      }
-    ]
-  },
-  {
-    "name": "ディアス瀬ヶ崎",
-    "address": "埼玉県さいたま市浦和区瀬ヶ崎５丁目２１－１",
-    "access": "ＪＲ京浜東北線 北浦和駅 徒歩23分",
-    "yearBuilt": "2002年9月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13050370/",
-    "rooms": [
-      {
-        "roomNo": "201号室",
-        "rent": "6.6万円",
-        "floorPlan": "2DK",
-        "area": "43.30m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13050370/1430020000130503700201"
-      },
-      {
-        "roomNo": "101号室",
-        "rent": "6.5万円",
-        "floorPlan": "2DK",
-        "area": "43.30m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13050370/1430020000130503700101"
-      }
-    ]
-  },
-  {
-    "name": "ヴィルヌーブⅢ",
-    "address": "埼玉県さいたま市緑区原山１丁目９－１０",
-    "access": "ＪＲ京浜東北線 浦和駅 バス19分 北原山 下車 徒歩4分",
-    "yearBuilt": "2002年7月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13050120/",
-    "rooms": [
-      {
-        "roomNo": "102号室",
-        "rent": "6.8万円",
-        "floorPlan": "1LDK",
-        "area": "41.90m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13050120/1430020000130501200102"
-      }
-    ]
-  },
-  {
-    "name": "ベルエポック",
-    "address": "埼玉県さいたま市南区白幡２丁目６－１８",
-    "access": "ＪＲ埼京線 武蔵浦和駅 徒歩11分",
-    "yearBuilt": "2001年8月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11108/13038940/",
-    "rooms": [
-      {
-        "roomNo": "301号室",
-        "rent": "11.0万円",
-        "floorPlan": "2LDK",
-        "area": "56.20m²",
-        "url": "https://www.shamaison.com/saitama/area/11108/13038940/1430020000130389400301"
-      }
-    ]
-  },
-  {
-    "name": "ベルテ調",
-    "address": "埼玉県さいたま市浦和区岸町４丁目１９－６",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩8分",
-    "yearBuilt": "2001年3月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13037940/",
-    "rooms": [
-      {
-        "roomNo": "101号室",
-        "rent": "6.6万円",
-        "floorPlan": "1K",
-        "area": "25.60m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13037940/1430020000130379400101"
-      }
-    ]
-  },
-  {
-    "name": "ツインパレス　Ｂ",
-    "address": "埼玉県さいたま市桜区栄和１丁目１９－１６",
-    "access": "ＪＲ京浜東北線 浦和駅 バス28分 栄和 下車 徒歩4分",
-    "yearBuilt": "2000年4月上旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11106/13036380/",
-    "rooms": [
-      {
-        "roomNo": "203号室",
-        "rent": "4.7万円",
-        "floorPlan": "1K",
-        "area": "23.90m²",
-        "url": "https://www.shamaison.com/saitama/area/11106/13036380/1430020000130363800203"
-      }
-    ]
-  },
-  {
-    "name": "ジュネス・パラディア",
-    "address": "埼玉県さいたま市浦和区岸町２丁目１１－１６",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩13分",
-    "yearBuilt": "1998年9月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13034170/",
-    "rooms": [
-      {
-        "roomNo": "102号室",
-        "rent": "6.0万円",
-        "floorPlan": "1K",
-        "area": "22.70m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13034170/1430020000130341700102"
-      }
-    ]
-  },
-  {
-    "name": "トート　ハイツ　Ａ",
-    "address": "埼玉県さいたま市緑区大字大牧１３７４－１",
-    "access": "ＪＲ武蔵野線 東浦和駅 徒歩20分",
-    "yearBuilt": "1991年5月上旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13019730/",
-    "rooms": [
-      {
-        "roomNo": "102号室",
-        "rent": "6.0万円",
-        "floorPlan": "3DK",
-        "area": "49.00m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13019730/1430020000130197300102"
-      }
-    ]
-  },
-  {
-    "name": "チェリーベル",
-    "address": "埼玉県さいたま市浦和区本太５丁目３９－１０",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩19分",
-    "yearBuilt": "1990年6月中旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13323638/",
-    "rooms": [
-      {
-        "roomNo": "202号室",
-        "rent": "5.9万円",
-        "floorPlan": "2K",
-        "area": "31.00m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13323638/1430020000133236380202"
-      },
-      {
-        "roomNo": "101号室",
-        "rent": "6.5万円",
-        "floorPlan": "2K",
-        "area": "35.00m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13323638/1430020000133236380101"
-      }
-    ]
-  },
-  {
-    "name": "ジュネス　アルプ",
-    "address": "埼玉県さいたま市緑区原山３丁目６－１０",
-    "access": "ＪＲ京浜東北線 浦和駅 バス23分 道祖士入口 下車 徒歩3分",
-    "yearBuilt": "1990年3月下旬",
-    "numberOfStairs": "3階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13016170/",
-    "rooms": [
-      {
-        "roomNo": "103号室",
-        "rent": "9.5万円",
-        "floorPlan": "3DK",
-        "area": "63.10m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13016170/1430020000130161700103"
-      }
-    ]
-  },
-  {
-    "name": "イースト　ヒル",
-    "address": "埼玉県さいたま市浦和区岸町５丁目１９－９",
-    "access": "ＪＲ埼京線 武蔵浦和駅 徒歩13分",
-    "yearBuilt": "1990年1月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13015500/",
-    "rooms": [
-      {
-        "roomNo": "203号室",
-        "rent": "9.0万円",
-        "floorPlan": "2K",
-        "area": "43.00m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13015500/1430020000130155000203"
-      }
-    ]
-  },
-  {
-    "name": "クレスト　ハウス",
-    "address": "埼玉県さいたま市浦和区仲町１丁目１２－４",
-    "access": "ＪＲ京浜東北線 浦和駅 徒歩4分",
-    "yearBuilt": "1990年1月下旬",
-    "numberOfStairs": "4階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13016980/",
-    "rooms": [
-      {
-        "roomNo": "201号室",
-        "rent": "7.9万円",
-        "floorPlan": "2K",
-        "area": "42.00m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13016980/1430020000130169800201"
-      }
-    ]
-  },
-  {
-    "name": "グリーンパレス　松木　Ａ",
-    "address": "埼玉県さいたま市緑区松木１丁目１６－４",
-    "access": "ＪＲ武蔵野線 東浦和駅 バス19分 松の木東公園 下車 徒歩7分",
-    "yearBuilt": "1988年8月下旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11109/13012510/",
-    "rooms": [
-      {
-        "roomNo": "102号室",
-        "rent": "5.8万円",
-        "floorPlan": "2DK",
-        "area": "41.00m²",
-        "url": "https://www.shamaison.com/saitama/area/11109/13012510/1430020000130125100102"
-      }
-    ]
-  },
-  {
-    "name": "瀬ヶ崎　サンハイツ　Ａ",
-    "address": "埼玉県さいたま市浦和区瀬ヶ崎５丁目３３－２",
-    "access": "ＪＲ京浜東北線 浦和駅 バス21分 駒場運動公園入口 下車 徒歩7分",
-    "yearBuilt": "1987年9月上旬",
-    "numberOfStairs": "2階建て",
-    "url": "https://www.shamaison.com/saitama/area/11107/13007720/",
-    "rooms": [
-      {
-        "roomNo": "201号室",
-        "rent": "4.0万円",
-        "floorPlan": "2K",
-        "area": "30.00m²",
-        "url": "https://www.shamaison.com/saitama/area/11107/13007720/1430020000130077200201"
-      }
-    ]
-  }
-]
+{
+  "createdAt": "2022-08-11T00:00:00+09:00",
+  "stations": [
+    {
+      "name": "浦和駅",
+      "url": "/saitama/route/J002093/station/21982"
+    }
+  ],
+  "data": [
+    {
+      "name": "ザ　ファースト",
+      "address": "埼玉県さいたま市緑区美園３丁目",
+      "station": "浦和美園駅",
+      "distance": "徒歩10分",
+      "yearBuilt": "2022-10-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11109/13323440/",
+      "rooms": [
+        {
+          "roomNo": "301",
+          "rent": 15.4,
+          "floorPlan": "2LDK",
+          "space": 65.43,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/"
+        },
+        {
+          "roomNo": "201",
+          "rent": 14.9,
+          "floorPlan": "2LDK",
+          "space": 65.43,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/"
+        },
+        {
+          "roomNo": "203",
+          "rent": 11.4,
+          "floorPlan": "1LDK",
+          "space": 49.5,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/"
+        },
+        {
+          "roomNo": "205",
+          "rent": 17.3,
+          "floorPlan": "2LDK",
+          "space": 78,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/"
+        },
+        {
+          "roomNo": "101",
+          "rent": 10.1,
+          "floorPlan": "1LDK",
+          "space": 44.93,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/"
+        },
+        {
+          "roomNo": "102",
+          "rent": 9.9,
+          "floorPlan": "1LDK",
+          "space": 44.5,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/"
+        },
+        {
+          "roomNo": "103",
+          "rent": 11,
+          "floorPlan": "1LDK",
+          "space": 49.5,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/"
+        },
+        {
+          "roomNo": "105",
+          "rent": 16.9,
+          "floorPlan": "2LDK",
+          "space": 78,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/"
+        },
+        {
+          "roomNo": "106",
+          "rent": 15.3,
+          "floorPlan": "2LDK",
+          "space": 67.62,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/"
+        }
+      ]
+    },
+    {
+      "name": "仮称　浦和美園ＳＨＭ　Ａ",
+      "address": "埼玉県さいたま市緑区大字中野田",
+      "station": "浦和美園駅",
+      "distance": "徒歩17分",
+      "yearBuilt": "2022-10-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11109/13323550/",
+      "rooms": [
+        {
+          "roomNo": "201",
+          "rent": 15.4,
+          "floorPlan": "3LDK",
+          "space": 78.28,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/"
+        },
+        {
+          "roomNo": "202",
+          "rent": 10.3,
+          "floorPlan": "1LDK",
+          "space": 52.24,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/"
+        },
+        {
+          "roomNo": "203",
+          "rent": 10.3,
+          "floorPlan": "1LDK",
+          "space": 52.24,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/"
+        },
+        {
+          "roomNo": "204",
+          "rent": 16.2,
+          "floorPlan": "3LDK",
+          "space": 86.62,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/"
+        },
+        {
+          "roomNo": "101",
+          "rent": 15.2,
+          "floorPlan": "3LDK",
+          "space": 78.28,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/"
+        },
+        {
+          "roomNo": "102",
+          "rent": 10.1,
+          "floorPlan": "1LDK",
+          "space": 52.24,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/"
+        },
+        {
+          "roomNo": "103",
+          "rent": 10.1,
+          "floorPlan": "1LDK",
+          "space": 52.24,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/"
+        },
+        {
+          "roomNo": "104",
+          "rent": 14.7,
+          "floorPlan": "2LDK",
+          "space": 76.03,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/"
+        }
+      ]
+    },
+    {
+      "name": "仮称　浦和美園ＳＨＭ　Ｂ",
+      "address": "埼玉県さいたま市緑区大字中野田",
+      "station": "浦和美園駅",
+      "distance": "徒歩17分",
+      "yearBuilt": "2022-10-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11109/13323560/",
+      "rooms": [
+        {
+          "roomNo": "201",
+          "rent": 14.7,
+          "floorPlan": "2LDK",
+          "space": 74.28,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323560/"
+        },
+        {
+          "roomNo": "202",
+          "rent": 13.1,
+          "floorPlan": "2LDK",
+          "space": 66.33,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323560/"
+        },
+        {
+          "roomNo": "101",
+          "rent": 14.8,
+          "floorPlan": "2LDK",
+          "space": 76.28,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323560/"
+        },
+        {
+          "roomNo": "102",
+          "rent": 13.5,
+          "floorPlan": "2LDK",
+          "space": 69.32,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323560/"
+        },
+        {
+          "roomNo": "103",
+          "rent": 14,
+          "floorPlan": "2LDK",
+          "space": 71.77,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323560/"
+        }
+      ]
+    },
+    {
+      "name": "カームコートネオ",
+      "address": "埼玉県さいたま市南区白幡２丁目１０－５",
+      "station": "浦和駅",
+      "distance": "徒歩16分",
+      "yearBuilt": "2022-07-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11108/13323460/",
+      "rooms": [
+        {
+          "roomNo": "101",
+          "rent": 17.5,
+          "floorPlan": "2LDK",
+          "space": 76.85,
+          "url": "https://www.shamaison.com/saitama/area/11108/13323460/"
+        },
+        {
+          "roomNo": "102",
+          "rent": 17.5,
+          "floorPlan": "2LDK",
+          "space": 76.85,
+          "url": "https://www.shamaison.com/saitama/area/11108/13323460/"
+        }
+      ]
+    },
+    {
+      "name": "クオリフィシア",
+      "address": "埼玉県さいたま市桜区中島１丁目１－１２",
+      "station": "南与野駅",
+      "distance": "徒歩12分",
+      "yearBuilt": "2022-06-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11106/13323270/",
+      "rooms": [
+        {
+          "roomNo": "102",
+          "rent": 11.1,
+          "floorPlan": "1LDK",
+          "space": 48.25,
+          "url": "https://www.shamaison.com/saitama/area/11106/13323270/"
+        }
+      ]
+    },
+    {
+      "name": "グラン　アルベロ",
+      "address": "埼玉県さいたま市浦和区東高砂町３－４－２",
+      "station": "浦和駅",
+      "distance": "徒歩3分",
+      "yearBuilt": "2022-06-01T00:00:00+09:00",
+      "numberOfStairs": 4,
+      "url": "https://www.shamaison.com/saitama/area/11107/13323350/",
+      "rooms": [
+        {
+          "roomNo": "302",
+          "rent": 24.9,
+          "floorPlan": "2LDK",
+          "space": 80.42,
+          "url": "https://www.shamaison.com/saitama/area/11107/13323350/"
+        }
+      ]
+    },
+    {
+      "name": "エミネンスゲン",
+      "address": "埼玉県さいたま市緑区大字中野田８１",
+      "station": "浦和美園駅",
+      "distance": "徒歩7分",
+      "yearBuilt": "2022-03-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11109/13323160/",
+      "rooms": [
+        {
+          "roomNo": "303",
+          "rent": 8,
+          "floorPlan": "1K",
+          "space": 30.8,
+          "url": "https://www.shamaison.com/saitama/area/11109/13323160/"
+        }
+      ]
+    },
+    {
+      "name": "サンドミール２０２２",
+      "address": "埼玉県さいたま市南区文蔵２丁目５―３",
+      "station": "南浦和駅",
+      "distance": "徒歩7分",
+      "yearBuilt": "2022-01-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11108/13322970/",
+      "rooms": [
+        {
+          "roomNo": "204",
+          "rent": 17.5,
+          "floorPlan": "2LDK",
+          "space": 64.65,
+          "url": "https://www.shamaison.com/saitama/area/11108/13322970/"
+        }
+      ]
+    },
+    {
+      "name": "ｃｏｍｆａｒｍ　Ⅱ",
+      "address": "埼玉県さいたま市南区鹿手袋５丁目３―３７",
+      "station": "武蔵浦和駅",
+      "distance": "徒歩8分",
+      "yearBuilt": "2021-10-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11108/13322680/",
+      "rooms": [
+        {
+          "roomNo": "301",
+          "rent": 23,
+          "floorPlan": "2LDK",
+          "space": 80.11,
+          "url": "https://www.shamaison.com/saitama/area/11108/13322680/"
+        }
+      ]
+    },
+    {
+      "name": "ｃｏｍｆａｒｍ　Ⅰ",
+      "address": "埼玉県さいたま市南区沼影１丁目６―２５",
+      "station": "武蔵浦和駅",
+      "distance": "徒歩4分",
+      "yearBuilt": "2021-07-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11108/13322690/",
+      "rooms": [
+        {
+          "roomNo": "202",
+          "rent": 13.8,
+          "floorPlan": "1LDK",
+          "space": 50.98,
+          "url": "https://www.shamaison.com/saitama/area/11108/13322690/"
+        }
+      ]
+    },
+    {
+      "name": "ラポール　シェノン",
+      "address": "埼玉県さいたま市中央区大戸５丁目６―１１",
+      "station": "北浦和駅",
+      "distance": "徒歩14分",
+      "yearBuilt": "2021-06-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11105/13322670/",
+      "rooms": [
+        {
+          "roomNo": "102",
+          "rent": 7.7,
+          "floorPlan": "1SK",
+          "space": 34.71,
+          "url": "https://www.shamaison.com/saitama/area/11105/13322670/"
+        }
+      ]
+    },
+    {
+      "name": "リーゼブロンシュ",
+      "address": "埼玉県さいたま市緑区美園４丁目７－３",
+      "station": "浦和美園駅",
+      "distance": "徒歩3分",
+      "yearBuilt": "2021-02-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11109/13322290/",
+      "rooms": [
+        {
+          "roomNo": "304",
+          "rent": 15.8,
+          "floorPlan": "2LDK",
+          "space": 64.7,
+          "url": "https://www.shamaison.com/saitama/area/11109/13322290/"
+        }
+      ]
+    },
+    {
+      "name": "シャーメゾンステージ武蔵浦和",
+      "address": "埼玉県さいたま市南区白幡５丁目１７－２３",
+      "station": "武蔵浦和駅",
+      "distance": "徒歩3分",
+      "yearBuilt": "2021-02-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11108/13900080/",
+      "rooms": [
+        {
+          "roomNo": "102",
+          "rent": 16,
+          "floorPlan": "1LDK",
+          "space": 50.84,
+          "url": "https://www.shamaison.com/saitama/area/11108/13900080/"
+        }
+      ]
+    },
+    {
+      "name": "ル・ソレイユ・ルヴァン",
+      "address": "埼玉県さいたま市緑区原山１丁目２７－２６",
+      "station": "浦和駅",
+      "distance": "バス9分",
+      "yearBuilt": "2020-07-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11109/13321870/",
+      "rooms": [
+        {
+          "roomNo": "101",
+          "rent": 12.8,
+          "floorPlan": "1SLDK",
+          "space": 65.2,
+          "url": "https://www.shamaison.com/saitama/area/11109/13321870/"
+        }
+      ]
+    },
+    {
+      "name": "プルミエ浦和別所",
+      "address": "埼玉県さいたま市南区別所１丁目１９－１８",
+      "station": "武蔵浦和駅",
+      "distance": "徒歩10分",
+      "yearBuilt": "2020-01-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11108/13321280/",
+      "rooms": [
+        {
+          "roomNo": "202",
+          "rent": 12.9,
+          "floorPlan": "2LDK",
+          "space": 61.71,
+          "url": "https://www.shamaison.com/saitama/area/11108/13321280/"
+        }
+      ]
+    },
+    {
+      "name": "デパーチェ中浦和",
+      "address": "埼玉県さいたま市南区鹿手袋３丁目９－７",
+      "station": "中浦和駅",
+      "distance": "徒歩5分",
+      "yearBuilt": "2019-11-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11108/13321430/",
+      "rooms": [
+        {
+          "roomNo": "303",
+          "rent": 11.5,
+          "floorPlan": "1LDK",
+          "space": 45.45,
+          "url": "https://www.shamaison.com/saitama/area/11108/13321430/"
+        }
+      ]
+    },
+    {
+      "name": "レフィシード",
+      "address": "埼玉県さいたま市浦和区岸町１丁目４－１３－２",
+      "station": "浦和駅",
+      "distance": "徒歩12分",
+      "yearBuilt": "2018-09-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11107/13320470/",
+      "rooms": [
+        {
+          "roomNo": "102",
+          "rent": 9.5,
+          "floorPlan": "1LDK",
+          "space": 37.59,
+          "url": "https://www.shamaison.com/saitama/area/11107/13320470/"
+        }
+      ]
+    },
+    {
+      "name": "レフィナード",
+      "address": "埼玉県さいたま市桜区栄和６丁目４－２０",
+      "station": "浦和駅",
+      "distance": "バス15分",
+      "yearBuilt": "2015-04-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11106/13128000/",
+      "rooms": [
+        {
+          "roomNo": "101",
+          "rent": 7.3,
+          "floorPlan": "1LDK",
+          "space": 47.08,
+          "url": "https://www.shamaison.com/saitama/area/11106/13128000/"
+        }
+      ]
+    },
+    {
+      "name": "ヴィアソーレ",
+      "address": "埼玉県さいたま市桜区田島２丁目１３－１０",
+      "station": "西浦和駅",
+      "distance": "徒歩5分",
+      "yearBuilt": "2013-07-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11106/13126440/",
+      "rooms": [
+        {
+          "roomNo": "202",
+          "rent": 8.3,
+          "floorPlan": "1LDK",
+          "space": 42.5,
+          "url": "https://www.shamaison.com/saitama/area/11106/13126440/"
+        }
+      ]
+    },
+    {
+      "name": "プリムヴェールⅦ",
+      "address": "埼玉県さいたま市緑区大字大牧１４９０－２",
+      "station": "東浦和駅",
+      "distance": "徒歩18分",
+      "yearBuilt": "2012-03-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11109/13124540/",
+      "rooms": [
+        {
+          "roomNo": "101",
+          "rent": 8.5,
+          "floorPlan": "1LDK",
+          "space": 45.82,
+          "url": "https://www.shamaison.com/saitama/area/11109/13124540/"
+        }
+      ]
+    },
+    {
+      "name": "ルーチェ本太",
+      "address": "埼玉県さいたま市浦和区本太５丁目３６－６",
+      "station": "浦和駅",
+      "distance": "徒歩18分",
+      "yearBuilt": "2011-12-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11107/13125220/",
+      "rooms": [
+        {
+          "roomNo": "101",
+          "rent": 9,
+          "floorPlan": "1LDK",
+          "space": 42.23,
+          "url": "https://www.shamaison.com/saitama/area/11107/13125220/"
+        }
+      ]
+    },
+    {
+      "name": "プロシード",
+      "address": "埼玉県さいたま市桜区道場２丁目１４－７",
+      "station": "浦和駅",
+      "distance": "バス24分",
+      "yearBuilt": "2011-07-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11106/13124850/",
+      "rooms": [
+        {
+          "roomNo": "201",
+          "rent": 8.9,
+          "floorPlan": "2LDK",
+          "space": 61.2,
+          "url": "https://www.shamaison.com/saitama/area/11106/13124850/"
+        }
+      ]
+    },
+    {
+      "name": "ベレオ南浦和",
+      "address": "埼玉県さいたま市南区大字大谷口９４１―２",
+      "station": "浦和駅",
+      "distance": "バス5分",
+      "yearBuilt": "2011-01-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11108/13124380/",
+      "rooms": [
+        {
+          "roomNo": "101",
+          "rent": 8.8,
+          "floorPlan": "3LDK",
+          "space": 64.85,
+          "url": "https://www.shamaison.com/saitama/area/11108/13124380/"
+        }
+      ]
+    },
+    {
+      "name": "ヨミス・ハル",
+      "address": "埼玉県さいたま市浦和区神明２丁目２３－８",
+      "station": "浦和駅",
+      "distance": "徒歩15分",
+      "yearBuilt": "2011-01-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11107/13124510/",
+      "rooms": [
+        {
+          "roomNo": "102",
+          "rent": 9.5,
+          "floorPlan": "1LDK",
+          "space": 43.05,
+          "url": "https://www.shamaison.com/saitama/area/11107/13124510/"
+        }
+      ]
+    },
+    {
+      "name": "Ｎ－ＳＴＡＲ",
+      "address": "埼玉県さいたま市浦和区前地２丁目３－３",
+      "station": "浦和駅",
+      "distance": "徒歩7分",
+      "yearBuilt": "2011-01-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11107/13124560/",
+      "rooms": [
+        {
+          "roomNo": "202",
+          "rent": 8.3,
+          "floorPlan": "1K",
+          "space": 31.5,
+          "url": "https://www.shamaison.com/saitama/area/11107/13124560/"
+        }
+      ]
+    },
+    {
+      "name": "マストライフ浦和前地Ⅱ",
+      "address": "埼玉県さいたま市浦和区前地２丁目１０－１７",
+      "station": "浦和駅",
+      "distance": "徒歩9分",
+      "yearBuilt": "2010-05-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11107/13320960/",
+      "rooms": [
+        {
+          "roomNo": "102",
+          "rent": 9.8,
+          "floorPlan": "1LDK",
+          "space": 40,
+          "url": "https://www.shamaison.com/saitama/area/11107/13320960/"
+        }
+      ]
+    },
+    {
+      "name": "シャルム浦和Ⅰ",
+      "address": "埼玉県さいたま市浦和区岸町５丁目１５－１１",
+      "station": "武蔵浦和駅",
+      "distance": "徒歩13分",
+      "yearBuilt": "2009-07-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11107/13123080/",
+      "rooms": [
+        {
+          "roomNo": "201",
+          "rent": 9.8,
+          "floorPlan": "1LDK",
+          "space": 49.83,
+          "url": "https://www.shamaison.com/saitama/area/11107/13123080/"
+        }
+      ]
+    },
+    {
+      "name": "Ｏｈａｎａ　Ｈａｒｅ　Ｃ",
+      "address": "埼玉県さいたま市中央区大戸１丁目１４－１",
+      "station": "中浦和駅",
+      "distance": "徒歩10分",
+      "yearBuilt": "2009-02-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11105/13122960/",
+      "rooms": [
+        {
+          "roomNo": "201",
+          "rent": 8.9,
+          "floorPlan": "1LDK",
+          "space": 40,
+          "url": "https://www.shamaison.com/saitama/area/11105/13122960/"
+        }
+      ]
+    },
+    {
+      "name": "メゾン・ブリエ",
+      "address": "埼玉県さいたま市緑区馬場２丁目３７－２４",
+      "station": "浦和駅",
+      "distance": "バス33分",
+      "yearBuilt": "2008-06-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11109/13122000/",
+      "rooms": [
+        {
+          "roomNo": "102",
+          "rent": 6.8,
+          "floorPlan": "1LDK",
+          "space": 43.64,
+          "url": "https://www.shamaison.com/saitama/area/11109/13122000/"
+        }
+      ]
+    },
+    {
+      "name": "ＵＲＢＡＮ　Ⅱ",
+      "address": "埼玉県さいたま市浦和区神明２丁目２４－２０",
+      "station": "浦和駅",
+      "distance": "徒歩14分",
+      "yearBuilt": "2007-07-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11107/13121140/",
+      "rooms": [
+        {
+          "roomNo": "310",
+          "rent": 6.8,
+          "floorPlan": "1K",
+          "space": 23.65,
+          "url": "https://www.shamaison.com/saitama/area/11107/13121140/"
+        },
+        {
+          "roomNo": "107",
+          "rent": 6.5,
+          "floorPlan": "1K",
+          "space": 23.65,
+          "url": "https://www.shamaison.com/saitama/area/11107/13121140/"
+        }
+      ]
+    },
+    {
+      "name": "ＰＡＲＡＤＯＲ　ＤＥ　ＷＡＴＡＴＯⅢ",
+      "address": "埼玉県さいたま市南区大谷場１丁目１３－１５",
+      "station": "浦和駅",
+      "distance": "徒歩13分",
+      "yearBuilt": "2007-01-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11108/13120950/",
+      "rooms": [
+        {
+          "roomNo": "205",
+          "rent": 6.1,
+          "floorPlan": "1K",
+          "space": 23.25,
+          "url": "https://www.shamaison.com/saitama/area/11108/13120950/"
+        }
+      ]
+    },
+    {
+      "name": "テラス神明台",
+      "address": "埼玉県さいたま市浦和区神明２丁目２０－１２",
+      "station": "浦和駅",
+      "distance": "徒歩14分",
+      "yearBuilt": "2007-01-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11107/13120990/",
+      "rooms": [
+        {
+          "roomNo": "201",
+          "rent": 7.8,
+          "floorPlan": "1K",
+          "space": 30.3,
+          "url": "https://www.shamaison.com/saitama/area/11107/13120990/"
+        },
+        {
+          "roomNo": "103",
+          "rent": 7.4,
+          "floorPlan": "1K",
+          "space": 32.24,
+          "url": "https://www.shamaison.com/saitama/area/11107/13120990/"
+        }
+      ]
+    },
+    {
+      "name": "メゾンティアラＡ",
+      "address": "埼玉県さいたま市緑区大字中尾３９１－１１",
+      "station": "浦和駅",
+      "distance": "バス14分",
+      "yearBuilt": "2007-01-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11109/13120760/",
+      "rooms": [
+        {
+          "roomNo": "203",
+          "rent": 6.9,
+          "floorPlan": "1LDK",
+          "space": 40.3,
+          "url": "https://www.shamaison.com/saitama/area/11109/13120760/"
+        }
+      ]
+    },
+    {
+      "name": "ミラージュ",
+      "address": "埼玉県さいたま市浦和区本太４丁目１－１１",
+      "station": "浦和駅",
+      "distance": "徒歩13分",
+      "yearBuilt": "2006-06-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11107/13120560/",
+      "rooms": [
+        {
+          "roomNo": "103",
+          "rent": 6.3,
+          "floorPlan": "1K",
+          "space": 24.57,
+          "url": "https://www.shamaison.com/saitama/area/11107/13120560/"
+        }
+      ]
+    },
+    {
+      "name": "ヴァンコートⅡ",
+      "address": "埼玉県さいたま市緑区大字中尾３１０８－１",
+      "station": "東浦和駅",
+      "distance": "徒歩21分",
+      "yearBuilt": "2006-04-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11109/13120540/",
+      "rooms": [
+        {
+          "roomNo": "101",
+          "rent": 7.9,
+          "floorPlan": "1LDK",
+          "space": 49.47,
+          "url": "https://www.shamaison.com/saitama/area/11109/13120540/"
+        },
+        {
+          "roomNo": "102",
+          "rent": 7.5,
+          "floorPlan": "1LDK",
+          "space": 49.47,
+          "url": "https://www.shamaison.com/saitama/area/11109/13120540/"
+        }
+      ]
+    },
+    {
+      "name": "Ｃｈａｍｐｓ　ｄｅ　ｂｌｅ",
+      "address": "埼玉県川口市大字小谷場７７８",
+      "station": "南浦和駅",
+      "distance": "徒歩14分",
+      "yearBuilt": "2006-03-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11203/13120440/",
+      "rooms": [
+        {
+          "roomNo": "307",
+          "rent": 7.5,
+          "floorPlan": "1K",
+          "space": 36.45,
+          "url": "https://www.shamaison.com/saitama/area/11203/13120440/"
+        },
+        {
+          "roomNo": "205",
+          "rent": 7.2,
+          "floorPlan": "1K",
+          "space": 36.45,
+          "url": "https://www.shamaison.com/saitama/area/11203/13120440/"
+        }
+      ]
+    },
+    {
+      "name": "ディアス瀬ヶ崎",
+      "address": "埼玉県さいたま市浦和区瀬ヶ崎５丁目２１－１",
+      "station": "北浦和駅",
+      "distance": "徒歩23分",
+      "yearBuilt": "2002-09-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11107/13050370/",
+      "rooms": [
+        {
+          "roomNo": "201",
+          "rent": 6.6,
+          "floorPlan": "2DK",
+          "space": 43.3,
+          "url": "https://www.shamaison.com/saitama/area/11107/13050370/"
+        },
+        {
+          "roomNo": "101",
+          "rent": 6.5,
+          "floorPlan": "2DK",
+          "space": 43.3,
+          "url": "https://www.shamaison.com/saitama/area/11107/13050370/"
+        }
+      ]
+    },
+    {
+      "name": "ヴィルヌーブⅢ",
+      "address": "埼玉県さいたま市緑区原山１丁目９－１０",
+      "station": "浦和駅",
+      "distance": "バス19分",
+      "yearBuilt": "2002-07-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11109/13050120/",
+      "rooms": [
+        {
+          "roomNo": "102",
+          "rent": 6.8,
+          "floorPlan": "1LDK",
+          "space": 41.9,
+          "url": "https://www.shamaison.com/saitama/area/11109/13050120/"
+        }
+      ]
+    },
+    {
+      "name": "ベルエポック",
+      "address": "埼玉県さいたま市南区白幡２丁目６－１８",
+      "station": "武蔵浦和駅",
+      "distance": "徒歩11分",
+      "yearBuilt": "2001-08-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11108/13038940/",
+      "rooms": [
+        {
+          "roomNo": "301",
+          "rent": 11,
+          "floorPlan": "2LDK",
+          "space": 56.2,
+          "url": "https://www.shamaison.com/saitama/area/11108/13038940/"
+        }
+      ]
+    },
+    {
+      "name": "ベルテ調",
+      "address": "埼玉県さいたま市浦和区岸町４丁目１９－６",
+      "station": "浦和駅",
+      "distance": "徒歩8分",
+      "yearBuilt": "2001-03-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11107/13037940/",
+      "rooms": [
+        {
+          "roomNo": "101",
+          "rent": 6.6,
+          "floorPlan": "1K",
+          "space": 25.6,
+          "url": "https://www.shamaison.com/saitama/area/11107/13037940/"
+        }
+      ]
+    },
+    {
+      "name": "ツインパレス　Ｂ",
+      "address": "埼玉県さいたま市桜区栄和１丁目１９－１６",
+      "station": "浦和駅",
+      "distance": "バス28分",
+      "yearBuilt": "2000-04-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11106/13036380/",
+      "rooms": [
+        {
+          "roomNo": "203",
+          "rent": 4.7,
+          "floorPlan": "1K",
+          "space": 23.9,
+          "url": "https://www.shamaison.com/saitama/area/11106/13036380/"
+        }
+      ]
+    },
+    {
+      "name": "ジュネス・パラディア",
+      "address": "埼玉県さいたま市浦和区岸町２丁目１１－１６",
+      "station": "浦和駅",
+      "distance": "徒歩13分",
+      "yearBuilt": "1998-09-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11107/13034170/",
+      "rooms": [
+        {
+          "roomNo": "102",
+          "rent": 6,
+          "floorPlan": "1K",
+          "space": 22.7,
+          "url": "https://www.shamaison.com/saitama/area/11107/13034170/"
+        }
+      ]
+    },
+    {
+      "name": "トート　ハイツ　Ａ",
+      "address": "埼玉県さいたま市緑区大字大牧１３７４－１",
+      "station": "東浦和駅",
+      "distance": "徒歩20分",
+      "yearBuilt": "1991-05-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11109/13019730/",
+      "rooms": [
+        {
+          "roomNo": "102",
+          "rent": 6,
+          "floorPlan": "3DK",
+          "space": 49,
+          "url": "https://www.shamaison.com/saitama/area/11109/13019730/"
+        }
+      ]
+    },
+    {
+      "name": "チェリーベル",
+      "address": "埼玉県さいたま市浦和区本太５丁目３９－１０",
+      "station": "浦和駅",
+      "distance": "徒歩19分",
+      "yearBuilt": "1990-06-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11107/13323638/",
+      "rooms": [
+        {
+          "roomNo": "202",
+          "rent": 5.9,
+          "floorPlan": "2K",
+          "space": 31,
+          "url": "https://www.shamaison.com/saitama/area/11107/13323638/"
+        },
+        {
+          "roomNo": "101",
+          "rent": 6.5,
+          "floorPlan": "2K",
+          "space": 35,
+          "url": "https://www.shamaison.com/saitama/area/11107/13323638/"
+        }
+      ]
+    },
+    {
+      "name": "ジュネス　アルプ",
+      "address": "埼玉県さいたま市緑区原山３丁目６－１０",
+      "station": "浦和駅",
+      "distance": "バス23分",
+      "yearBuilt": "1990-03-01T00:00:00+09:00",
+      "numberOfStairs": 3,
+      "url": "https://www.shamaison.com/saitama/area/11109/13016170/",
+      "rooms": [
+        {
+          "roomNo": "103",
+          "rent": 9.5,
+          "floorPlan": "3DK",
+          "space": 63.1,
+          "url": "https://www.shamaison.com/saitama/area/11109/13016170/"
+        }
+      ]
+    },
+    {
+      "name": "イースト　ヒル",
+      "address": "埼玉県さいたま市浦和区岸町５丁目１９－９",
+      "station": "武蔵浦和駅",
+      "distance": "徒歩13分",
+      "yearBuilt": "1990-01-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11107/13015500/",
+      "rooms": [
+        {
+          "roomNo": "203",
+          "rent": 9,
+          "floorPlan": "2K",
+          "space": 43,
+          "url": "https://www.shamaison.com/saitama/area/11107/13015500/"
+        }
+      ]
+    },
+    {
+      "name": "クレスト　ハウス",
+      "address": "埼玉県さいたま市浦和区仲町１丁目１２－４",
+      "station": "浦和駅",
+      "distance": "徒歩4分",
+      "yearBuilt": "1990-01-01T00:00:00+09:00",
+      "numberOfStairs": 4,
+      "url": "https://www.shamaison.com/saitama/area/11107/13016980/",
+      "rooms": [
+        {
+          "roomNo": "201",
+          "rent": 7.9,
+          "floorPlan": "2K",
+          "space": 42,
+          "url": "https://www.shamaison.com/saitama/area/11107/13016980/"
+        }
+      ]
+    },
+    {
+      "name": "グリーンパレス　松木　Ａ",
+      "address": "埼玉県さいたま市緑区松木１丁目１６－４",
+      "station": "東浦和駅",
+      "distance": "バス19分",
+      "yearBuilt": "1988-08-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11109/13012510/",
+      "rooms": [
+        {
+          "roomNo": "102",
+          "rent": 5.8,
+          "floorPlan": "2DK",
+          "space": 41,
+          "url": "https://www.shamaison.com/saitama/area/11109/13012510/"
+        }
+      ]
+    },
+    {
+      "name": "瀬ヶ崎　サンハイツ　Ａ",
+      "address": "埼玉県さいたま市浦和区瀬ヶ崎５丁目３３－２",
+      "station": "浦和駅",
+      "distance": "バス21分",
+      "yearBuilt": "1987-09-01T00:00:00+09:00",
+      "numberOfStairs": 2,
+      "url": "https://www.shamaison.com/saitama/area/11107/13007720/",
+      "rooms": [
+        {
+          "roomNo": "201",
+          "rent": 4,
+          "floorPlan": "2K",
+          "space": 30,
+          "url": "https://www.shamaison.com/saitama/area/11107/13007720/"
+        }
+      ]
+    }
+  ]
+}

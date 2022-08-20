@@ -1,6 +1,6 @@
 import { convertStringToDateFromAndDateTo } from "./convert";
 
-jest.setTimeout(60000);
+jest.setTimeout(10000);
 
 describe("convertStringToDateFromAndDateTo()", () => {
   it("[success]", async () => {

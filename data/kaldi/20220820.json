@@ -1,5 +1,5 @@
 {
-  "createdAt": "2022-08-20T22:50:21+09:00",
+  "createdAt": "2022-08-20T10:26:00+09:00",
   "data": [
     {
       "activeSale": "ACTIVE_SALE",
@@ -452,7 +452,7 @@
       "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
     },
     {
-      "activeSale": "ACTIVE_SALE",
+      "activeSale": "SALE_NOTICE",
       "shopName": "イオンモール札幌発寒店",
       "shopAddress": "北海道札幌市西区発寒8条12-1　イオンモール札幌発寒 1F",
       "saleName": "お客様感謝セール",

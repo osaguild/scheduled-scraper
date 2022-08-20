@@ -1,9 +1,30 @@
 import { By, ThenableWebDriver } from "selenium-webdriver";
-import { Sale, OldSale } from "./types";
-import { getDateFromSalesPeriod, formatDateToString } from "../utils";
+import { convertStringToDateFromAndDateTo } from "./convert";
+import { formatDateToString } from "../utils/date";
 
-// run scraping browser using selenium and get sale information from kaldi.
-export const scraping = async (driver: ThenableWebDriver) => {
+const KALDI_SALE_URI =
+  "https://map.kaldi.co.jp/kaldi/articleList?account=kaldi&accmd=1&ftop=1&kkw001=2010-03-12T13%3A10%3A35";
+
+type Sale = {
+  activeSale: ActiveSale;
+  shopName: string;
+  shopAddress: string;
+  saleName: string;
+  saleFrom: string;
+  saleTo: string;
+  saleDetail: string;
+};
+
+type KaldiSaleInfo = {
+  createdAt: string;
+  data: Sale[];
+};
+
+type ActiveSale = "ACTIVE _SALE" | "SALE_NOTICE";
+
+// run scraping using selenium
+const scraping = async (driver: ThenableWebDriver) => {
+  // get sale information at now
   const getSales = async () => {
     const _table = await driver.findElement(By.css(".cz_sp_table"));
     const _tbody = await _table.findElement(By.css("tbody"));
@@ -20,7 +41,8 @@ export const scraping = async (driver: ThenableWebDriver) => {
         .findElement(By.css(".saledetail"))
         .getText();
       // change searchable format
-      const { saleFrom, saleTo } = getDateFromSalesPeriod(_salePeriod);
+      const { saleFrom, saleTo } =
+        convertStringToDateFromAndDateTo(_salePeriod);
       const activeSale =
         _activeSale === "開催中" ? "ACTIVE_SALE" : "SALE_NOTICE";
       return {
@@ -35,35 +57,11 @@ export const scraping = async (driver: ThenableWebDriver) => {
     });
     return await Promise.all(promises);
   };
-
   // kaldi site redirect to current date page with the date automatically specified in the query string.
-  await driver.get(
-    "https://map.kaldi.co.jp/kaldi/articleList?account=kaldi&accmd=1&ftop=1&kkw001=2010-03-12T13%3A10%3A35"
-  );
-
+  await driver.get(KALDI_SALE_URI);
   // wait until the page is loaded.
   await new Promise((resolve) => setTimeout(resolve, 2000));
-
-  // get sale information at now
-  const sales = await getSales();
-
-  return sales;
+  return await getSales();
 };
 
-export const migrate = async (oldSales: OldSale[]) => {
-  const promises = oldSales.map(async (e) => {
-    const { saleFrom, saleTo } = getDateFromSalesPeriod(e.salePeriod);
-    const activeSale =
-      e.activeSale === "開催中" ? "ACTIVE_SALE" : "SALE_NOTICE";
-    return {
-      activeSale: activeSale,
-      shopName: e.shopName,
-      shopAddress: e.shopAddress,
-      saleName: e.saleName,
-      saleFrom: formatDateToString(saleFrom),
-      saleTo: formatDateToString(saleTo),
-      saleDetail: e.saleDetail,
-    } as Sale;
-  });
-  return await Promise.all(promises);
-};
+export { scraping, Sale, KaldiSaleInfo };

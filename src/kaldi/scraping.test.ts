@@ -1,10 +1,10 @@
-import { driver } from "../src/common/driver";
-import { scraping } from "../src/kaldi";
+import { driver } from "../utils/driver";
+import { scraping } from "./scraping";
 
 jest.setTimeout(60000);
 
-describe("kaldi", () => {
-  it("scraping", async () => {
+describe("scraping()", () => {
+  it("[success]", async () => {
     const sales = await scraping(driver);
     await driver.quit();
     expect(sales.length).toBeGreaterThan(0);

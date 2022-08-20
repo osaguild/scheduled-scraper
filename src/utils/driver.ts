@@ -7,7 +7,7 @@ const options = new chrome.Options().addArguments(
   "--disable-gpu"
 );
 
-export const driver = new Builder()
+const driver = new Builder()
   .forBrowser("chrome")
   .setChromeOptions(options)
   .setChromeService(
@@ -16,3 +16,5 @@ export const driver = new Builder()
     )
   )
   .build();
+
+export { driver };

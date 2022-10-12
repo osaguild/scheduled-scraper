@@ -1,26 +1,10 @@
 import { By, ThenableWebDriver } from "selenium-webdriver";
 import { convertStringToDateFromAndDateTo } from "./convert";
 import { formatDateToString } from "../utils/date";
+import { Sale } from "./types";
 
 const KALDI_SALE_URI =
   "https://map.kaldi.co.jp/kaldi/articleList?account=kaldi&accmd=1&ftop=1&kkw001=2010-03-12T13%3A10%3A35";
-
-type Sale = {
-  activeSale: ActiveSale;
-  shopName: string;
-  shopAddress: string;
-  saleName: string;
-  saleFrom: string;
-  saleTo: string;
-  saleDetail: string;
-};
-
-type KaldiSaleInfo = {
-  createdAt: string;
-  data: Sale[];
-};
-
-type ActiveSale = "ACTIVE _SALE" | "SALE_NOTICE";
 
 // run scraping using selenium
 const scraping = async (driver: ThenableWebDriver) => {
@@ -64,4 +48,4 @@ const scraping = async (driver: ThenableWebDriver) => {
   return await getSales();
 };
 
-export { scraping, Sale, KaldiSaleInfo };
+export { scraping };

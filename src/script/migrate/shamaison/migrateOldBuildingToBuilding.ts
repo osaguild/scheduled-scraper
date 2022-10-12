@@ -1,8 +1,18 @@
-import { formatDateToString } from "../utils/date";
-import { convertYearBuiltToDate } from "./convert";
-import { OldBuilding, Room, Building } from "./types";
+import {
+  ShamaisonBuildingInfo,
+  OldBuilding,
+  Room,
+  Building,
+} from "../../../shamaison/types";
+import { findSearchableStations } from "../../../shamaison/station";
+import { convertYearBuiltToDate } from "../../../shamaison/convert";
+import { formatDateToString, formatYYYYMMDDToDate } from "../../../utils/date";
+import {
+  findFileNamesUnderDirectory,
+  readFile,
+  writeFile,
+} from "../../../utils/file";
 
-// migrate OldBuildings to Buildings
 const migrate = async (oldBuildings: OldBuilding[]) => {
   const promises = oldBuildings.map(async (b) => {
     const station = b.access.split(" ")[1];
@@ -36,4 +46,16 @@ const migrate = async (oldBuildings: OldBuilding[]) => {
   return await Promise.all(promises);
 };
 
-export { migrate };
+(async () => {
+  const path = "./data/shamaison";
+  const fileNames = findFileNamesUnderDirectory(path);
+  fileNames.forEach(async (e) => {
+    const oldBuildings = readFile<OldBuilding[]>(`${path}/${e}`);
+    const file: ShamaisonBuildingInfo = {
+      createdAt: formatDateToString(formatYYYYMMDDToDate(e)),
+      stations: findSearchableStations(["浦和駅"]),
+      data: await migrate(oldBuildings),
+    };
+    writeFile(`${path}/${e}`, file);
+  });
+})();

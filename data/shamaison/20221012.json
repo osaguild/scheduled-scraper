@@ -30,7 +30,7 @@
           "floorPlan": "2LDK",
           "space": 60.64,
           "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200301",
-          "isNew": true
+          "isNew": false
         },
         {
           "roomNo": "302",
@@ -110,7 +110,7 @@
           "floorPlan": "2LDK",
           "space": 60.24,
           "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200103",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -169,7 +169,7 @@
           "floorPlan": "2LDK",
           "space": 58.12,
           "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600103",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -196,7 +196,7 @@
           "floorPlan": "1LDK",
           "space": 51.11,
           "url": "https://www.shamaison.com/saitama/area/11107/13323610/1430020000133236100101",
-          "isNew": true
+          "isNew": false
         }
       ]
     },

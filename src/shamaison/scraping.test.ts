@@ -1,6 +1,6 @@
 import { driver } from "../utils/driver";
 import { scraping } from "./scraping";
-import { Station } from "./station";
+import { Station } from "./types";
 
 jest.setTimeout(180000);
 

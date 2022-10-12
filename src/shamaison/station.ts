@@ -1,7 +1,4 @@
-type Station = {
-  name: string;
-  url: string;
-};
+import { Station } from "./types";
 
 const searchableStations: Station[] = [
   { name: "浦和駅", url: "/saitama/route/J002093/station/21982" },
@@ -15,4 +12,4 @@ const findSearchableStations = (stationNames: string[]) => {
     .filter((e): e is Exclude<typeof e, undefined> => e !== undefined);
 };
 
-export { findSearchableStations, Station };
+export { findSearchableStations };

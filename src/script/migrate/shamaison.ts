@@ -1,5 +1,5 @@
-import { ShamaisonBuildingInfo } from "../../shamaison/scraping";
-import { migrate, OldBuilding } from "../../shamaison/migrate";
+import { ShamaisonBuildingInfo, OldBuilding } from "../../shamaison/types";
+import { migrate } from "../../shamaison/migrate";
 import { findSearchableStations } from "../../shamaison/station";
 import { formatDateToString, formatYYYYMMDDToDate } from "../../utils/date";
 import {

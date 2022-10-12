@@ -1,24 +1,6 @@
 import { formatDateToString } from "../utils/date";
 import { convertYearBuiltToDate } from "./convert";
-import { Room, Building } from "./scraping";
-
-type OldBuilding = {
-  name: string;
-  address: string;
-  access: string;
-  yearBuilt: string;
-  numberOfStairs: string;
-  url: string;
-  rooms: OldRoom[];
-};
-
-type OldRoom = {
-  roomNo: string;
-  rent: string;
-  floorPlan: string;
-  area: string;
-  url: string;
-};
+import { OldBuilding, Room, Building } from "./types";
 
 // migrate OldBuildings to Buildings
 const migrate = async (oldBuildings: OldBuilding[]) => {
@@ -54,4 +36,4 @@ const migrate = async (oldBuildings: OldBuilding[]) => {
   return await Promise.all(promises);
 };
 
-export { migrate, OldBuilding, OldRoom };
+export { migrate };

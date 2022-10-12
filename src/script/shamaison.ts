@@ -1,6 +1,7 @@
 import "dotenv/config";
 import { driver } from "../utils/driver";
-import { scraping, ShamaisonBuildingInfo } from "../shamaison/scraping";
+import { scraping } from "../shamaison/scraping";
+import { ShamaisonBuildingInfo } from "../shamaison/types";
 import { findSearchableStations } from "../shamaison/station";
 import { formatDateToYYYYMMDD, formatDateToString } from "../utils/date";
 import { writeFile } from "../utils/file";

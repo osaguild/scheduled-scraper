@@ -1,34 +1,9 @@
 import { By, ThenableWebDriver, WebElement } from "selenium-webdriver";
 import { formatDateToString } from "../utils/date";
-import { Station } from "./station";
 import { convertYearBuiltToDate } from "./convert";
+import { Building, Room, Station } from "./types";
 
 const SHAMAISON_URI = "https://www.shamaison.com";
-
-type Building = {
-  name: string;
-  address: string;
-  station: string;
-  distance: string;
-  yearBuilt: string;
-  numberOfStairs: number;
-  url: string;
-  rooms: Room[];
-};
-
-type Room = {
-  roomNo: string;
-  rent: number;
-  floorPlan: string;
-  space: number;
-  url: string;
-};
-
-type ShamaisonBuildingInfo = {
-  createdAt: string;
-  stations: Station[];
-  data: Building[];
-};
 
 // run scraping using selenium
 const scraping = async (driver: ThenableWebDriver, stations: Station[]) => {
@@ -148,4 +123,4 @@ const scraping = async (driver: ThenableWebDriver, stations: Station[]) => {
   return Array.from(new Set(building));
 };
 
-export { Building, Room, ShamaisonBuildingInfo, scraping };
+export { scraping };

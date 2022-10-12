@@ -1,4 +1,4 @@
-export interface Building {
+type Building = {
   name: string;
   address: string;
   station: string;
@@ -7,17 +7,30 @@ export interface Building {
   numberOfStairs: number;
   url: string;
   rooms: Room[];
-}
+};
 
-export interface Room {
+type Room = {
   roomNo: string;
   rent: number;
   floorPlan: string;
   space: number;
   url: string;
-}
+  isNew?: boolean;
+};
 
-export interface OldBuilding {
+type ShamaisonBuildingInfo = {
+  createdAt: string;
+  stations: Station[];
+  data: Building[];
+};
+
+type Station = {
+  name: string;
+  url: string;
+};
+
+// for migration
+type OldBuilding = {
   name: string;
   address: string;
   access: string;
@@ -25,23 +38,15 @@ export interface OldBuilding {
   numberOfStairs: string;
   url: string;
   rooms: OldRoom[];
-}
+};
 
-export interface OldRoom {
+// for migration
+type OldRoom = {
   roomNo: string;
   rent: string;
   floorPlan: string;
   area: string;
   url: string;
-}
+};
 
-export interface Station {
-  name: string;
-  url: string;
-}
-
-export interface File {
-  createdAt: string;
-  stations: Station[];
-  data: Building[];
-}
+export { Building, Room, ShamaisonBuildingInfo, Station, OldBuilding, OldRoom };

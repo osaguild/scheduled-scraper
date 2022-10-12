@@ -15,6 +15,7 @@ type Room = {
   floorPlan: string;
   space: number;
   url: string;
+  isNew?: boolean;
 };
 
 type ShamaisonBuildingInfo = {

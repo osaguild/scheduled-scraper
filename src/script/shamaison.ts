@@ -1,10 +1,11 @@
 import "dotenv/config";
-import { driver } from "../utils/driver";
 import { scraping } from "../shamaison/scraping";
-import { ShamaisonBuildingInfo } from "../shamaison/types";
+import { setIsNew } from "../shamaison/edit";
 import { findSearchableStations } from "../shamaison/station";
+import { ShamaisonBuildingInfo } from "../shamaison/types";
+import { driver } from "../utils/driver";
 import { formatDateToYYYYMMDD, formatDateToString } from "../utils/date";
-import { writeFile } from "../utils/file";
+import { writeFile, readLatestFile } from "../utils/file";
 
 (async () => {
   // get target station names from environment variable.
@@ -12,13 +13,22 @@ import { writeFile } from "../utils/file";
     process.env.SHAMAISON_TARGET_STATIONS as string
   );
   const stations = await findSearchableStations(stationNames);
-  const buildings = await scraping(driver, stations);
+  const newBuildings = await scraping(driver, stations);
   await driver.quit();
+
+  // get old buildings from latest file.
+  const oldBuildings =
+    readLatestFile<ShamaisonBuildingInfo>("./data/shamaison").data;
+
+  // add new flag to new rooms
+  const editedBuildings = setIsNew(oldBuildings, newBuildings);
+
+  // write to file
   const filePath = `./data/shamaison/${formatDateToYYYYMMDD(new Date())}.json`;
   const file: ShamaisonBuildingInfo = {
     createdAt: formatDateToString(new Date()),
     stations: stations,
-    data: buildings,
+    data: editedBuildings,
   };
   writeFile(filePath, file);
 })();

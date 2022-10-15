@@ -13,6 +13,8 @@ import { writeFile, readLatestFile } from "../utils/file";
     process.env.SHAMAISON_TARGET_STATIONS as string
   );
   const stations = await findSearchableStations(stationNames);
+
+  // scraping
   const newBuildings = await scraping(driver, stations);
   await driver.quit();
 

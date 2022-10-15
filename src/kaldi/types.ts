@@ -6,6 +6,7 @@ type Sale = {
   saleFrom: string;
   saleTo: string;
   saleDetail: string;
+  isNew?: boolean;
 };
 
 type KaldiSaleInfo = {
@@ -23,6 +24,6 @@ type OldSale = {
   saleDetail: string;
 };
 
-type ActiveSale = "ACTIVE _SALE" | "SALE_NOTICE";
+type ActiveSale = "ACTIVE_SALE" | "SALE_NOTICE";
 
 export { Sale, KaldiSaleInfo, OldSale, ActiveSale };

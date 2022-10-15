@@ -29,77 +29,88 @@
           "rent": 15.6,
           "floorPlan": "2LDK",
           "space": 60.64,
-          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200301"
+          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200301",
+          "isNew": false
         },
         {
           "roomNo": "302",
           "rent": 15.8,
           "floorPlan": "2LDK",
           "space": 62.17,
-          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200302"
+          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200302",
+          "isNew": false
         },
         {
           "roomNo": "303",
           "rent": 15.7,
           "floorPlan": "2LDK",
           "space": 59.17,
-          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200303"
+          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200303",
+          "isNew": false
         },
         {
           "roomNo": "304",
           "rent": 15.3,
           "floorPlan": "2LDK",
           "space": 56.17,
-          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200304"
+          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200304",
+          "isNew": false
         },
         {
           "roomNo": "201",
           "rent": 15.3,
           "floorPlan": "2LDK",
           "space": 60.64,
-          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200201"
+          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200201",
+          "isNew": false
         },
         {
           "roomNo": "202",
           "rent": 15.5,
           "floorPlan": "2LDK",
           "space": 62.17,
-          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200202"
+          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200202",
+          "isNew": false
         },
         {
           "roomNo": "203",
           "rent": 15.4,
           "floorPlan": "2LDK",
           "space": 59.17,
-          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200203"
+          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200203",
+          "isNew": false
         },
         {
           "roomNo": "204",
           "rent": 15,
           "floorPlan": "2LDK",
           "space": 56.17,
-          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200204"
+          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200204",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 14.7,
           "floorPlan": "2LDK",
           "space": 58.02,
-          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200101"
+          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200101",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 15,
           "floorPlan": "2LDK",
           "space": 62.17,
-          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200102"
+          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200102",
+          "isNew": false
         },
         {
           "roomNo": "103",
           "rent": 14.9,
           "floorPlan": "2LDK",
           "space": 60.24,
-          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200103"
+          "url": "https://www.shamaison.com/saitama/area/11203/13323620/1430020000133236200103",
+          "isNew": false
         }
       ]
     },
@@ -117,56 +128,64 @@
           "rent": 14.8,
           "floorPlan": "2LDK",
           "space": 69.74,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600301"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600301",
+          "isNew": false
         },
         {
           "roomNo": "302",
           "rent": 10,
           "floorPlan": "1LDK",
           "space": 45.74,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600302"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600302",
+          "isNew": false
         },
         {
           "roomNo": "201",
           "rent": 14.5,
           "floorPlan": "2LDK",
           "space": 69.74,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600201"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600201",
+          "isNew": false
         },
         {
           "roomNo": "202",
           "rent": 9.7,
           "floorPlan": "1LDK",
           "space": 45.74,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600202"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600202",
+          "isNew": false
         },
         {
           "roomNo": "203",
           "rent": 12.9,
           "floorPlan": "2LDK",
           "space": 58.12,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600203"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600203",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 9.7,
           "floorPlan": "1LDK",
           "space": 51.09,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600101"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600101",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 9.2,
           "floorPlan": "1LDK",
           "space": 45.74,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600102"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600102",
+          "isNew": false
         },
         {
           "roomNo": "103",
           "rent": 12.4,
           "floorPlan": "2LDK",
           "space": 58.12,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600103"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323760/1430020000133237600103",
+          "isNew": false
         }
       ]
     },
@@ -184,63 +203,72 @@
           "rent": 15.4,
           "floorPlan": "2LDK",
           "space": 65.43,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400301"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400301",
+          "isNew": false
         },
         {
           "roomNo": "306",
           "rent": 18.1,
           "floorPlan": "2LDK",
           "space": 79.06,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400306"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400306",
+          "isNew": false
         },
         {
           "roomNo": "201",
           "rent": 14.9,
           "floorPlan": "2LDK",
           "space": 65.43,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400201"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400201",
+          "isNew": false
         },
         {
           "roomNo": "203",
           "rent": 11.4,
           "floorPlan": "1LDK",
           "space": 49.5,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400203"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400203",
+          "isNew": false
         },
         {
           "roomNo": "205",
           "rent": 17.3,
           "floorPlan": "2LDK",
           "space": 78,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400205"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400205",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 10.1,
           "floorPlan": "1LDK",
           "space": 44.93,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400101"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400101",
+          "isNew": false
         },
         {
           "roomNo": "103",
           "rent": 11,
           "floorPlan": "1LDK",
           "space": 49.5,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400103"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400103",
+          "isNew": false
         },
         {
           "roomNo": "105",
           "rent": 16.9,
           "floorPlan": "2LDK",
           "space": 78,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400105"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400105",
+          "isNew": false
         },
         {
           "roomNo": "106",
           "rent": 15.3,
           "floorPlan": "2LDK",
           "space": 67.62,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400106"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323440/1430020000133234400106",
+          "isNew": false
         }
       ]
     },
@@ -258,56 +286,64 @@
           "rent": 15.4,
           "floorPlan": "3LDK",
           "space": 78.28,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500201"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500201",
+          "isNew": false
         },
         {
           "roomNo": "202",
           "rent": 10.3,
           "floorPlan": "1LDK",
           "space": 52.24,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500202"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500202",
+          "isNew": false
         },
         {
           "roomNo": "203",
           "rent": 10.3,
           "floorPlan": "1LDK",
           "space": 52.24,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500203"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500203",
+          "isNew": false
         },
         {
           "roomNo": "204",
           "rent": 16.2,
           "floorPlan": "3LDK",
           "space": 86.62,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500204"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500204",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 15.2,
           "floorPlan": "3LDK",
           "space": 78.28,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500101"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500101",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 10.1,
           "floorPlan": "1LDK",
           "space": 52.24,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500102"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500102",
+          "isNew": false
         },
         {
           "roomNo": "103",
           "rent": 10.1,
           "floorPlan": "1LDK",
           "space": 52.24,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500103"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500103",
+          "isNew": false
         },
         {
           "roomNo": "104",
           "rent": 14.7,
           "floorPlan": "2LDK",
           "space": 76.03,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500104"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500104",
+          "isNew": false
         }
       ]
     },
@@ -325,35 +361,40 @@
           "rent": 14.7,
           "floorPlan": "2LDK",
           "space": 74.28,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600201"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600201",
+          "isNew": false
         },
         {
           "roomNo": "202",
           "rent": 13.1,
           "floorPlan": "2LDK",
           "space": 66.33,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600202"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600202",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 14.8,
           "floorPlan": "2LDK",
           "space": 76.28,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600101"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600101",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 13.5,
           "floorPlan": "2LDK",
           "space": 69.32,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600102"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600102",
+          "isNew": false
         },
         {
           "roomNo": "103",
           "rent": 14,
           "floorPlan": "2LDK",
           "space": 71.77,
-          "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600103"
+          "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600103",
+          "isNew": false
         }
       ]
     },
@@ -371,7 +412,8 @@
           "rent": 24.9,
           "floorPlan": "2LDK",
           "space": 80.42,
-          "url": "https://www.shamaison.com/saitama/area/11107/13323350/1430020000133233500302"
+          "url": "https://www.shamaison.com/saitama/area/11107/13323350/1430020000133233500302",
+          "isNew": false
         }
       ]
     },
@@ -389,7 +431,8 @@
           "rent": 7.7,
           "floorPlan": "1SK",
           "space": 34.71,
-          "url": "https://www.shamaison.com/saitama/area/11105/13322670/1430020000133226700102"
+          "url": "https://www.shamaison.com/saitama/area/11105/13322670/1430020000133226700102",
+          "isNew": false
         }
       ]
     },
@@ -407,7 +450,8 @@
           "rent": 16,
           "floorPlan": "1LDK",
           "space": 50.84,
-          "url": "https://www.shamaison.com/saitama/area/11108/13900080/1430020000139000800102"
+          "url": "https://www.shamaison.com/saitama/area/11108/13900080/1430020000139000800102",
+          "isNew": false
         }
       ]
     },
@@ -425,7 +469,8 @@
           "rent": 11,
           "floorPlan": "1LDK",
           "space": 60.47,
-          "url": "https://www.shamaison.com/saitama/area/11109/13321950/1430020000133219500103"
+          "url": "https://www.shamaison.com/saitama/area/11109/13321950/1430020000133219500103",
+          "isNew": false
         }
       ]
     },
@@ -443,7 +488,8 @@
           "rent": 12.4,
           "floorPlan": "1SLDK",
           "space": 65.2,
-          "url": "https://www.shamaison.com/saitama/area/11109/13321870/1430020000133218700101"
+          "url": "https://www.shamaison.com/saitama/area/11109/13321870/1430020000133218700101",
+          "isNew": false
         }
       ]
     },
@@ -461,7 +507,8 @@
           "rent": 9,
           "floorPlan": "1K",
           "space": 34.43,
-          "url": "https://www.shamaison.com/saitama/area/11108/13900050/1430020000139000500202"
+          "url": "https://www.shamaison.com/saitama/area/11108/13900050/1430020000139000500202",
+          "isNew": false
         }
       ]
     },
@@ -479,7 +526,8 @@
           "rent": 11.2,
           "floorPlan": "1LDK",
           "space": 45.45,
-          "url": "https://www.shamaison.com/saitama/area/11108/13321430/1430020000133214300303"
+          "url": "https://www.shamaison.com/saitama/area/11108/13321430/1430020000133214300303",
+          "isNew": false
         }
       ]
     },
@@ -497,7 +545,8 @@
           "rent": 7.5,
           "floorPlan": "1LDK",
           "space": 43.6,
-          "url": "https://www.shamaison.com/saitama/area/11109/13127340/1430020000131273400101"
+          "url": "https://www.shamaison.com/saitama/area/11109/13127340/1430020000131273400101",
+          "isNew": false
         }
       ]
     },
@@ -515,7 +564,8 @@
           "rent": 9,
           "floorPlan": "1LDK",
           "space": 42.23,
-          "url": "https://www.shamaison.com/saitama/area/11107/13125220/1430020000131252200101"
+          "url": "https://www.shamaison.com/saitama/area/11107/13125220/1430020000131252200101",
+          "isNew": false
         }
       ]
     },
@@ -533,7 +583,8 @@
           "rent": 8.9,
           "floorPlan": "2LDK",
           "space": 61.2,
-          "url": "https://www.shamaison.com/saitama/area/11106/13124850/1430020000131248500201"
+          "url": "https://www.shamaison.com/saitama/area/11106/13124850/1430020000131248500201",
+          "isNew": false
         }
       ]
     },
@@ -551,7 +602,8 @@
           "rent": 8.2,
           "floorPlan": "2LDK",
           "space": 51.85,
-          "url": "https://www.shamaison.com/saitama/area/11108/13124380/1430020000131243800203"
+          "url": "https://www.shamaison.com/saitama/area/11108/13124380/1430020000131243800203",
+          "isNew": false
         }
       ]
     },
@@ -569,7 +621,8 @@
           "rent": 9.5,
           "floorPlan": "1LDK",
           "space": 43.05,
-          "url": "https://www.shamaison.com/saitama/area/11107/13124510/1430020000131245100102"
+          "url": "https://www.shamaison.com/saitama/area/11107/13124510/1430020000131245100102",
+          "isNew": false
         }
       ]
     },
@@ -587,7 +640,8 @@
           "rent": 8.3,
           "floorPlan": "1K",
           "space": 31.5,
-          "url": "https://www.shamaison.com/saitama/area/11107/13124560/1430020000131245600202"
+          "url": "https://www.shamaison.com/saitama/area/11107/13124560/1430020000131245600202",
+          "isNew": false
         }
       ]
     },
@@ -605,7 +659,8 @@
           "rent": 10.2,
           "floorPlan": "1LDK",
           "space": 43,
-          "url": "https://www.shamaison.com/saitama/area/11107/13320960/1430020000133209600201"
+          "url": "https://www.shamaison.com/saitama/area/11107/13320960/1430020000133209600201",
+          "isNew": false
         }
       ]
     },
@@ -623,14 +678,16 @@
           "rent": 11.8,
           "floorPlan": "1LDK",
           "space": 47.52,
-          "url": "https://www.shamaison.com/saitama/area/11108/13122640/1430020000131226400302"
+          "url": "https://www.shamaison.com/saitama/area/11108/13122640/1430020000131226400302",
+          "isNew": false
         },
         {
           "roomNo": "205",
           "rent": 12.3,
           "floorPlan": "1LDK",
           "space": 53.85,
-          "url": "https://www.shamaison.com/saitama/area/11108/13122640/1430020000131226400205"
+          "url": "https://www.shamaison.com/saitama/area/11108/13122640/1430020000131226400205",
+          "isNew": false
         }
       ]
     },
@@ -648,21 +705,24 @@
           "rent": 6.8,
           "floorPlan": "1K",
           "space": 23.65,
-          "url": "https://www.shamaison.com/saitama/area/11107/13121140/1430020000131211400310"
+          "url": "https://www.shamaison.com/saitama/area/11107/13121140/1430020000131211400310",
+          "isNew": false
         },
         {
           "roomNo": "201",
           "rent": 6.8,
           "floorPlan": "1K",
           "space": 25.68,
-          "url": "https://www.shamaison.com/saitama/area/11107/13121140/1430020000131211400201"
+          "url": "https://www.shamaison.com/saitama/area/11107/13121140/1430020000131211400201",
+          "isNew": false
         },
         {
           "roomNo": "107",
           "rent": 6.5,
           "floorPlan": "1K",
           "space": 23.65,
-          "url": "https://www.shamaison.com/saitama/area/11107/13121140/1430020000131211400107"
+          "url": "https://www.shamaison.com/saitama/area/11107/13121140/1430020000131211400107",
+          "isNew": false
         }
       ]
     },
@@ -680,7 +740,8 @@
           "rent": 6.1,
           "floorPlan": "1K",
           "space": 23.25,
-          "url": "https://www.shamaison.com/saitama/area/11108/13120950/1430020000131209500205"
+          "url": "https://www.shamaison.com/saitama/area/11108/13120950/1430020000131209500205",
+          "isNew": false
         }
       ]
     },
@@ -698,7 +759,8 @@
           "rent": 7.8,
           "floorPlan": "1K",
           "space": 30.3,
-          "url": "https://www.shamaison.com/saitama/area/11107/13120990/1430020000131209900201"
+          "url": "https://www.shamaison.com/saitama/area/11107/13120990/1430020000131209900201",
+          "isNew": false
         }
       ]
     },
@@ -716,7 +778,8 @@
           "rent": 6.9,
           "floorPlan": "1LDK",
           "space": 40.3,
-          "url": "https://www.shamaison.com/saitama/area/11109/13120760/1430020000131207600203"
+          "url": "https://www.shamaison.com/saitama/area/11109/13120760/1430020000131207600203",
+          "isNew": false
         }
       ]
     },
@@ -734,14 +797,16 @@
           "rent": 7.9,
           "floorPlan": "1LDK",
           "space": 49.47,
-          "url": "https://www.shamaison.com/saitama/area/11109/13120540/1430020000131205400101"
+          "url": "https://www.shamaison.com/saitama/area/11109/13120540/1430020000131205400101",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 7.5,
           "floorPlan": "1LDK",
           "space": 49.47,
-          "url": "https://www.shamaison.com/saitama/area/11109/13120540/1430020000131205400102"
+          "url": "https://www.shamaison.com/saitama/area/11109/13120540/1430020000131205400102",
+          "isNew": false
         }
       ]
     },
@@ -759,7 +824,8 @@
           "rent": 7.4,
           "floorPlan": "1K",
           "space": 36.45,
-          "url": "https://www.shamaison.com/saitama/area/11203/13120440/1430020000131204400307"
+          "url": "https://www.shamaison.com/saitama/area/11203/13120440/1430020000131204400307",
+          "isNew": false
         }
       ]
     },
@@ -777,7 +843,8 @@
           "rent": 6.8,
           "floorPlan": "1LDK",
           "space": 41.9,
-          "url": "https://www.shamaison.com/saitama/area/11109/13050120/1430020000130501200102"
+          "url": "https://www.shamaison.com/saitama/area/11109/13050120/1430020000130501200102",
+          "isNew": false
         }
       ]
     },
@@ -795,7 +862,8 @@
           "rent": 11,
           "floorPlan": "2LDK",
           "space": 56.2,
-          "url": "https://www.shamaison.com/saitama/area/11108/13038940/1430020000130389400301"
+          "url": "https://www.shamaison.com/saitama/area/11108/13038940/1430020000130389400301",
+          "isNew": false
         }
       ]
     },
@@ -813,7 +881,8 @@
           "rent": 6.6,
           "floorPlan": "1K",
           "space": 25.6,
-          "url": "https://www.shamaison.com/saitama/area/11107/13037940/1430020000130379400101"
+          "url": "https://www.shamaison.com/saitama/area/11107/13037940/1430020000130379400101",
+          "isNew": false
         }
       ]
     },
@@ -831,7 +900,8 @@
           "rent": 4.7,
           "floorPlan": "1K",
           "space": 23.9,
-          "url": "https://www.shamaison.com/saitama/area/11106/13036380/1430020000130363800203"
+          "url": "https://www.shamaison.com/saitama/area/11106/13036380/1430020000130363800203",
+          "isNew": false
         }
       ]
     },
@@ -849,7 +919,8 @@
           "rent": 6,
           "floorPlan": "1K",
           "space": 22.7,
-          "url": "https://www.shamaison.com/saitama/area/11107/13034170/1430020000130341700102"
+          "url": "https://www.shamaison.com/saitama/area/11107/13034170/1430020000130341700102",
+          "isNew": false
         }
       ]
     },
@@ -867,7 +938,8 @@
           "rent": 7.5,
           "floorPlan": "2DK",
           "space": 56.9,
-          "url": "https://www.shamaison.com/saitama/area/11109/13034200/1430020000130342000101"
+          "url": "https://www.shamaison.com/saitama/area/11109/13034200/1430020000130342000101",
+          "isNew": false
         }
       ]
     },
@@ -885,7 +957,8 @@
           "rent": 5.8,
           "floorPlan": "3DK",
           "space": 49,
-          "url": "https://www.shamaison.com/saitama/area/11109/13019730/1430020000130197300102"
+          "url": "https://www.shamaison.com/saitama/area/11109/13019730/1430020000130197300102",
+          "isNew": false
         }
       ]
     },
@@ -903,14 +976,16 @@
           "rent": 5.9,
           "floorPlan": "2K",
           "space": 31,
-          "url": "https://www.shamaison.com/saitama/area/11107/13323638/1430020000133236380202"
+          "url": "https://www.shamaison.com/saitama/area/11107/13323638/1430020000133236380202",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 6.5,
           "floorPlan": "2K",
           "space": 35,
-          "url": "https://www.shamaison.com/saitama/area/11107/13323638/1430020000133236380101"
+          "url": "https://www.shamaison.com/saitama/area/11107/13323638/1430020000133236380101",
+          "isNew": false
         }
       ]
     },
@@ -928,7 +1003,8 @@
           "rent": 7.9,
           "floorPlan": "2K",
           "space": 42,
-          "url": "https://www.shamaison.com/saitama/area/11107/13016980/1430020000130169800401"
+          "url": "https://www.shamaison.com/saitama/area/11107/13016980/1430020000130169800401",
+          "isNew": false
         }
       ]
     },
@@ -946,7 +1022,8 @@
           "rent": 5.8,
           "floorPlan": "2K",
           "space": 42,
-          "url": "https://www.shamaison.com/saitama/area/11109/13012630/1430020000130126300202"
+          "url": "https://www.shamaison.com/saitama/area/11109/13012630/1430020000130126300202",
+          "isNew": false
         }
       ]
     },
@@ -964,7 +1041,8 @@
           "rent": 5.8,
           "floorPlan": "2DK",
           "space": 41,
-          "url": "https://www.shamaison.com/saitama/area/11109/13012510/1430020000130125100102"
+          "url": "https://www.shamaison.com/saitama/area/11109/13012510/1430020000130125100102",
+          "isNew": false
         }
       ]
     },
@@ -982,7 +1060,8 @@
           "rent": 5.7,
           "floorPlan": "3DK",
           "space": 49.4,
-          "url": "https://www.shamaison.com/saitama/area/11109/13011660/1430020000130116600201"
+          "url": "https://www.shamaison.com/saitama/area/11109/13011660/1430020000130116600201",
+          "isNew": false
         }
       ]
     },
@@ -1000,7 +1079,8 @@
           "rent": 4,
           "floorPlan": "2K",
           "space": 30,
-          "url": "https://www.shamaison.com/saitama/area/11107/13007720/1430020000130077200201"
+          "url": "https://www.shamaison.com/saitama/area/11107/13007720/1430020000130077200201",
+          "isNew": false
         }
       ]
     },
@@ -1018,7 +1098,8 @@
           "rent": 8.2,
           "floorPlan": "2K",
           "space": 39.5,
-          "url": "https://www.shamaison.com/saitama/area/11107/13009000/1430020000130090000201"
+          "url": "https://www.shamaison.com/saitama/area/11107/13009000/1430020000130090000201",
+          "isNew": false
         }
       ]
     },
@@ -1036,77 +1117,88 @@
           "rent": 14.2,
           "floorPlan": "2LDK",
           "space": 81.08,
-          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200301"
+          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200301",
+          "isNew": false
         },
         {
           "roomNo": "303",
           "rent": 16.7,
           "floorPlan": "3SLDK",
           "space": 92.28,
-          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200303"
+          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200303",
+          "isNew": false
         },
         {
           "roomNo": "305",
           "rent": 10.1,
           "floorPlan": "1LDK",
           "space": 57.05,
-          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200305"
+          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200305",
+          "isNew": false
         },
         {
           "roomNo": "201",
           "rent": 13.5,
           "floorPlan": "2LDK",
           "space": 78.71,
-          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200201"
+          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200201",
+          "isNew": false
         },
         {
           "roomNo": "202",
           "rent": 10,
           "floorPlan": "1LDK",
           "space": 56.58,
-          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200202"
+          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200202",
+          "isNew": false
         },
         {
           "roomNo": "203",
           "rent": 16.6,
           "floorPlan": "3SLDK",
           "space": 92.43,
-          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200203"
+          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200203",
+          "isNew": false
         },
         {
           "roomNo": "205",
           "rent": 13.2,
           "floorPlan": "2LDK",
           "space": 73.41,
-          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200205"
+          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200205",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 12.9,
           "floorPlan": "2LDK",
           "space": 73.15,
-          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200101"
+          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200101",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 9.7,
           "floorPlan": "1LDK",
           "space": 56.58,
-          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200102"
+          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200102",
+          "isNew": false
         },
         {
           "roomNo": "103",
           "rent": 14,
           "floorPlan": "2SLDK",
           "space": 80.33,
-          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200103"
+          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200103",
+          "isNew": false
         },
         {
           "roomNo": "105",
           "rent": 9.7,
           "floorPlan": "1LDK",
           "space": 57.06,
-          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200105"
+          "url": "https://www.shamaison.com/saitama/area/11104/13301720/1430020000133017200105",
+          "isNew": false
         }
       ]
     },
@@ -1124,42 +1216,48 @@
           "rent": 20.7,
           "floorPlan": "3LDK",
           "space": 82.03,
-          "url": "https://www.shamaison.com/saitama/area/11105/13301730/1430020000133017300201"
+          "url": "https://www.shamaison.com/saitama/area/11105/13301730/1430020000133017300201",
+          "isNew": false
         },
         {
           "roomNo": "202",
           "rent": 13.6,
           "floorPlan": "1LDK",
           "space": 56,
-          "url": "https://www.shamaison.com/saitama/area/11105/13301730/1430020000133017300202"
+          "url": "https://www.shamaison.com/saitama/area/11105/13301730/1430020000133017300202",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 12.4,
           "floorPlan": "1LDK",
           "space": 51.2,
-          "url": "https://www.shamaison.com/saitama/area/11105/13301730/1430020000133017300101"
+          "url": "https://www.shamaison.com/saitama/area/11105/13301730/1430020000133017300101",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 13.4,
           "floorPlan": "1LDK",
           "space": 56,
-          "url": "https://www.shamaison.com/saitama/area/11105/13301730/1430020000133017300102"
+          "url": "https://www.shamaison.com/saitama/area/11105/13301730/1430020000133017300102",
+          "isNew": false
         },
         {
           "roomNo": "103",
           "rent": 16.4,
           "floorPlan": "2LDK",
           "space": 69.98,
-          "url": "https://www.shamaison.com/saitama/area/11105/13301730/1430020000133017300103"
+          "url": "https://www.shamaison.com/saitama/area/11105/13301730/1430020000133017300103",
+          "isNew": false
         },
         {
           "roomNo": "105",
           "rent": 11.6,
           "floorPlan": "1LDK",
           "space": 46.83,
-          "url": "https://www.shamaison.com/saitama/area/11105/13301730/1430020000133017300105"
+          "url": "https://www.shamaison.com/saitama/area/11105/13301730/1430020000133017300105",
+          "isNew": false
         }
       ]
     },
@@ -1177,70 +1275,80 @@
           "rent": 13.2,
           "floorPlan": "1LDK",
           "space": 46.14,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800301"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800301",
+          "isNew": false
         },
         {
           "roomNo": "302",
           "rent": 12.9,
           "floorPlan": "1LDK",
           "space": 44.89,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800302"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800302",
+          "isNew": false
         },
         {
           "roomNo": "303",
           "rent": 13.2,
           "floorPlan": "1LDK",
           "space": 46.65,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800303"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800303",
+          "isNew": false
         },
         {
           "roomNo": "305",
           "rent": 13.3,
           "floorPlan": "1LDK",
           "space": 48.27,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800305"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800305",
+          "isNew": false
         },
         {
           "roomNo": "201",
           "rent": 13,
           "floorPlan": "1LDK",
           "space": 46.14,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800201"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800201",
+          "isNew": false
         },
         {
           "roomNo": "202",
           "rent": 12.8,
           "floorPlan": "1LDK",
           "space": 44.89,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800202"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800202",
+          "isNew": false
         },
         {
           "roomNo": "205",
           "rent": 13,
           "floorPlan": "1LDK",
           "space": 48.27,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800205"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800205",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 12.8,
           "floorPlan": "1LDK",
           "space": 46.14,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800101"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800101",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 12.7,
           "floorPlan": "1LDK",
           "space": 44.89,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800102"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800102",
+          "isNew": false
         },
         {
           "roomNo": "103",
           "rent": 12.8,
           "floorPlan": "1LDK",
           "space": 47.98,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800103"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301780/1430020000133017800103",
+          "isNew": false
         }
       ]
     },
@@ -1258,28 +1366,32 @@
           "rent": 14.5,
           "floorPlan": "1LDK",
           "space": 48.43,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301670/1430020000133016700301"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301670/1430020000133016700301",
+          "isNew": false
         },
         {
           "roomNo": "201",
           "rent": 14.3,
           "floorPlan": "1LDK",
           "space": 48.83,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301670/1430020000133016700201"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301670/1430020000133016700201",
+          "isNew": false
         },
         {
           "roomNo": "202",
           "rent": 14.6,
           "floorPlan": "1LDK",
           "space": 51.3,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301670/1430020000133016700202"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301670/1430020000133016700202",
+          "isNew": false
         },
         {
           "roomNo": "205",
           "rent": 19.5,
           "floorPlan": "2LDK",
           "space": 68.48,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301670/1430020000133016700205"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301670/1430020000133016700205",
+          "isNew": false
         }
       ]
     },
@@ -1297,42 +1409,48 @@
           "rent": 19.9,
           "floorPlan": "1SLDK",
           "space": 60.57,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301610/1430020000133016100302"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301610/1430020000133016100302",
+          "isNew": false
         },
         {
           "roomNo": "201",
           "rent": 22.7,
           "floorPlan": "2LDK",
           "space": 71.59,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301610/1430020000133016100201"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301610/1430020000133016100201",
+          "isNew": false
         },
         {
           "roomNo": "202",
           "rent": 19.6,
           "floorPlan": "1SLDK",
           "space": 60.57,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301610/1430020000133016100202"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301610/1430020000133016100202",
+          "isNew": false
         },
         {
           "roomNo": "203",
           "rent": 23.6,
           "floorPlan": "2LDK",
           "space": 74.37,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301610/1430020000133016100203"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301610/1430020000133016100203",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 22.4,
           "floorPlan": "2LDK",
           "space": 71.59,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301610/1430020000133016100101"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301610/1430020000133016100101",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 19.3,
           "floorPlan": "1SLDK",
           "space": 61.01,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301610/1430020000133016100102"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301610/1430020000133016100102",
+          "isNew": false
         }
       ]
     },
@@ -1350,28 +1468,32 @@
           "rent": 13,
           "floorPlan": "1LDK",
           "space": 45.37,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301640/1430020000133016400301"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301640/1430020000133016400301",
+          "isNew": false
         },
         {
           "roomNo": "201",
           "rent": 12.8,
           "floorPlan": "1LDK",
           "space": 45.37,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301640/1430020000133016400201"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301640/1430020000133016400201",
+          "isNew": false
         },
         {
           "roomNo": "203",
           "rent": 12.2,
           "floorPlan": "1LDK",
           "space": 43.5,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301640/1430020000133016400203"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301640/1430020000133016400203",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 12.5,
           "floorPlan": "1LDK",
           "space": 45.37,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301640/1430020000133016400101"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301640/1430020000133016400101",
+          "isNew": false
         }
       ]
     },
@@ -1389,63 +1511,72 @@
           "rent": 12.6,
           "floorPlan": "1LDK",
           "space": 45.65,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200302"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200302",
+          "isNew": false
         },
         {
           "roomNo": "303",
           "rent": 12.6,
           "floorPlan": "1LDK",
           "space": 45.65,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200303"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200303",
+          "isNew": false
         },
         {
           "roomNo": "305",
           "rent": 12.7,
           "floorPlan": "1LDK",
           "space": 50.45,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200305"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200305",
+          "isNew": false
         },
         {
           "roomNo": "202",
           "rent": 12.4,
           "floorPlan": "1LDK",
           "space": 45.65,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200202"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200202",
+          "isNew": false
         },
         {
           "roomNo": "203",
           "rent": 12.4,
           "floorPlan": "1LDK",
           "space": 45.65,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200203"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200203",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 12.3,
           "floorPlan": "1LDK",
           "space": 48.38,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200101"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200101",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 12.1,
           "floorPlan": "1LDK",
           "space": 45.65,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200102"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200102",
+          "isNew": false
         },
         {
           "roomNo": "103",
           "rent": 12.1,
           "floorPlan": "1LDK",
           "space": 45.65,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200103"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200103",
+          "isNew": false
         },
         {
           "roomNo": "105",
           "rent": 12.3,
           "floorPlan": "1LDK",
           "space": 50.45,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200105"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301620/1430020000133016200105",
+          "isNew": false
         }
       ]
     },
@@ -1463,28 +1594,32 @@
           "rent": 12.6,
           "floorPlan": "1LDK",
           "space": 41.5,
-          "url": "https://www.shamaison.com/saitama/area/11103/13282030/1430020000132820300301"
+          "url": "https://www.shamaison.com/saitama/area/11103/13282030/1430020000132820300301",
+          "isNew": false
         },
         {
           "roomNo": "305",
           "rent": 12.7,
           "floorPlan": "1LDK",
           "space": 41.5,
-          "url": "https://www.shamaison.com/saitama/area/11103/13282030/1430020000132820300305"
+          "url": "https://www.shamaison.com/saitama/area/11103/13282030/1430020000132820300305",
+          "isNew": false
         },
         {
           "roomNo": "205",
           "rent": 12.4,
           "floorPlan": "1LDK",
           "space": 41.5,
-          "url": "https://www.shamaison.com/saitama/area/11103/13282030/1430020000132820300205"
+          "url": "https://www.shamaison.com/saitama/area/11103/13282030/1430020000132820300205",
+          "isNew": false
         },
         {
           "roomNo": "105",
           "rent": 12.1,
           "floorPlan": "1LDK",
           "space": 41.5,
-          "url": "https://www.shamaison.com/saitama/area/11103/13282030/1430020000132820300105"
+          "url": "https://www.shamaison.com/saitama/area/11103/13282030/1430020000132820300105",
+          "isNew": false
         }
       ]
     },
@@ -1502,14 +1637,16 @@
           "rent": 12,
           "floorPlan": "1LDK",
           "space": 44.45,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301600/1430020000133016000303"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301600/1430020000133016000303",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 11.4,
           "floorPlan": "1LDK",
           "space": 44.02,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301600/1430020000133016000101"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301600/1430020000133016000101",
+          "isNew": false
         }
       ]
     },
@@ -1527,28 +1664,32 @@
           "rent": 11.2,
           "floorPlan": "1LDK",
           "space": 39.5,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301580/1430020000133015800301"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301580/1430020000133015800301",
+          "isNew": false
         },
         {
           "roomNo": "302",
           "rent": 13.9,
           "floorPlan": "1LDK",
           "space": 56.25,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301580/1430020000133015800302"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301580/1430020000133015800302",
+          "isNew": false
         },
         {
           "roomNo": "203",
           "rent": 12.5,
           "floorPlan": "1LDK",
           "space": 45.75,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301580/1430020000133015800203"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301580/1430020000133015800203",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 13.5,
           "floorPlan": "1LDK",
           "space": 56.25,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301580/1430020000133015800102"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301580/1430020000133015800102",
+          "isNew": false
         }
       ]
     },
@@ -1566,28 +1707,32 @@
           "rent": 13.9,
           "floorPlan": "1LDK",
           "space": 56.25,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301630/1430020000133016300302"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301630/1430020000133016300302",
+          "isNew": false
         },
         {
           "roomNo": "303",
           "rent": 12.7,
           "floorPlan": "1LDK",
           "space": 45.75,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301630/1430020000133016300303"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301630/1430020000133016300303",
+          "isNew": false
         },
         {
           "roomNo": "203",
           "rent": 12.5,
           "floorPlan": "1LDK",
           "space": 45.75,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301630/1430020000133016300203"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301630/1430020000133016300203",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 13.5,
           "floorPlan": "1LDK",
           "space": 56.25,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301630/1430020000133016300102"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301630/1430020000133016300102",
+          "isNew": false
         }
       ]
     },
@@ -1605,7 +1750,8 @@
           "rent": 12.6,
           "floorPlan": "1LDK",
           "space": 44.25,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301540/1430020000133015400101"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301540/1430020000133015400101",
+          "isNew": false
         }
       ]
     },
@@ -1623,7 +1769,8 @@
           "rent": 8.9,
           "floorPlan": "1LDK",
           "space": 45.5,
-          "url": "https://www.shamaison.com/saitama/area/11101/13301250/1430020000133012500202"
+          "url": "https://www.shamaison.com/saitama/area/11101/13301250/1430020000133012500202",
+          "isNew": false
         }
       ]
     },
@@ -1641,7 +1788,8 @@
           "rent": 13.4,
           "floorPlan": "2LDK",
           "space": 56.68,
-          "url": "https://www.shamaison.com/saitama/area/11103/13301050/1430020000133010500103"
+          "url": "https://www.shamaison.com/saitama/area/11103/13301050/1430020000133010500103",
+          "isNew": false
         }
       ]
     },
@@ -1659,14 +1807,16 @@
           "rent": 22.1,
           "floorPlan": "2LDK",
           "space": 78.84,
-          "url": "https://www.shamaison.com/saitama/area/11103/13300950/1430020000133009500307"
+          "url": "https://www.shamaison.com/saitama/area/11103/13300950/1430020000133009500307",
+          "isNew": false
         },
         {
           "roomNo": "206",
           "rent": 11.8,
           "floorPlan": "1LDK",
           "space": 51,
-          "url": "https://www.shamaison.com/saitama/area/11103/13300950/1430020000133009500206"
+          "url": "https://www.shamaison.com/saitama/area/11103/13300950/1430020000133009500206",
+          "isNew": false
         }
       ]
     },
@@ -1684,7 +1834,8 @@
           "rent": 12.8,
           "floorPlan": "2LDK",
           "space": 58.63,
-          "url": "https://www.shamaison.com/saitama/area/11102/13300780/1430020000133007800302"
+          "url": "https://www.shamaison.com/saitama/area/11102/13300780/1430020000133007800302",
+          "isNew": false
         }
       ]
     },
@@ -1702,7 +1853,8 @@
           "rent": 12.3,
           "floorPlan": "1LDK",
           "space": 48.25,
-          "url": "https://www.shamaison.com/saitama/area/11103/13300260/1430020000133002600306"
+          "url": "https://www.shamaison.com/saitama/area/11103/13300260/1430020000133002600306",
+          "isNew": false
         }
       ]
     },
@@ -1720,7 +1872,8 @@
           "rent": 12,
           "floorPlan": "2LDK",
           "space": 62,
-          "url": "https://www.shamaison.com/saitama/area/11103/13300020/1430020000133000200201"
+          "url": "https://www.shamaison.com/saitama/area/11103/13300020/1430020000133000200201",
+          "isNew": false
         }
       ]
     },
@@ -1738,7 +1891,8 @@
           "rent": 11.7,
           "floorPlan": "2LDK",
           "space": 57,
-          "url": "https://www.shamaison.com/saitama/area/11103/13109240/1430020000131092400301"
+          "url": "https://www.shamaison.com/saitama/area/11103/13109240/1430020000131092400301",
+          "isNew": false
         }
       ]
     },
@@ -1756,7 +1910,8 @@
           "rent": 8,
           "floorPlan": "1LDK",
           "space": 46.05,
-          "url": "https://www.shamaison.com/saitama/area/11104/13109050/1430020000131090500103"
+          "url": "https://www.shamaison.com/saitama/area/11104/13109050/1430020000131090500103",
+          "isNew": true
         }
       ]
     },
@@ -1774,35 +1929,40 @@
           "rent": 7.95,
           "floorPlan": "1K",
           "space": 31.89,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372510/1430020000133725100302"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372510/1430020000133725100302",
+          "isNew": false
         },
         {
           "roomNo": "303",
           "rent": 7.95,
           "floorPlan": "1K",
           "space": 30.7,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372510/1430020000133725100303"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372510/1430020000133725100303",
+          "isNew": false
         },
         {
           "roomNo": "202",
           "rent": 12.35,
           "floorPlan": "1LDK",
           "space": 48.32,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372510/1430020000133725100202"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372510/1430020000133725100202",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 10.35,
           "floorPlan": "1LDK",
           "space": 41.88,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372510/1430020000133725100101"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372510/1430020000133725100101",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 7.75,
           "floorPlan": "1K",
           "space": 33.99,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372510/1430020000133725100102"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372510/1430020000133725100102",
+          "isNew": false
         }
       ]
     },
@@ -1820,77 +1980,88 @@
           "rent": 17.6,
           "floorPlan": "2LDK",
           "space": 69.55,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400301"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400301",
+          "isNew": false
         },
         {
           "roomNo": "302",
           "rent": 12.4,
           "floorPlan": "1LDK",
           "space": 44.89,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400302"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400302",
+          "isNew": false
         },
         {
           "roomNo": "303",
           "rent": 12.7,
           "floorPlan": "1LDK",
           "space": 47.89,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400303"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400303",
+          "isNew": false
         },
         {
           "roomNo": "201",
           "rent": 17.4,
           "floorPlan": "2LDK",
           "space": 69.55,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400201"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400201",
+          "isNew": false
         },
         {
           "roomNo": "202",
           "rent": 12.2,
           "floorPlan": "1LDK",
           "space": 44.89,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400202"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400202",
+          "isNew": false
         },
         {
           "roomNo": "203",
           "rent": 12.5,
           "floorPlan": "1LDK",
           "space": 47.89,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400203"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400203",
+          "isNew": false
         },
         {
           "roomNo": "205",
           "rent": 12.5,
           "floorPlan": "1LDK",
           "space": 51.55,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400205"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400205",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 11.1,
           "floorPlan": "1LDK",
           "space": 46.01,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400101"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400101",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 11.1,
           "floorPlan": "1LDK",
           "space": 44.89,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400102"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400102",
+          "isNew": false
         },
         {
           "roomNo": "103",
           "rent": 11.4,
           "floorPlan": "1LDK",
           "space": 47.89,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400103"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400103",
+          "isNew": false
         },
         {
           "roomNo": "105",
           "rent": 11.4,
           "floorPlan": "1LDK",
           "space": 51.55,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400105"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372440/1430020000133724400105",
+          "isNew": false
         }
       ]
     },
@@ -1908,56 +2079,64 @@
           "rent": 12.75,
           "floorPlan": "1LDK",
           "space": 42.8,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500405"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500405",
+          "isNew": false
         },
         {
           "roomNo": "302",
           "rent": 11.95,
           "floorPlan": "1LDK",
           "space": 43.5,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500302"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500302",
+          "isNew": false
         },
         {
           "roomNo": "303",
           "rent": 12.75,
           "floorPlan": "1LDK",
           "space": 44,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500303"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500303",
+          "isNew": false
         },
         {
           "roomNo": "306",
           "rent": 13.95,
           "floorPlan": "1LDK",
           "space": 52.62,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500306"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500306",
+          "isNew": false
         },
         {
           "roomNo": "201",
           "rent": 18.55,
           "floorPlan": "2LDK",
           "space": 67.3,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500201"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500201",
+          "isNew": false
         },
         {
           "roomNo": "206",
           "rent": 13.15,
           "floorPlan": "1LDK",
           "space": 52.62,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500206"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500206",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 11.15,
           "floorPlan": "1LDK",
           "space": 43.5,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500102"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500102",
+          "isNew": false
         },
         {
           "roomNo": "106",
           "rent": 12.55,
           "floorPlan": "1LDK",
           "space": 52.62,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500106"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372250/1430020000133722500106",
+          "isNew": false
         }
       ]
     },
@@ -1975,35 +2154,40 @@
           "rent": 19.1,
           "floorPlan": "2LDK",
           "space": 65.93,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372430/1430020000133724300302"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372430/1430020000133724300302",
+          "isNew": false
         },
         {
           "roomNo": "205",
           "rent": 19.4,
           "floorPlan": "2LDK",
           "space": 66.54,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372430/1430020000133724300205"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372430/1430020000133724300205",
+          "isNew": false
         },
         {
           "roomNo": "101",
           "rent": 19.1,
           "floorPlan": "2LDK",
           "space": 67.97,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372430/1430020000133724300101"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372430/1430020000133724300101",
+          "isNew": false
         },
         {
           "roomNo": "103",
           "rent": 18.9,
           "floorPlan": "2LDK",
           "space": 66.54,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372430/1430020000133724300103"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372430/1430020000133724300103",
+          "isNew": false
         },
         {
           "roomNo": "105",
           "rent": 15.2,
           "floorPlan": "1LDK",
           "space": 54.78,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372430/1430020000133724300105"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372430/1430020000133724300105",
+          "isNew": false
         }
       ]
     },
@@ -2021,14 +2205,16 @@
           "rent": 10.7,
           "floorPlan": "1LDK",
           "space": 43.45,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372160/1430020000133721600205"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372160/1430020000133721600205",
+          "isNew": false
         },
         {
           "roomNo": "105",
           "rent": 10.4,
           "floorPlan": "1LDK",
           "space": 43.45,
-          "url": "https://www.shamaison.com/saitama/area/11201/13372160/1430020000133721600105"
+          "url": "https://www.shamaison.com/saitama/area/11201/13372160/1430020000133721600105",
+          "isNew": false
         }
       ]
     },
@@ -2046,7 +2232,8 @@
           "rent": 16,
           "floorPlan": "2LDK",
           "space": 69.7,
-          "url": "https://www.shamaison.com/saitama/area/11201/13371730/1430020000133717300205"
+          "url": "https://www.shamaison.com/saitama/area/11201/13371730/1430020000133717300205",
+          "isNew": false
         }
       ]
     },
@@ -2064,7 +2251,8 @@
           "rent": 10.5,
           "floorPlan": "1LDK",
           "space": 43.33,
-          "url": "https://www.shamaison.com/saitama/area/11201/13371630/1430020000133716300205"
+          "url": "https://www.shamaison.com/saitama/area/11201/13371630/1430020000133716300205",
+          "isNew": false
         }
       ]
     },
@@ -2082,7 +2270,8 @@
           "rent": 10.2,
           "floorPlan": "1LDK",
           "space": 44.04,
-          "url": "https://www.shamaison.com/saitama/area/11201/13371050/1430020000133710500101"
+          "url": "https://www.shamaison.com/saitama/area/11201/13371050/1430020000133710500101",
+          "isNew": false
         }
       ]
     },
@@ -2100,7 +2289,8 @@
           "rent": 9.8,
           "floorPlan": "2LDK",
           "space": 62.23,
-          "url": "https://www.shamaison.com/saitama/area/11201/13179910/1430020000131799100205"
+          "url": "https://www.shamaison.com/saitama/area/11201/13179910/1430020000131799100205",
+          "isNew": false
         }
       ]
     },
@@ -2118,7 +2308,8 @@
           "rent": 9.55,
           "floorPlan": "1LDK",
           "space": 46.96,
-          "url": "https://www.shamaison.com/saitama/area/11201/13179820/1430020000131798200202"
+          "url": "https://www.shamaison.com/saitama/area/11201/13179820/1430020000131798200202",
+          "isNew": false
         }
       ]
     },
@@ -2136,7 +2327,8 @@
           "rent": 7.4,
           "floorPlan": "1LDK",
           "space": 46.85,
-          "url": "https://www.shamaison.com/saitama/area/11201/13179450/1430020000131794500101"
+          "url": "https://www.shamaison.com/saitama/area/11201/13179450/1430020000131794500101",
+          "isNew": false
         }
       ]
     },
@@ -2154,7 +2346,8 @@
           "rent": 11.1,
           "floorPlan": "2LDK",
           "space": 64.74,
-          "url": "https://www.shamaison.com/saitama/area/11201/13178950/1430020000131789500106"
+          "url": "https://www.shamaison.com/saitama/area/11201/13178950/1430020000131789500106",
+          "isNew": false
         }
       ]
     },
@@ -2172,7 +2365,8 @@
           "rent": 7.7,
           "floorPlan": "2LDK",
           "space": 52.16,
-          "url": "https://www.shamaison.com/saitama/area/11219/13152650/1430020000131526500101"
+          "url": "https://www.shamaison.com/saitama/area/11219/13152650/1430020000131526500101",
+          "isNew": false
         }
       ]
     },
@@ -2190,7 +2384,8 @@
           "rent": 6,
           "floorPlan": "ワンルーム",
           "space": 31.77,
-          "url": "https://www.shamaison.com/saitama/area/11201/13176130/1430020000131761300105"
+          "url": "https://www.shamaison.com/saitama/area/11201/13176130/1430020000131761300105",
+          "isNew": false
         }
       ]
     },
@@ -2208,7 +2403,8 @@
           "rent": 6.8,
           "floorPlan": "1LDK",
           "space": 45.82,
-          "url": "https://www.shamaison.com/saitama/area/11201/13174090/1430020000131740900101"
+          "url": "https://www.shamaison.com/saitama/area/11201/13174090/1430020000131740900101",
+          "isNew": false
         }
       ]
     },
@@ -2226,7 +2422,8 @@
           "rent": 6.7,
           "floorPlan": "ワンルーム",
           "space": 29.75,
-          "url": "https://www.shamaison.com/saitama/area/11201/13173940/1430020000131739400103"
+          "url": "https://www.shamaison.com/saitama/area/11201/13173940/1430020000131739400103",
+          "isNew": false
         }
       ]
     },
@@ -2244,7 +2441,8 @@
           "rent": 6.7,
           "floorPlan": "1LDK",
           "space": 45.82,
-          "url": "https://www.shamaison.com/saitama/area/11201/13173540/1430020000131735400101"
+          "url": "https://www.shamaison.com/saitama/area/11201/13173540/1430020000131735400101",
+          "isNew": false
         }
       ]
     },
@@ -2262,7 +2460,8 @@
           "rent": 7,
           "floorPlan": "2LDK",
           "space": 61.63,
-          "url": "https://www.shamaison.com/saitama/area/11201/13171770/1430020000131717700202"
+          "url": "https://www.shamaison.com/saitama/area/11201/13171770/1430020000131717700202",
+          "isNew": false
         }
       ]
     },
@@ -2280,7 +2479,8 @@
           "rent": 6.1,
           "floorPlan": "2LDK",
           "space": 59.7,
-          "url": "https://www.shamaison.com/saitama/area/11346/13170430/1430020000131704300104"
+          "url": "https://www.shamaison.com/saitama/area/11346/13170430/1430020000131704300104",
+          "isNew": false
         }
       ]
     },
@@ -2298,7 +2498,8 @@
           "rent": 6.2,
           "floorPlan": "1LDK",
           "space": 44.3,
-          "url": "https://www.shamaison.com/saitama/area/11201/13072230/1430020000130722300101"
+          "url": "https://www.shamaison.com/saitama/area/11201/13072230/1430020000130722300101",
+          "isNew": false
         }
       ]
     },
@@ -2316,7 +2517,8 @@
           "rent": 6,
           "floorPlan": "3DK",
           "space": 56,
-          "url": "https://www.shamaison.com/saitama/area/11346/13072420/1430020000130724200201"
+          "url": "https://www.shamaison.com/saitama/area/11346/13072420/1430020000130724200201",
+          "isNew": false
         }
       ]
     },
@@ -2334,7 +2536,8 @@
           "rent": 5.9,
           "floorPlan": "2LDK",
           "space": 50,
-          "url": "https://www.shamaison.com/saitama/area/11346/13072160/1430020000130721600201"
+          "url": "https://www.shamaison.com/saitama/area/11346/13072160/1430020000130721600201",
+          "isNew": false
         }
       ]
     },
@@ -2352,7 +2555,8 @@
           "rent": 6.6,
           "floorPlan": "1LDK",
           "space": 44.3,
-          "url": "https://www.shamaison.com/saitama/area/11201/13071840/1430020000130718400202"
+          "url": "https://www.shamaison.com/saitama/area/11201/13071840/1430020000130718400202",
+          "isNew": false
         }
       ]
     },
@@ -2370,7 +2574,8 @@
           "rent": 5.6,
           "floorPlan": "2LDK",
           "space": 50.07,
-          "url": "https://www.shamaison.com/saitama/area/11201/13035320/1430020000130353200201"
+          "url": "https://www.shamaison.com/saitama/area/11201/13035320/1430020000130353200201",
+          "isNew": false
         }
       ]
     },
@@ -2388,7 +2593,8 @@
           "rent": 6.1,
           "floorPlan": "2LDK",
           "space": 48.84,
-          "url": "https://www.shamaison.com/saitama/area/11201/13023780/1430020000130237800202"
+          "url": "https://www.shamaison.com/saitama/area/11201/13023780/1430020000130237800202",
+          "isNew": false
         }
       ]
     },
@@ -2406,14 +2612,16 @@
           "rent": 6.3,
           "floorPlan": "2LDK",
           "space": 54.7,
-          "url": "https://www.shamaison.com/saitama/area/11201/13025750/1430020000130257500202"
+          "url": "https://www.shamaison.com/saitama/area/11201/13025750/1430020000130257500202",
+          "isNew": false
         },
         {
           "roomNo": "102",
           "rent": 6,
           "floorPlan": "2LDK",
           "space": 54.7,
-          "url": "https://www.shamaison.com/saitama/area/11201/13025750/1430020000130257500102"
+          "url": "https://www.shamaison.com/saitama/area/11201/13025750/1430020000130257500102",
+          "isNew": false
         }
       ]
     },
@@ -2431,7 +2639,8 @@
           "rent": 5.2,
           "floorPlan": "2K",
           "space": 43.7,
-          "url": "https://www.shamaison.com/saitama/area/11201/13024500/1430020000130245000102"
+          "url": "https://www.shamaison.com/saitama/area/11201/13024500/1430020000130245000102",
+          "isNew": false
         }
       ]
     },
@@ -2449,7 +2658,8 @@
           "rent": 3.4,
           "floorPlan": "1K",
           "space": 18,
-          "url": "https://www.shamaison.com/saitama/area/11201/13019820/1430020000130198200201"
+          "url": "https://www.shamaison.com/saitama/area/11201/13019820/1430020000130198200201",
+          "isNew": false
         }
       ]
     },
@@ -2467,7 +2677,8 @@
           "rent": 4,
           "floorPlan": "1K",
           "space": 19.46,
-          "url": "https://www.shamaison.com/saitama/area/11201/13188370/1430020000131883700303"
+          "url": "https://www.shamaison.com/saitama/area/11201/13188370/1430020000131883700303",
+          "isNew": false
         }
       ]
     },
@@ -2485,7 +2696,8 @@
           "rent": 4.2,
           "floorPlan": "3DK",
           "space": 42.36,
-          "url": "https://www.shamaison.com/saitama/area/11201/13018520/1430020000130185200205"
+          "url": "https://www.shamaison.com/saitama/area/11201/13018520/1430020000130185200205",
+          "isNew": false
         }
       ]
     },
@@ -2503,7 +2715,8 @@
           "rent": 4.2,
           "floorPlan": "1K",
           "space": 21.18,
-          "url": "https://www.shamaison.com/saitama/area/11201/13018770/1430020000130187700202"
+          "url": "https://www.shamaison.com/saitama/area/11201/13018770/1430020000130187700202",
+          "isNew": false
         }
       ]
     },
@@ -2521,7 +2734,8 @@
           "rent": 5.7,
           "floorPlan": "2K",
           "space": 43,
-          "url": "https://www.shamaison.com/saitama/area/11201/13017340/1430020000130173400101"
+          "url": "https://www.shamaison.com/saitama/area/11201/13017340/1430020000130173400101",
+          "isNew": false
         }
       ]
     },
@@ -2539,7 +2753,8 @@
           "rent": 4.5,
           "floorPlan": "2K",
           "space": 35,
-          "url": "https://www.shamaison.com/saitama/area/11201/13016580/1430020000130165800101"
+          "url": "https://www.shamaison.com/saitama/area/11201/13016580/1430020000130165800101",
+          "isNew": false
         }
       ]
     },
@@ -2557,14 +2772,16 @@
           "rent": 4.6,
           "floorPlan": "3K",
           "space": 42,
-          "url": "https://www.shamaison.com/saitama/area/11201/13016590/1430020000130165900101"
+          "url": "https://www.shamaison.com/saitama/area/11201/13016590/1430020000130165900101",
+          "isNew": false
         },
         {
           "roomNo": "103",
           "rent": 5.4,
           "floorPlan": "3K",
           "space": 42,
-          "url": "https://www.shamaison.com/saitama/area/11201/13016590/1430020000130165900103"
+          "url": "https://www.shamaison.com/saitama/area/11201/13016590/1430020000130165900103",
+          "isNew": false
         }
       ]
     },
@@ -2582,7 +2799,8 @@
           "rent": 6.7,
           "floorPlan": "3DK",
           "space": 45.5,
-          "url": "https://www.shamaison.com/saitama/area/11201/13012610/1430020000130126100202"
+          "url": "https://www.shamaison.com/saitama/area/11201/13012610/1430020000130126100202",
+          "isNew": false
         }
       ]
     },
@@ -2600,7 +2818,8 @@
           "rent": 3.6,
           "floorPlan": "1K",
           "space": 21,
-          "url": "https://www.shamaison.com/saitama/area/11201/13004000/1430020000130040000201"
+          "url": "https://www.shamaison.com/saitama/area/11201/13004000/1430020000130040000201",
+          "isNew": false
         }
       ]
     }

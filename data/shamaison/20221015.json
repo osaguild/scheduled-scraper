@@ -1,5 +1,5 @@
 {
-  "createdAt": "2022-10-15T10:56:53+09:00",
+  "createdAt": "2022-10-15T19:44:54+09:00",
   "stations": [
     {
       "name": "浦和駅",
@@ -418,7 +418,7 @@
         {
           "roomNo": "201",
           "rent": 15.4,
-          "floorPlan": "3LDK",
+          "floorPlan": "2SLDK",
           "space": 78.28,
           "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500201",
           "isNew": false
@@ -442,7 +442,7 @@
         {
           "roomNo": "204",
           "rent": 16.2,
-          "floorPlan": "3LDK",
+          "floorPlan": "2SLDK",
           "space": 86.62,
           "url": "https://www.shamaison.com/saitama/area/11109/13323550/1430020000133235500204",
           "isNew": false
@@ -504,7 +504,7 @@
           "floorPlan": "3LDK",
           "space": 77.84,
           "url": "https://www.shamaison.com/saitama/area/11109/13323560/1430020000133235600203",
-          "isNew": true
+          "isNew": false
         },
         {
           "roomNo": "103",
@@ -582,25 +582,6 @@
       ]
     },
     {
-      "name": "ラポール　シェノン",
-      "address": "埼玉県さいたま市中央区大戸５丁目６―１１",
-      "station": "北浦和駅",
-      "distance": "徒歩14分",
-      "yearBuilt": "2021-06-01T00:00:00+09:00",
-      "numberOfStairs": 2,
-      "url": "https://www.shamaison.com/saitama/area/11105/13322670/",
-      "rooms": [
-        {
-          "roomNo": "102",
-          "rent": 7.7,
-          "floorPlan": "1SK",
-          "space": 34.71,
-          "url": "https://www.shamaison.com/saitama/area/11105/13322670/1430020000133226700102",
-          "isNew": false
-        }
-      ]
-    },
-    {
       "name": "ゼブリナス元町",
       "address": "埼玉県さいたま市浦和区元町１丁目２７―８",
       "station": "北浦和駅",
@@ -615,7 +596,7 @@
           "floorPlan": "2LDK",
           "space": 59.5,
           "url": "https://www.shamaison.com/saitama/area/11107/13322370/1430020000133223700101",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -996,7 +977,7 @@
       "rooms": [
         {
           "roomNo": "102",
-          "rent": 5.7,
+          "rent": 5.5,
           "floorPlan": "1K",
           "space": 22.7,
           "url": "https://www.shamaison.com/saitama/area/11107/13034170/1430020000130341700102",
@@ -2176,7 +2157,7 @@
       "rooms": [
         {
           "roomNo": "205",
-          "rent": 10.6,
+          "rent": 10.5,
           "floorPlan": "1LDK",
           "space": 43.45,
           "url": "https://www.shamaison.com/saitama/area/11201/13372160/1430020000133721600205",
@@ -2184,7 +2165,7 @@
         },
         {
           "roomNo": "105",
-          "rent": 10.3,
+          "rent": 10.2,
           "floorPlan": "1LDK",
           "space": 43.45,
           "url": "https://www.shamaison.com/saitama/area/11201/13372160/1430020000133721600105",
@@ -2310,7 +2291,7 @@
           "floorPlan": "2LDK",
           "space": 66.95,
           "url": "https://www.shamaison.com/saitama/area/11201/13179820/1430020000131798200305",
-          "isNew": true
+          "isNew": false
         }
       ]
     },

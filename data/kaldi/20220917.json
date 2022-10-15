@@ -8,7 +8,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-13T00:00:00+09:00",
       "saleTo": "2022-09-19T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "ACTIVE_SALE",
@@ -17,7 +18,8 @@
       "saleName": "2周年記念セール",
       "saleFrom": "2022-09-14T00:00:00+09:00",
       "saleTo": "2022-09-20T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "ACTIVE_SALE",
@@ -26,7 +28,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-16T00:00:00+09:00",
       "saleTo": "2022-09-22T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "ACTIVE_SALE",
@@ -35,7 +38,8 @@
       "saleName": "16周年記念セール",
       "saleFrom": "2022-09-16T00:00:00+09:00",
       "saleTo": "2022-09-22T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "ACTIVE_SALE",
@@ -44,7 +48,8 @@
       "saleName": "14周年記念セール",
       "saleFrom": "2022-09-16T00:00:00+09:00",
       "saleTo": "2022-09-22T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "ACTIVE_SALE",
@@ -53,7 +58,8 @@
       "saleName": "11周年記念セール",
       "saleFrom": "2022-09-16T00:00:00+09:00",
       "saleTo": "2022-09-22T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -62,7 +68,8 @@
       "saleName": "11周年記念セール",
       "saleFrom": "2022-09-17T00:00:00+09:00",
       "saleTo": "2022-09-23T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -71,7 +78,8 @@
       "saleName": "12周年記念セール",
       "saleFrom": "2022-09-19T00:00:00+09:00",
       "saleTo": "2022-09-25T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -80,7 +88,8 @@
       "saleName": "5周年記念セール",
       "saleFrom": "2022-09-19T00:00:00+09:00",
       "saleTo": "2022-09-25T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -89,7 +98,8 @@
       "saleName": "4周年記念セール",
       "saleFrom": "2022-09-19T00:00:00+09:00",
       "saleTo": "2022-09-25T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -98,7 +108,8 @@
       "saleName": "3周年記念セール",
       "saleFrom": "2022-09-19T00:00:00+09:00",
       "saleTo": "2022-09-25T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -107,7 +118,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-19T00:00:00+09:00",
       "saleTo": "2022-09-25T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -116,7 +128,8 @@
       "saleName": "8周年記念セール",
       "saleFrom": "2022-09-19T00:00:00+09:00",
       "saleTo": "2022-09-25T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -125,7 +138,8 @@
       "saleName": "6周年記念セール",
       "saleFrom": "2022-09-20T00:00:00+09:00",
       "saleTo": "2022-09-26T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -134,7 +148,8 @@
       "saleName": "オープンセール",
       "saleFrom": "2022-09-20T00:00:00+09:00",
       "saleTo": "2022-09-26T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -143,7 +158,8 @@
       "saleName": "9周年記念セール",
       "saleFrom": "2022-09-21T00:00:00+09:00",
       "saleTo": "2022-09-27T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -152,7 +168,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-21T00:00:00+09:00",
       "saleTo": "2022-09-27T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -161,7 +178,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-21T00:00:00+09:00",
       "saleTo": "2022-09-27T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -170,7 +188,8 @@
       "saleName": "29周年記念セール",
       "saleFrom": "2022-09-21T00:00:00+09:00",
       "saleTo": "2022-09-27T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -179,7 +198,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-21T00:00:00+09:00",
       "saleTo": "2022-09-27T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -188,7 +208,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-22T00:00:00+09:00",
       "saleTo": "2022-09-28T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -197,7 +218,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-22T00:00:00+09:00",
       "saleTo": "2022-09-28T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -206,7 +228,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-22T00:00:00+09:00",
       "saleTo": "2022-09-28T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -215,7 +238,8 @@
       "saleName": "10周年記念セール",
       "saleFrom": "2022-09-22T00:00:00+09:00",
       "saleTo": "2022-09-28T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -224,7 +248,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-22T00:00:00+09:00",
       "saleTo": "2022-09-28T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -233,7 +258,8 @@
       "saleName": "9周年記念セール",
       "saleFrom": "2022-09-22T00:00:00+09:00",
       "saleTo": "2022-09-28T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -242,7 +268,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-22T00:00:00+09:00",
       "saleTo": "2022-09-28T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -251,7 +278,8 @@
       "saleName": "2周年記念セール",
       "saleFrom": "2022-09-22T00:00:00+09:00",
       "saleTo": "2022-09-28T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -260,7 +288,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-22T00:00:00+09:00",
       "saleTo": "2022-09-28T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -269,7 +298,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-22T00:00:00+09:00",
       "saleTo": "2022-09-28T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -278,7 +308,8 @@
       "saleName": "オープンセール",
       "saleFrom": "2022-09-22T00:00:00+09:00",
       "saleTo": "2022-09-28T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -287,7 +318,8 @@
       "saleName": "5周年記念セール",
       "saleFrom": "2022-09-23T00:00:00+09:00",
       "saleTo": "2022-09-29T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": true
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -296,7 +328,8 @@
       "saleName": "7周年記念セール",
       "saleFrom": "2022-09-23T00:00:00+09:00",
       "saleTo": "2022-09-29T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": true
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -305,7 +338,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-23T00:00:00+09:00",
       "saleTo": "2022-09-29T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": true
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -314,7 +348,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-23T00:00:00+09:00",
       "saleTo": "2022-09-29T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": true
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -323,7 +358,8 @@
       "saleName": "16周年記念セール",
       "saleFrom": "2022-09-23T00:00:00+09:00",
       "saleTo": "2022-09-29T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": true
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -332,7 +368,8 @@
       "saleName": "お客様感謝セール",
       "saleFrom": "2022-09-23T00:00:00+09:00",
       "saleTo": "2022-09-29T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": true
     },
     {
       "activeSale": "SALE_NOTICE",
@@ -341,7 +378,8 @@
       "saleName": "15周年記念セール",
       "saleFrom": "2022-09-23T00:00:00+09:00",
       "saleTo": "2022-09-29T00:00:00+09:00",
-      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF"
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": true
     }
   ]
 }

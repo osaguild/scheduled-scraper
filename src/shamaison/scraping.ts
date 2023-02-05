@@ -35,8 +35,9 @@ const scraping = async (driver: ThenableWebDriver, stations: Station[]) => {
       const _trs = await _tbody.findElements(By.css("tr"));
       // remove top row, which is not building information.
       _trs.shift();
+      const name = await _dt.findElement(By.css("a")).getText();
       return {
-        name: await _dt.findElement(By.css("a")).getText(),
+        name,
         address: await _dls[0].findElement(By.css("dd")).getText(),
         station: (await _dls[1].findElement(By.css("dd")).getText()).split(
           " "
@@ -53,27 +54,72 @@ const scraping = async (driver: ThenableWebDriver, stations: Station[]) => {
           (await _dls[3].findElement(By.css("dd")).getText()).slice(0, -3)
         ),
         url: await _dt.findElement(By.css("a")).getAttribute("href"),
-        rooms: await getRooms(_trs),
+        rooms: await getRooms(name, _trs),
       } as Building;
     });
     return await Promise.all(promises);
   };
 
   // get room information in building.
-  const getRooms = async (trs: WebElement[]) => {
+  const getRooms = async (buildingName: string, trs: WebElement[]) => {
     const promises = trs.map(async (e) => {
       // .listSearchBuildings > .tableBoxA01 > .listBoxDetail > tbody > tr > td
       const _tds = await e.findElements(By.css("td"));
-      return {
-        roomNo: (await _tds[0].findElement(By.css("a")).getText()).slice(0, -2),
-        rent: Number((await _tds[1].getText()).slice(0, -2)),
-        floorPlan: await _tds[2].findElement(By.css(".text01")).getText(),
-        space: Number(
+
+      let roomNo: string;
+      let rent: number;
+      let floorPlan: string;
+      let space: number;
+      let url: string;
+
+      try {
+        roomNo = (await _tds[0].findElement(By.css("a")).getText()).slice(
+          0,
+          -2
+        );
+      } catch (e) {
+        console.error(`roomNo get error ${buildingName}`);
+        roomNo = "";
+      }
+
+      try {
+        rent = Number((await _tds[1].getText()).slice(0, -2));
+      } catch (e) {
+        console.error(`rent get error ${buildingName}`);
+        rent = 0;
+      }
+
+      try {
+        floorPlan = await _tds[2].findElement(By.css(".text01")).getText();
+      } catch (e) {
+        console.error(`floorPlan get error ${buildingName}`);
+        floorPlan = "";
+      }
+
+      try {
+        space = Number(
           (await _tds[2].findElement(By.css(".tabBlock")).getText())
             .slice(1)
             .slice(0, -3)
-        ),
-        url: await _tds[0].findElement(By.css("a")).getAttribute("href"),
+        );
+      } catch (e) {
+        console.error(`space get error ${buildingName}`);
+        space = 0;
+      }
+
+      try {
+        url = await _tds[0].findElement(By.css("a")).getAttribute("href");
+      } catch (e) {
+        console.error(`url get error ${buildingName}`);
+        url = "";
+      }
+
+      return {
+        roomNo,
+        rent,
+        floorPlan,
+        space,
+        url,
       } as Room;
     });
     return await Promise.all(promises);

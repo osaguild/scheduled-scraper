@@ -1,0 +1,95 @@
+{
+  "createdAt": "2023-02-07T17:05:46+09:00",
+  "data": [
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "港北東急SC店",
+      "shopAddress": "神奈川県横浜市都筑区茅ケ崎中央5番1号　港北東急SC 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-02-02T00:00:00+09:00",
+      "saleTo": "2023-02-08T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "フレルさぎ沼店",
+      "shopAddress": "神奈川県川崎市宮前区鷺沼1-1　フレルさぎ沼 2F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-02-02T00:00:00+09:00",
+      "saleTo": "2023-02-08T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンモール白山店",
+      "shopAddress": "石川県白山市横江町土地区画整理事業施行地区内1街区　イオンモール白山 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-02-02T00:00:00+09:00",
+      "saleTo": "2023-02-08T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "カナートモール和泉府中店",
+      "shopAddress": "大阪府泉大津市東豊中町1-5-10　カナートモール和泉府中 1F",
+      "saleName": "4周年記念セール",
+      "saleFrom": "2023-02-06T00:00:00+09:00",
+      "saleTo": "2023-02-12T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "大泉学園店【2/13（月）閉店】",
+      "shopAddress": "東京都練馬区東大泉5-43-1　ゆめりあフェンテ 2F",
+      "saleName": "閉店セール",
+      "saleFrom": "2023-02-07T00:00:00+09:00",
+      "saleTo": "2023-02-13T00:00:00+09:00",
+      "saleDetail": "商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "ゆめタウン福山店",
+      "shopAddress": "広島県福山市入船町3-1-60　ゆめタウン福山店 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-02-09T00:00:00+09:00",
+      "saleTo": "2023-02-15T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "岐阜店【2/16（木）～ 一時休業】",
+      "shopAddress": "岐阜県岐阜市正木中1-2-1　マーサ21SC 1F",
+      "saleName": "売りつくしセール",
+      "saleFrom": "2023-02-09T00:00:00+09:00",
+      "saleTo": "2023-02-15T00:00:00+09:00",
+      "saleDetail": "商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "トキハわさだタウン店【2/20～4月下旬 一時休業】",
+      "shopAddress": "大分県大分市大字玉沢 　トキハわさだタウン2街区ショッピングタウン 1F",
+      "saleName": "売りつくしセール",
+      "saleFrom": "2023-02-13T00:00:00+09:00",
+      "saleTo": "2023-02-19T00:00:00+09:00",
+      "saleDetail": "商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "三井アウトレットパーク 木更津店",
+      "shopAddress": "千葉県木更津市金田東3-1-1　三井アウトレットパーク 木更津 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-02-14T00:00:00+09:00",
+      "saleTo": "2023-02-20T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": true
+    }
+  ]
+}

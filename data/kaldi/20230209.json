@@ -1,0 +1,115 @@
+{
+  "createdAt": "2023-02-09T17:06:00+09:00",
+  "data": [
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "カナートモール和泉府中店",
+      "shopAddress": "大阪府泉大津市東豊中町1-5-10　カナートモール和泉府中 1F",
+      "saleName": "4周年記念セール",
+      "saleFrom": "2023-02-06T00:00:00+09:00",
+      "saleTo": "2023-02-12T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "大泉学園店【2/13（月）閉店】",
+      "shopAddress": "東京都練馬区東大泉5-43-1　ゆめりあフェンテ 2F",
+      "saleName": "閉店セール",
+      "saleFrom": "2023-02-07T00:00:00+09:00",
+      "saleTo": "2023-02-13T00:00:00+09:00",
+      "saleDetail": "商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "岐阜店【2/16（木）～ 一時休業】",
+      "shopAddress": "岐阜県岐阜市正木中1-2-1　マーサ21SC 1F",
+      "saleName": "売りつくしセール",
+      "saleFrom": "2023-02-09T00:00:00+09:00",
+      "saleTo": "2023-02-15T00:00:00+09:00",
+      "saleDetail": "商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "ゆめタウン福山店",
+      "shopAddress": "広島県福山市入船町3-1-60　ゆめタウン福山店 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-02-09T00:00:00+09:00",
+      "saleTo": "2023-02-15T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "トキハわさだタウン店【2/20～4月下旬 一時休業】",
+      "shopAddress": "大分県大分市大字玉沢 　トキハわさだタウン2街区ショッピングタウン 1F",
+      "saleName": "売りつくしセール",
+      "saleFrom": "2023-02-13T00:00:00+09:00",
+      "saleTo": "2023-02-19T00:00:00+09:00",
+      "saleDetail": "商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "三井アウトレットパーク 木更津店",
+      "shopAddress": "千葉県木更津市金田東3-1-1　三井アウトレットパーク 木更津 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-02-14T00:00:00+09:00",
+      "saleTo": "2023-02-20T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "ゆめタウン出雲店",
+      "shopAddress": "島根県出雲市大塚町650-1　ゆめタウン出雲 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-02-15T00:00:00+09:00",
+      "saleTo": "2023-02-21T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "梅ヶ丘店",
+      "shopAddress": "東京都世田谷区梅丘1-20-14　シャトー梅ヶ丘 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-02-15T00:00:00+09:00",
+      "saleTo": "2023-02-21T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "フジグラン広島店",
+      "shopAddress": "広島県広島市中区宝町2-1　フジグラン広島 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-02-15T00:00:00+09:00",
+      "saleTo": "2023-02-21T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "エスパル仙台店",
+      "shopAddress": "宮城県仙台市青葉区中央1-1-1　エスパル仙台 本館 B1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-02-15T00:00:00+09:00",
+      "saleTo": "2023-02-21T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "PRALIVA（プラリバ）店",
+      "shopAddress": "福岡県福岡市早良区西新4-1-1　PRALIVA B1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-02-16T00:00:00+09:00",
+      "saleTo": "2023-02-22T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": true
+    }
+  ]
+}

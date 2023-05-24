@@ -1,0 +1,595 @@
+{
+  "createdAt": "2023-05-24T17:18:14+09:00",
+  "data": [
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "なんばマルイ店",
+      "shopAddress": "大阪府大阪市中央区難波3-8-9　なんばマルイ B1F",
+      "saleName": "14周年記念セール",
+      "saleFrom": "2023-05-18T00:00:00+09:00",
+      "saleTo": "2023-05-24T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "港南台バーズ店",
+      "shopAddress": "神奈川県横浜市港南区港南台3-1-3　港南台バーズ 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-18T00:00:00+09:00",
+      "saleTo": "2023-05-24T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "新静岡セノバ店",
+      "shopAddress": "静岡県静岡市葵区鷹匠1-1-1　新静岡セノバ B1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-18T00:00:00+09:00",
+      "saleTo": "2023-05-24T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "アピタタウン稲沢店",
+      "shopAddress": "愛知県稲沢市天池五反田町1番地　アピタタウン稲沢 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-18T00:00:00+09:00",
+      "saleTo": "2023-05-24T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "ココネリ練馬北口店",
+      "shopAddress": "東京都練馬区練馬1-17-1　Coconeri 2F",
+      "saleName": "9周年記念セール",
+      "saleFrom": "2023-05-18T00:00:00+09:00",
+      "saleTo": "2023-05-24T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "ゆめタウン高松店",
+      "shopAddress": "香川県高松市三条町608-1　ゆめタウン高松 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-18T00:00:00+09:00",
+      "saleTo": "2023-05-24T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "西神中央プレンティ店",
+      "shopAddress": "兵庫県神戸市西区糀台5-2-3　プレンティ 一番館 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-18T00:00:00+09:00",
+      "saleTo": "2023-05-24T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "三軒茶屋　茶沢通り店",
+      "shopAddress": "東京都世田谷区太子堂2-17-6　第5カスタムビル 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-18T00:00:00+09:00",
+      "saleTo": "2023-05-24T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "五反田東急スクエア店",
+      "shopAddress": "東京都品川区東五反田2-1-2　 五反田東急スクエア 3F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-18T00:00:00+09:00",
+      "saleTo": "2023-05-24T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオン千歳店",
+      "shopAddress": "北海道千歳市栄町6-51 　イオン千歳 1F",
+      "saleName": "10周年記念セール",
+      "saleFrom": "2023-05-19T00:00:00+09:00",
+      "saleTo": "2023-05-25T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンモール川口店",
+      "shopAddress": "埼玉県川口市安行領根岸3180　イオンモール川口 1F",
+      "saleName": "2周年記念セール",
+      "saleFrom": "2023-05-19T00:00:00+09:00",
+      "saleTo": "2023-05-25T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "岡山一番街店",
+      "shopAddress": "岡山県岡山市北区駅元町一番街地下6号",
+      "saleName": "5周年記念セール",
+      "saleFrom": "2023-05-19T00:00:00+09:00",
+      "saleTo": "2023-05-25T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "アピタ新潟西店",
+      "shopAddress": "新潟県新潟市西区小新5-7-21　アピタ新潟西 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-19T00:00:00+09:00",
+      "saleTo": "2023-05-25T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "マリナタウン店",
+      "shopAddress": "福岡県福岡市西区豊浜3-1-10 　イオンマリナタウン 2F",
+      "saleName": "11周年記念セール",
+      "saleFrom": "2023-05-19T00:00:00+09:00",
+      "saleTo": "2023-05-25T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンモール新居浜店",
+      "shopAddress": "愛媛県新居浜市前田町8-8　イオンモール新居浜 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-19T00:00:00+09:00",
+      "saleTo": "2023-05-25T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンモール筑紫野店",
+      "shopAddress": "福岡県筑紫野市立明寺434-1　イオンモール筑紫野 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-19T00:00:00+09:00",
+      "saleTo": "2023-05-25T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンモール土浦店",
+      "shopAddress": "茨城県土浦市上高津367番地　イオンモール土浦 1F",
+      "saleName": "14周年記念セール",
+      "saleFrom": "2023-05-19T00:00:00+09:00",
+      "saleTo": "2023-05-25T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンモール浦和美園店",
+      "shopAddress": "埼玉県さいたま市緑区美園5-50-1　イオンモール浦和美園 1F",
+      "saleName": "17周年記念セール",
+      "saleFrom": "2023-05-19T00:00:00+09:00",
+      "saleTo": "2023-05-25T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンモール宮崎店",
+      "shopAddress": "宮崎県宮崎市新別府町江口862-1　イオンモール宮崎 1F",
+      "saleName": "18周年記念セール",
+      "saleFrom": "2023-05-20T00:00:00+09:00",
+      "saleTo": "2023-05-26T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンスタイル仙台卸町店",
+      "shopAddress": "宮城県仙台市若林区卸町1-1-1　イオンスタイル仙台卸町 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-20T00:00:00+09:00",
+      "saleTo": "2023-05-26T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "長崎浜町店",
+      "shopAddress": "長崎県長崎市浜町4-11　ハマクロス411 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-22T00:00:00+09:00",
+      "saleTo": "2023-05-28T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "蔦屋書店熊本三年坂店",
+      "shopAddress": "熊本県熊本市中央区安政町1-2　蔦屋書店熊本三年坂 1F",
+      "saleName": "7周年記念セール",
+      "saleFrom": "2023-05-22T00:00:00+09:00",
+      "saleTo": "2023-05-28T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンタウン成田富里店",
+      "shopAddress": "千葉県成田市東町133番地　イオンタウン成田富里 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-22T00:00:00+09:00",
+      "saleTo": "2023-05-28T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "カラフルタウン岐阜店",
+      "shopAddress": "岐阜県岐阜市柳津町丸野3-3-6　カラフルタウン岐阜 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-22T00:00:00+09:00",
+      "saleTo": "2023-05-28T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "深谷店",
+      "shopAddress": "埼玉県深谷市上柴町西4-2-14　アリオ深谷 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-22T00:00:00+09:00",
+      "saleTo": "2023-05-28T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンモール倉敷店",
+      "shopAddress": "岡山県倉敷市水江1番地 　イオンモール倉敷 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-23T00:00:00+09:00",
+      "saleTo": "2023-05-29T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "フジグラン緑井店",
+      "shopAddress": "広島県広島市安佐南区緑井1-5-2　フジグラン緑井 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-23T00:00:00+09:00",
+      "saleTo": "2023-05-29T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンモール京都桂川店",
+      "shopAddress": "京都府京都市南区久世高田町376番1　イオンモール京都桂川 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-23T00:00:00+09:00",
+      "saleTo": "2023-05-29T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンタウン千種店",
+      "shopAddress": "愛知県名古屋市千種区千種2-16-13　イオンタウン千種 1F",
+      "saleName": "18周年記念セール",
+      "saleFrom": "2023-05-23T00:00:00+09:00",
+      "saleTo": "2023-05-29T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "西新井店",
+      "shopAddress": "東京都足立区西新井栄町1-20-1　アリオ西新井 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-23T00:00:00+09:00",
+      "saleTo": "2023-05-29T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "アピタ高蔵寺店",
+      "shopAddress": "愛知県春日井市中央台2-5　アピタ高蔵寺 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-23T00:00:00+09:00",
+      "saleTo": "2023-05-29T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "レイリア大橋店",
+      "shopAddress": "福岡県福岡市南区大橋1-5-1　レイリア大橋 2F",
+      "saleName": "5周年記念セール",
+      "saleFrom": "2023-05-23T00:00:00+09:00",
+      "saleTo": "2023-05-29T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "FKDインターパーク店",
+      "shopAddress": "栃木県宇都宮市インターパーク6-1-1　FKDインターパーク 1F",
+      "saleName": "2周年記念セール",
+      "saleFrom": "2023-05-23T00:00:00+09:00",
+      "saleTo": "2023-05-29T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "エミル高槻店",
+      "shopAddress": "大阪府高槻市城北町2-1-18　エミル高槻 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "ららぽーと立川立飛店",
+      "shopAddress": "東京都立川市泉町935-1　ららぽーと立川立飛 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "エキア プレミエ 和光店",
+      "shopAddress": "埼玉県和光市本町4-7　エキア プレミエ 和光 1F",
+      "saleName": "3周年記念セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "ゆめタウン東広島店",
+      "shopAddress": "広島県東広島市西条土与丸1-5-7　ゆめタウン東広島 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "船橋東武店",
+      "shopAddress": "千葉県船橋市本町7-1-1　東武百貨店 船橋店 2F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "上本町YUFURA店",
+      "shopAddress": "大阪府大阪市天王寺区上本町6-5-13　上本町YUFURA 1F",
+      "saleName": "オープンセール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": true
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "富士南店",
+      "shopAddress": "静岡県富士市鮫島118-10　イオンタウン富士南 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "長津田店",
+      "shopAddress": "神奈川県横浜市緑区長津田みなみ台4-7-1　アピタ長津田 1F",
+      "saleName": "15周年記念セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "岡崎店",
+      "shopAddress": "愛知県岡崎市戸崎町字外山38-5　イオンモール岡崎 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "ららぽーと柏の葉店",
+      "shopAddress": "千葉県柏市若柴175　ららぽーと柏の葉 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "せんげん台トスカ店",
+      "shopAddress": "埼玉県越谷市千間台西1-67　せんげん台トスカ 2F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "宮原店",
+      "shopAddress": "埼玉県さいたま市北区宮原町1-854-1　ステラモール 1F",
+      "saleName": "19周年記念セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "イオンモール多摩平の森店",
+      "shopAddress": "東京都日野市多摩平2-4-1　イオンモール多摩平の森 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "ACTIVE_SALE",
+      "shopName": "ゼスト御池店",
+      "shopAddress": "京都府京都市中京区御池通 寺町東入下本能寺前町492-1 　ゼスト御池 B1F",
+      "saleName": "11周年記念セール",
+      "saleFrom": "2023-05-24T00:00:00+09:00",
+      "saleTo": "2023-05-30T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "イオンモール福津店",
+      "shopAddress": "福岡県福津市日蒔野6-16-1　イオンモール福津 1F",
+      "saleName": "11周年記念セール",
+      "saleFrom": "2023-05-25T00:00:00+09:00",
+      "saleTo": "2023-05-31T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "板橋区役所前店",
+      "shopAddress": "東京都板橋区仲宿60番13号　ブルックサイド 1F",
+      "saleName": "11周年記念セール",
+      "saleFrom": "2023-05-25T00:00:00+09:00",
+      "saleTo": "2023-05-31T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "用賀店",
+      "shopAddress": "東京都世田谷区用賀4-11-13　近藤ビル 1F",
+      "saleName": "9周年記念セール",
+      "saleFrom": "2023-05-25T00:00:00+09:00",
+      "saleTo": "2023-05-31T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "パークプレイス大分店",
+      "shopAddress": "大分県大分市公園通り西2-1　パークプレイス大分 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-25T00:00:00+09:00",
+      "saleTo": "2023-05-31T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "江坂店",
+      "shopAddress": "大阪府吹田市豊津町9番40　カリーノ江坂 1F",
+      "saleName": "12周年記念セール",
+      "saleFrom": "2023-05-25T00:00:00+09:00",
+      "saleTo": "2023-05-31T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "武蔵小山店",
+      "shopAddress": "東京都品川区小山3-23-4　やまとビル",
+      "saleName": "25周年記念セール",
+      "saleFrom": "2023-05-25T00:00:00+09:00",
+      "saleTo": "2023-05-31T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "海老名店",
+      "shopAddress": "神奈川県海老名市中央1-6-1　マルイファミリー海老名 1F",
+      "saleName": "21周年記念セール",
+      "saleFrom": "2023-05-25T00:00:00+09:00",
+      "saleTo": "2023-05-31T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "下北沢店",
+      "shopAddress": "東京都世田谷区北沢2-25-19　ピアザ近江屋ビル 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-25T00:00:00+09:00",
+      "saleTo": "2023-05-31T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "ララガーデン長町店",
+      "shopAddress": "宮城県仙台市太白区長町7-20-5　ララガーデン長町 1F",
+      "saleName": "お客様感謝セール",
+      "saleFrom": "2023-05-25T00:00:00+09:00",
+      "saleTo": "2023-05-31T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "イオン久里浜店",
+      "shopAddress": "神奈川県横須賀市久里浜5-13-1　イオン横須賀久里浜SC 1F",
+      "saleName": "14周年記念セール",
+      "saleFrom": "2023-05-25T00:00:00+09:00",
+      "saleTo": "2023-05-31T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "イオンモール日根野店【5/25（木）オープン】",
+      "shopAddress": "大阪府泉佐野市日根野2496-1 イオンモール日根野 1F",
+      "saleName": "オープンセール",
+      "saleFrom": "2023-05-25T00:00:00+09:00",
+      "saleTo": "2023-05-31T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    },
+    {
+      "activeSale": "SALE_NOTICE",
+      "shopName": "イオン北見店",
+      "shopAddress": "北海道北見市北進町1-1-1　イオン北見 1F",
+      "saleName": "7周年記念セール",
+      "saleFrom": "2023-05-25T00:00:00+09:00",
+      "saleTo": "2023-05-31T00:00:00+09:00",
+      "saleDetail": "コーヒー豆半額（一部除外品あり）／商品10%OFF",
+      "isNew": false
+    }
+  ]
+}
